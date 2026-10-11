@@ -1,0 +1,100 @@
+{
+  "title": "Sample Quiz",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which of these are primary colors in the traditional RYB model?",
+      "choices": [
+        { "id": "a", "text": "Red" },
+        { "id": "b", "text": "Green" },
+        { "id": "c", "text": "Blue" },
+        { "id": "d", "text": "Yellow" }
+      ],
+      "correct": ["a", "c", "d"],
+      "rationale": "The traditional RYB model uses red, yellow and blue. Green is a secondary color made by mixing blue and yellow."
+    },
+    {
+      "id": "q2",
+      "question": "What is the capital of Australia?",
+      "choices": [
+        { "id": "a", "text": "Sydney" },
+        { "id": "b", "text": "Canberra" },
+        { "id": "c", "text": "Melbourne" },
+        { "id": "d", "text": "Perth" }
+      ],
+      "correct": ["b"],
+      "rationale": "Canberra was purpose-built as the capital as a compromise between rivals Sydney and Melbourne."
+    },
+    {
+      "id": "q3",
+      "question": "Which of the following are prime numbers?",
+      "choices": [
+        { "id": "a", "text": "2" },
+        { "id": "b", "text": "9" },
+        { "id": "c", "text": "11" },
+        { "id": "d", "text": "15" },
+        { "id": "e", "text": "17" }
+      ],
+      "correct": ["a", "c", "e"],
+      "rationale": "2, 11 and 17 have no divisors other than 1 and themselves. 9 = 3x3 and 15 = 3x5."
+    },
+    {
+      "id": "q4",
+      "question": "Which HTML tag is used for the largest heading?",
+      "choices": [
+        { "id": "a", "text": "<h6>" },
+        { "id": "b", "text": "<head>" },
+        { "id": "c", "text": "<h1>" },
+        { "id": "d", "text": "<header>" }
+      ],
+      "correct": ["c"],
+      "rationale": "<h1> is the top-level heading. <h6> is the smallest, and <head> and <header> are not headings."
+    },
+    {
+      "id": "q5",
+      "question": "Which of these planets have rings?",
+      "choices": [
+        { "id": "a", "text": "Saturn" },
+        { "id": "b", "text": "Mars" },
+        { "id": "c", "text": "Jupiter" },
+        { "id": "d", "text": "Neptune" }
+      ],
+      "correct": ["a", "c", "d"],
+      "rationale": "Saturn's rings are the most famous, but Jupiter, Uranus and Neptune all have ring systems too. Mars has none."
+    },
+    {
+      "id": "q6",
+      "question": "Which data structure uses first-in, first-out (FIFO) ordering?",
+      "choices": [
+        { "id": "a", "text": "Stack" },
+        { "id": "b", "text": "Queue" },
+        { "id": "c", "text": "Binary tree" }
+      ],
+      "correct": ["b"],
+      "rationale": "A queue removes the oldest item first. A stack is last-in, first-out."
+    },
+    {
+      "id": "q7",
+      "question": "Which of these are JavaScript frameworks or libraries?",
+      "choices": [
+        { "id": "a", "text": "React" },
+        { "id": "b", "text": "Django" },
+        { "id": "c", "text": "Vue" },
+        { "id": "d", "text": "Rails" }
+      ],
+      "correct": ["a", "c"],
+      "rationale": "React and Vue are JavaScript UI libraries. Django is a Python framework and Rails is a Ruby framework."
+    },
+    {
+      "id": "q8",
+      "question": "What is the boiling point of water at sea level in degrees Celsius?",
+      "choices": [
+        { "id": "a", "text": "90" },
+        { "id": "b", "text": "100" },
+        { "id": "c", "text": "110" }
+      ],
+      "correct": ["b"],
+      "rationale": "Water boils at 100 C (212 F) at standard atmospheric pressure. It boils at lower temperatures at altitude."
+    }
+  ]
+}

@@ -1,3 +1,67 @@
+import { Navigate } from 'react-router-dom';
+import ChoiceList from './ChoiceList';
+import { useQuiz } from './QuizContext';
+import RationalePanel from './RationalePanel';
+import TimerBar from './TimerBar';
+import { useCountdown } from './useCountdown';
+import { isMultiSelect } from './types';
+
 export default function QuizPage() {
-  return <h1>Quiz (placeholder)</h1>;
+  const { state, dispatch } = useQuiz();
+  const remainingQuestion = useCountdown(state.questionDeadline, () =>
+    dispatch({ type: 'submit', timedOut: true }),
+  );
+  const remainingOverall = useCountdown(state.overallDeadline, () => dispatch({ type: 'finish' }));
+
+  if (state.status === 'idle') return <Navigate to="/" replace />;
+  if (state.status === 'finished') return <Navigate to="/results" replace />;
+
+  const { settings, questions, index, phase, selected, answers } = state;
+  const question = questions[index];
+  const reviewing = phase === 'reviewing';
+  const earned = answers.reduce((n, a) => n + a.score, 0);
+  const possible = answers.reduce((n, a) => n + a.max, 0);
+
+  return (
+    <div className="card">
+      <div className="quiz-meta">
+        <span>
+          Question {index + 1} of {questions.length}
+        </span>
+        <span>
+          Score: {earned} / {possible}
+        </span>
+      </div>
+      {settings?.timerMode === 'per-question' && !reviewing && (
+        <TimerBar remainingMs={remainingQuestion} totalSeconds={settings.seconds} label="Time left" />
+      )}
+      {settings?.timerMode === 'overall' && (
+        <TimerBar remainingMs={remainingOverall} totalSeconds={settings.seconds} label="Quiz time left" />
+      )}
+      <h1 className="question-text">{question.question}</h1>
+      {isMultiSelect(question) && <p className="hint">Select all that apply.</p>}
+      <ChoiceList
+        question={question}
+        selected={selected}
+        reviewing={reviewing}
+        onToggle={(choiceId) => dispatch({ type: 'toggle', choiceId })}
+      />
+      {reviewing ? (
+        <RationalePanel
+          question={question}
+          answer={answers[answers.length - 1]}
+          isLast={index + 1 >= questions.length}
+          onNext={() => dispatch({ type: 'next', now: Date.now() })}
+        />
+      ) : (
+        <button
+          className="btn btn-primary"
+          disabled={selected.length === 0}
+          onClick={() => dispatch({ type: 'submit' })}
+        >
+          Submit answer
+        </button>
+      )}
+    </div>
+  );
 }
