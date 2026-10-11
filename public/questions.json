@@ -1,100 +1,4503 @@
 {
-  "title": "Sample Quiz",
+  "title": "Med-Surg Cardiovascular (Ch 35, 37, 39, 40, 41)",
   "questions": [
     {
-      "id": "q1",
-      "question": "Which of these are primary colors in the traditional RYB model?",
+      "id": "ch35-q1",
+      "question": "An older adult patient who has just arrived in the emergency department has a pulse deficit of 46 beats. Which intervention would the nurse anticipate for this patient?",
       "choices": [
-        { "id": "a", "text": "Red" },
-        { "id": "b", "text": "Green" },
-        { "id": "c", "text": "Blue" },
-        { "id": "d", "text": "Yellow" }
+        {
+          "id": "a",
+          "text": "Cardiac catheterization"
+        },
+        {
+          "id": "b",
+          "text": "Hourly blood pressure checks"
+        },
+        {
+          "id": "c",
+          "text": "Electrocardiographic monitoring"
+        },
+        {
+          "id": "d",
+          "text": "Emergent synchronized cardioversion"
+        }
       ],
-      "correct": ["a", "c", "d"],
-      "rationale": "The traditional RYB model uses red, yellow and blue. Green is a secondary color made by mixing blue and yellow."
+      "correct": [
+        "c"
+      ],
+      "rationale": "Pulse deficit is a difference between simultaneously obtained apical and radial pulses. It indicates that there may be a cardiac dysrhythmia that would best be detected with ECG monitoring. Frequent BP monitoring, cardiac catheterization, and emergent cardioversion are used for diagnosis and/or treatment of cardiovascular disorders but would not be as helpful in determining the immediate reason for the pulse deficit."
     },
     {
-      "id": "q2",
-      "question": "What is the capital of Australia?",
+      "id": "ch35-q2",
+      "question": "During a physical examination of an older patient, the nurse palpates the point of maximal impulse (PMI) in the sixth intercostal space lateral to the left midclavicular line. Which action is the most specific way for the nurse to follow up on this finding?",
       "choices": [
-        { "id": "a", "text": "Sydney" },
-        { "id": "b", "text": "Canberra" },
-        { "id": "c", "text": "Melbourne" },
-        { "id": "d", "text": "Perth" }
+        {
+          "id": "a",
+          "text": "Ask about risk factors for atherosclerosis."
+        },
+        {
+          "id": "b",
+          "text": "Determine family history of heart disease."
+        },
+        {
+          "id": "c",
+          "text": "Assess for symptoms of ventricular hypertrophy."
+        },
+        {
+          "id": "d",
+          "text": "Auscultate carotid arteries for the presence of a bruit."
+        }
       ],
-      "correct": ["b"],
-      "rationale": "Canberra was purpose-built as the capital as a compromise between rivals Sydney and Melbourne."
+      "correct": [
+        "c"
+      ],
+      "rationale": "The PMI should be felt at the intersection of the fifth intercostal space and left midclavicular line. A PMI found outside these landmarks indicates possible cardiac enlargement, such as with left ventricular hypertrophy (LVH). The other assessments are part of a general cardiac assessment but do not represent follow-up for LVH. Cardiac enlargement is not necessarily associated with atherosclerosis or carotid artery disease."
     },
     {
-      "id": "q3",
-      "question": "Which of the following are prime numbers?",
+      "id": "ch35-q3",
+      "question": "How would the nurse listen to auscultate for S3 or S4 gallops in the mitral area?",
       "choices": [
-        { "id": "a", "text": "2" },
-        { "id": "b", "text": "9" },
-        { "id": "c", "text": "11" },
-        { "id": "d", "text": "15" },
-        { "id": "e", "text": "17" }
+        {
+          "id": "a",
+          "text": "Use the diaphragm of the stethoscope with the patient lying flat."
+        },
+        {
+          "id": "b",
+          "text": "Use the bell of the stethoscope with the patient in the left lateral position."
+        },
+        {
+          "id": "c",
+          "text": "Use the diaphragm of the stethoscope with the patient in a supine position."
+        },
+        {
+          "id": "d",
+          "text": "Use the bell of the stethoscope with the patient sitting and leaning forward."
+        }
       ],
-      "correct": ["a", "c", "e"],
-      "rationale": "2, 11 and 17 have no divisors other than 1 and themselves. 9 = 3x3 and 15 = 3x5."
+      "correct": [
+        "b"
+      ],
+      "rationale": "Gallop rhythms generate low-pitched sounds and are most easily heard with the bell of the stethoscope. Sounds associated with the mitral valve are accentuated by turning the patient to the left side, which brings the heart closer to the chest wall. The diaphragm of the stethoscope is best to use for the higher pitched sounds such as S1 and S2."
     },
     {
-      "id": "q4",
-      "question": "Which HTML tag is used for the largest heading?",
+      "id": "ch35-q4",
+      "question": "A patient is being treated for heart failure. Which laboratory test result will the nurse review to determine the effects of the treatment?",
       "choices": [
-        { "id": "a", "text": "<h6>" },
-        { "id": "b", "text": "<head>" },
-        { "id": "c", "text": "<h1>" },
-        { "id": "d", "text": "<header>" }
+        {
+          "id": "a",
+          "text": "Troponin"
+        },
+        {
+          "id": "b",
+          "text": "Homocysteine (Hcy)"
+        },
+        {
+          "id": "c",
+          "text": "Low-density lipoprotein (LDL)"
+        },
+        {
+          "id": "d",
+          "text": "B-type natriuretic peptide (BNP)"
+        }
       ],
-      "correct": ["c"],
-      "rationale": "<h1> is the top-level heading. <h6> is the smallest, and <head> and <header> are not headings."
+      "correct": [
+        "d"
+      ],
+      "rationale": "Levels of BNP are a marker for heart failure. The other laboratory results would assess for myocardial infarction (troponin) or the risk for coronary artery disease (Hcy and LDL)."
     },
     {
-      "id": "q5",
-      "question": "Which of these planets have rings?",
+      "id": "ch35-q5",
+      "question": "While doing the hospital admission assessment for a slender older adult, the nurse observes pulsation of the abdominal aorta in the epigastric area. Which action would the nurse take?",
       "choices": [
-        { "id": "a", "text": "Saturn" },
-        { "id": "b", "text": "Mars" },
-        { "id": "c", "text": "Jupiter" },
-        { "id": "d", "text": "Neptune" }
+        {
+          "id": "a",
+          "text": "Teach the patient about aneurysms."
+        },
+        {
+          "id": "b",
+          "text": "Notify the hospital rapid response team."
+        },
+        {
+          "id": "c",
+          "text": "Instruct the patient to remain on bed rest."
+        },
+        {
+          "id": "d",
+          "text": "Document the finding in the patient record."
+        }
       ],
-      "correct": ["a", "c", "d"],
-      "rationale": "Saturn's rings are the most famous, but Jupiter, Uranus and Neptune all have ring systems too. Mars has none."
+      "correct": [
+        "d"
+      ],
+      "rationale": "Visible pulsation of the abdominal aorta is commonly observed in the epigastric area for thin individuals. The nurse would simply document the finding in the admission assessment. Unless there are other abnormal findings (such as a bruit, pain, or hyper/hypotension) associated with the pulsation, the other actions are not necessary."
     },
     {
-      "id": "q6",
-      "question": "Which data structure uses first-in, first-out (FIFO) ordering?",
+      "id": "ch35-q6",
+      "question": "A patient is scheduled for a cardiac catheterization with coronary angiography. What information would the nurse provide before the procedure?",
       "choices": [
-        { "id": "a", "text": "Stack" },
-        { "id": "b", "text": "Queue" },
-        { "id": "c", "text": "Binary tree" }
+        {
+          "id": "a",
+          "text": "It will be important not to move at all during the procedure."
+        },
+        {
+          "id": "b",
+          "text": "A flushed feeling is common when the contrast dye is injected."
+        },
+        {
+          "id": "c",
+          "text": "Monitored anesthesia care will be provided during the procedure."
+        },
+        {
+          "id": "d",
+          "text": "Arterial pressure monitoring will be needed for 24 hours after the test."
+        }
       ],
-      "correct": ["b"],
-      "rationale": "A queue removes the oldest item first. A stack is last-in, first-out."
+      "correct": [
+        "b"
+      ],
+      "rationale": "A sensation of warmth or flushing is common when the contrast material is injected, which can be anxiety producing unless it has been discussed with the patient. The patient may receive a sedative drug before the procedure but monitored anesthesia care is not used. Arterial pressure monitoring is not routinely used after the procedure to monitor blood pressure. The patient is not immobile during cardiac catheterization and may be asked to cough or take deep breaths."
     },
     {
-      "id": "q7",
-      "question": "Which of these are JavaScript frameworks or libraries?",
+      "id": "ch35-q7",
+      "question": "The nurse notes that a patient who was admitted with heart failure has jugular venous distention (JVD) when lying flat. Which follow-up action would the nurse take?",
       "choices": [
-        { "id": "a", "text": "React" },
-        { "id": "b", "text": "Django" },
-        { "id": "c", "text": "Vue" },
-        { "id": "d", "text": "Rails" }
+        {
+          "id": "a",
+          "text": "Encourage the patient to drink more liquids."
+        },
+        {
+          "id": "b",
+          "text": "Assess the apical and radial pulse for a pulse deficit."
+        },
+        {
+          "id": "c",
+          "text": "Observe the neck with the patient elevated 45 degrees."
+        },
+        {
+          "id": "d",
+          "text": "Have the patient bear down to perform the Valsalva maneuver."
+        }
       ],
-      "correct": ["a", "c"],
-      "rationale": "React and Vue are JavaScript UI libraries. Django is a Python framework and Rails is a Ruby framework."
+      "correct": [
+        "c"
+      ],
+      "rationale": "When the patient is lying flat, the jugular veins are at the level of the right atrium, so JVD is a common (but not a clinically significant) finding. JVD but is not confirmed based on the data given. JVD that persists when the patient is sitting at a 30- to 45-degree angle or greater is significant. JVD is an expected finding when a patient performs the Valsalva maneuver because right atrial pressure increases. More fluids will further increase any fluid overload."
     },
     {
-      "id": "q8",
-      "question": "What is the boiling point of water at sea level in degrees Celsius?",
+      "id": "ch35-q8",
+      "question": "A patient will be evaluated for rhythm disturbances with a Holter monitor. Which instruction would the nurse provide?",
       "choices": [
-        { "id": "a", "text": "90" },
-        { "id": "b", "text": "100" },
-        { "id": "c", "text": "110" }
+        {
+          "id": "a",
+          "text": "Connect the recorder to a computer once daily."
+        },
+        {
+          "id": "b",
+          "text": "Exercise more than usual while the monitor is in place."
+        },
+        {
+          "id": "c",
+          "text": "Remove the electrodes when taking a shower or tub bath."
+        },
+        {
+          "id": "d",
+          "text": "Keep a diary of daily activities while the monitor is worn."
+        }
       ],
-      "correct": ["b"],
-      "rationale": "Water boils at 100 C (212 F) at standard atmospheric pressure. It boils at lower temperatures at altitude."
+      "correct": [
+        "d"
+      ],
+      "rationale": "The patient is taught to keep a diary describing daily activities while Holter monitoring is being accomplished to help correlate any rhythm disturbances with patient activities. Patients are taught that they should not take a shower or bath during Holter monitoring and that they should continue with their usual daily activities. The recorder stores the information about the patient's rhythm until the end of the testing, when it is removed and the data are analyzed."
+    },
+    {
+      "id": "ch35-q9",
+      "question": "How would the nurse document a loud humming sound auscultated over the patient's abdominal aorta?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Thrill"
+        },
+        {
+          "id": "b",
+          "text": "Bruit"
+        },
+        {
+          "id": "c",
+          "text": "Murmur"
+        },
+        {
+          "id": "d",
+          "text": "Normal finding"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "A bruit is the sound created by turbulent blood flow in an artery. Auscultating a bruit in an artery is not normal and indicates pathology. Thrills are palpable vibrations felt when there is turbulent blood flow through the heart or in a blood vessel. A murmur is the sound caused by turbulent blood flow through the heart."
+    },
+    {
+      "id": "ch35-q10",
+      "question": "A patient who developed chest pain 4 hours ago may be having a myocardial infarction. Which laboratory test result would be most helpful in indicating myocardial damage?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Troponins"
+        },
+        {
+          "id": "b",
+          "text": "Myoglobin"
+        },
+        {
+          "id": "c",
+          "text": "Homocysteine (Hcy)"
+        },
+        {
+          "id": "d",
+          "text": "Creatine kinase-MB (CK-MB)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Cardiac troponins start to elevate 4 to 6 hours after myocardial injury and are highly specific to myocardium. They are the preferred diagnostic marker for myocardial infarction. High-sensitivity troponin (hs-cTnT, hs-cTnI) assays provide even earlier detection of a heart event, within 1-3 hours. Myoglobin rises in response to myocardial injury within 30 to 60 minutes but is nonspecific and rapidly cleared from the body, limiting its use in the diagnosis of myocardial infarction. Creatine kinase (CK-MB) increases 4 to 6 hours after myocardial injury but is rarely used now for diagnosis of acute MI. Homocysteine (Hcy) is an amino acid that is made during protein catabolism. Elevated levels of Hcy are linked to a higher risk of CVD, peripheral vascular disease, and stroke."
+    },
+    {
+      "id": "ch35-q11",
+      "question": "When assessing a newly admitted patient, the nurse notes a murmur along the left sternal border. To obtain more information about the murmur, which action would the nurse take?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Palpate the peripheral pulses."
+        },
+        {
+          "id": "b",
+          "text": "Determine the timing of the sound."
+        },
+        {
+          "id": "c",
+          "text": "Find the point of maximal impulse."
+        },
+        {
+          "id": "d",
+          "text": "Compare apical and radial pulse rates."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Murmurs are caused by turbulent blood flow, such as occurs when blood flows through a damaged valve. Relevant information includes the position in which the murmur is heard best (e.g., sitting and leaning forward), the timing of the murmur in relation to the cardiac cycle (e.g., systole, diastole), and where on the thorax the murmur is heard best. The other information is important in the cardiac assessment but will not provide information that is relevant to the murmur."
+    },
+    {
+      "id": "ch35-q12",
+      "question": "The nurse hears a murmur between the S1 and S2 heart sounds at the patient's left fifth intercostal space and midclavicular line. How will the nurse record this information?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Systolic murmur heard at mitral area"
+        },
+        {
+          "id": "b",
+          "text": "Systolic murmur heard at Erb's point"
+        },
+        {
+          "id": "c",
+          "text": "Diastolic murmur heard at aortic area"
+        },
+        {
+          "id": "d",
+          "text": "Diastolic murmur heard at the point of maximal impulse"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "The S1 signifies the onset of ventricular systole. S2 signifies the onset of diastole. A murmur occurring between these two sounds is a systolic murmur. The mitral area is the intersection of the left fifth intercostal space and the midclavicular line. The other responses describe murmurs heard at different landmarks on the chest and/or during the diastolic phase of the cardiac cycle."
+    },
+    {
+      "id": "ch35-q13",
+      "question": "A registered nurse (RN) is assessing a patient. Which action observed by charge nurse requires immediate intervention?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The nurse presses on the skin over the tibia for 10 seconds to check for edema."
+        },
+        {
+          "id": "b",
+          "text": "The nurse palpates both carotid arteries simultaneously to compare pulse quality."
+        },
+        {
+          "id": "c",
+          "text": "The nurse documents a murmur heard along the right sternal border as a pulmonic murmur."
+        },
+        {
+          "id": "d",
+          "text": "The nurse places the patient in the left lateral position to check for the point of maximal impulse."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The carotid pulses should never be palpated at the same time to avoid vagal stimulation, dysrhythmias, and decreased cerebral blood flow. The charge nurse should intervene to stop this action immediately. The other assessment techniques also need to be corrected because they will provide inaccurate data. However, they are not immediately dangerous to the patient."
+    },
+    {
+      "id": "ch35-q14",
+      "question": "Which action will the nurse implement for a patient who arrives for a calcium-scoring CT scan?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Insert an IV catheter."
+        },
+        {
+          "id": "b",
+          "text": "Instruct the patient to lie still."
+        },
+        {
+          "id": "c",
+          "text": "Administer oral sedative medications."
+        },
+        {
+          "id": "d",
+          "text": "Confirm that the patient has been fasting."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The patient should remain still during the scan. The procedure is rapid and involves little risk, so none of the other actions are necessary."
+    },
+    {
+      "id": "ch35-q15",
+      "question": "Which information obtained by the nurse who is admitting the patient for magnetic resonance imaging (MRI) will be important to report to the health care provider before the MRI?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient has an allergy to shellfish."
+        },
+        {
+          "id": "b",
+          "text": "The patient has a history of atherosclerosis."
+        },
+        {
+          "id": "c",
+          "text": "The patient has a permanent cardiac pacemaker."
+        },
+        {
+          "id": "d",
+          "text": "The patient took the prescribed heart medications today."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "MRI is discouraged in those with older model pacemakers and ICDs because the magnets can change the function of the devices. However, when there is a strong clinical need and the benefits outweigh the risks, MRI can be done at centers experienced in this procedure. It will be important to determine the type of pacemaker. Many newer models of pacemakers and ICDs are approved for use with MRI. The other information does not affect whether the patient can have an MRI. There is no iodine-based contrast administered for an MRI, so a shellfish allergy would not affect the plans. A history of atherosclerosis or recent use of heart medications would not affect the process of the MRI."
+    },
+    {
+      "id": "ch35-q16",
+      "question": "The nurse is monitoring a patient who is undergoing exercise (stress) testing on a treadmill. Which assessment finding requires the most rapid action by the nurse?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Patient reports feeling tired"
+        },
+        {
+          "id": "b",
+          "text": "Sinus tachycardia at a rate of 110 beats/min"
+        },
+        {
+          "id": "c",
+          "text": "Inversion of T waves on the electrocardiogram"
+        },
+        {
+          "id": "d",
+          "text": "Blood pressure (BP) increase from 134/68 to 150/80 mm Hg"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "ECG changes associated with coronary ischemia (such as T-wave inversions and ST segment depression) indicate that the myocardium is not getting adequate O2 delivery and that the exercise test should be stopped immediately. Increases in BP and heart rate are normal responses to aerobic exercise. Feeling tired is also normal as the intensity of exercise increases during the stress testing."
+    },
+    {
+      "id": "ch35-q17",
+      "question": "The standard policy on the cardiac unit states, “Notify the health care provider for mean arterial pressure (MAP) less than 70 mm Hg.” Which patient's status would the nurse report to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Postoperative patient with a BP of 116/42 mm Hg."
+        },
+        {
+          "id": "b",
+          "text": "Newly admitted patient with a BP of 150/87 mm Hg."
+        },
+        {
+          "id": "c",
+          "text": "Patient with left ventricular failure who has a BP of 110/70 mm Hg."
+        },
+        {
+          "id": "d",
+          "text": "Patient with a myocardial infarction who has a BP of 140/86 mm Hg."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "The mean arterial pressure (MAP) is calculated using the formula MAP = (systolic BP + 2 diastolic BP)/3. The MAP for the postoperative patient is 67. The MAP in the other three patients is higher than 70 mm Hg."
+    },
+    {
+      "id": "ch35-q18",
+      "question": "The nurse is admitting a patient for a cardiac catheterization and coronary angiogram. Which information is important for the nurse to communicate to the health care provider before the test?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient's pedal pulses are +1."
+        },
+        {
+          "id": "b",
+          "text": "The patient is allergic to contrast dye."
+        },
+        {
+          "id": "c",
+          "text": "The patient had a heart attack 1 year ago."
+        },
+        {
+          "id": "d",
+          "text": "The patient has not eaten anything today."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Patients who have allergies to contrast dye will require treatment with medications, such as corticosteroids and antihistamines before the angiogram. The other information may be communicated to the health care provider but will not require a change in the usual pre-cardiac catheterization orders or medications."
+    },
+    {
+      "id": "ch35-q19",
+      "question": "A transesophageal echocardiogram (TEE) is planned for a patient hospitalized with possible endocarditis. Which action included in the standard TEE orders will the nurse need to accomplish first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Start an IV line."
+        },
+        {
+          "id": "b",
+          "text": "Start O2 per nasal cannula."
+        },
+        {
+          "id": "c",
+          "text": "Place the patient on NPO status."
+        },
+        {
+          "id": "d",
+          "text": "Give lorazepam (Ativan) 1 mg IV."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The patient will need to be NPO for 6 hours preceding the TEE, so the nurse should place the patient on NPO status as soon as the order is received. The other actions also will need to be accomplished but not until just before or during the procedure."
+    },
+    {
+      "id": "ch35-q20",
+      "question": "The nurse and assistive personnel (AP) on the telemetry unit are caring for four patients. Which action could the nurse delegate to the AP?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Teaching a patient about exercise electrocardiography"
+        },
+        {
+          "id": "b",
+          "text": "Attaching ECG monitoring electrodes after a patient bathes"
+        },
+        {
+          "id": "c",
+          "text": "Monitoring a patient after a transesophageal echocardiogram"
+        },
+        {
+          "id": "d",
+          "text": "Checking the patient's catheter site after a coronary angiogram"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "AP can be educated in standardized lead placement for ECG monitoring. Assessment of patients who have had procedures where airway maintenance (transesophageal echocardiography) or bleeding (coronary angiogram) is a concern must be done by the registered nurse (RN). Patient teaching requires RN level education and scope of practice."
+    },
+    {
+      "id": "ch35-q21",
+      "question": "The nurse is reviewing the laboratory results for newly admitted patients on the cardiovascular unit. Which laboratory result is most important to communicate rapidly to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "High troponin I level"
+        },
+        {
+          "id": "b",
+          "text": "Increased triglyceride level"
+        },
+        {
+          "id": "c",
+          "text": "Very low homocysteine level"
+        },
+        {
+          "id": "d",
+          "text": "Elevated C-reactive protein level"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "The elevation in troponin I indicates that the patient has had an acute myocardial infarction. Further assessment and interventions are indicated. The other laboratory results indicate increased risk for coronary artery disease but are not associated with acute cardiac problems that need immediate intervention."
+    },
+    {
+      "id": "ch35-q22",
+      "question": "Indicate where the nurse will palpate the posterior tibial artery.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "1"
+        },
+        {
+          "id": "b",
+          "text": "2"
+        },
+        {
+          "id": "c",
+          "text": "3"
+        },
+        {
+          "id": "d",
+          "text": "4"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The posterior tibial site is located behind the medial malleolus of the tibia."
+    },
+    {
+      "id": "ch35-q23",
+      "question": "Which hemodynamic parameter most directly reflects the effectiveness of drugs given to reduce a patient's left ventricular afterload?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Cardiac output (CO)"
+        },
+        {
+          "id": "b",
+          "text": "Systemic vascular resistance (SVR)"
+        },
+        {
+          "id": "c",
+          "text": "Pulmonary vascular resistance (PVR)"
+        },
+        {
+          "id": "d",
+          "text": "Pulmonary artery wedge pressure (PAWP)"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "SVR reflects the resistance to left ventricular ejection, or afterload. Other parameters may be monitored but do not reflect left-sided afterload as directly."
+    },
+    {
+      "id": "ch35-q24",
+      "question": "After surgery, a patient's central venous pressure (CVP) monitor indicates low pressures. Which action would the nurse take?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Administer IV diuretic medications."
+        },
+        {
+          "id": "b",
+          "text": "Increase the IV fluid infusion per protocol."
+        },
+        {
+          "id": "c",
+          "text": "Increase the infusion rate of IV vasodilators."
+        },
+        {
+          "id": "d",
+          "text": "Elevate the head of the patient's bed to 45 degrees."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "A low CVP indicates decreased preload from hypovolemia and a need for an increase in the infusion rate. Diuretic administration will contribute to hypovolemia and elevation of the head or increasing vasodilators may decrease cerebral perfusion."
+    },
+    {
+      "id": "ch35-q25",
+      "question": "Which parameter will the nurse use to evaluate changes in a patient's right ventricular afterload?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Central venous pressure (CVP)"
+        },
+        {
+          "id": "b",
+          "text": "Systemic vascular resistance (SVR)"
+        },
+        {
+          "id": "c",
+          "text": "Pulmonary vascular resistance (PVR)"
+        },
+        {
+          "id": "d",
+          "text": "Pulmonary artery wedge pressure (PAWP)"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "PVR is a measure of right ventricular afterload, which is elevated in conditions such as pulmonary hypertension The other parameters do not directly assess for right ventricular afterload."
+    },
+    {
+      "id": "ch35-q26",
+      "question": "A patient requires arterial pressure monitoring. Which action would the nurse plan to take?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Balance and calibrate the monitoring equipment every 2 hours."
+        },
+        {
+          "id": "b",
+          "text": "Position the zero-reference stopcock line level with the phlebostatic axis."
+        },
+        {
+          "id": "c",
+          "text": "Disconnect the low pressure alarm to avoid disturbing the patient's sleep."
+        },
+        {
+          "id": "d",
+          "text": "Ensure that the patient is supine with the head of the bed flat for all readings."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "For accurate measurement of pressures, the zero-reference level would be at the phlebostatic axis. There is no need to rebalance and recalibrate monitoring equipment every 2 hours. Accurate hemodynamic readings are possible with the patient's head raised to 45 degrees or in the prone position. Alarms should be activated; if the pressure in the line falls (e.g., when the line is disconnected), the low-pressure alarm sounds immediately and notifies staff to promptly correct the problem."
+    },
+    {
+      "id": "ch35-q27",
+      "question": "Which measurement would be the most sensitive indicator of cardiac function?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Central venous pressure (CVP)"
+        },
+        {
+          "id": "b",
+          "text": "Systemic vascular resistance (SVR)"
+        },
+        {
+          "id": "c",
+          "text": "Pulmonary vascular resistance (PVR)"
+        },
+        {
+          "id": "d",
+          "text": "Pulmonary artery wedge pressure (PAWP)"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "PAWP reflects left ventricular end diastolic pressure (or left ventricular preload) and is a sensitive indicator of cardiac function. The other values would also provide useful information, but the most definitive measurement of changes in cardiac function is the PAWP."
+    },
+    {
+      "id": "ch35-q28",
+      "question": "Which action would the nurse take first when the low pressure alarm sounds for a patient who has an arterial line in the left radial artery?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Observe for dysrhythmias."
+        },
+        {
+          "id": "b",
+          "text": "Fast flush the arterial line."
+        },
+        {
+          "id": "c",
+          "text": "Check the left hand for pallor."
+        },
+        {
+          "id": "d",
+          "text": "Re-zero the monitoring equipment."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "The low pressure alarm indicates a drop in the patient's blood pressure, which may be caused by dysrhythmias or line disconnection. There is no indication to re-zero the equipment. Pallor of the left hand would be caused by occlusion of the radial artery by the arterial catheter. Flushing the line would be useful if there is a dampened waveform."
+    },
+    {
+      "id": "ch35-q29",
+      "question": "Which action would the nurse take when preparing to assist with the insertion of a pulmonary artery catheter?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Determine if the cardiac troponin level is elevated."
+        },
+        {
+          "id": "b",
+          "text": "Place the patient on NPO status before the procedure."
+        },
+        {
+          "id": "c",
+          "text": "Auscultate heart sounds before and during catheter insertion."
+        },
+        {
+          "id": "d",
+          "text": "Assure that the cardiac monitor is visible during the procedure."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Dysrhythmias can occur as the catheter is floated through the right atrium and ventricle, and it is important for the nurse to monitor for these during insertion. Pulmonary artery catheter insertion does not require anesthesia, and the patient will not need to be NPO. Changes in cardiac troponin or heart and breath sounds are not expected during pulmonary artery catheter insertion."
+    },
+    {
+      "id": "ch35-q30",
+      "question": "The nurse is assisting with the placement of a pulmonary artery (PA) catheter. What would the nurse expect to see on the monitor during the procedure as an indication that the catheter with inflated balloon is placed correctly?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "PA pressure waveform"
+        },
+        {
+          "id": "b",
+          "text": "PA wedge pressure (PAWP) waveform"
+        },
+        {
+          "id": "c",
+          "text": "Tracing of the systemic arterial pressure"
+        },
+        {
+          "id": "d",
+          "text": "Tracing of the systemic vascular resistance"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The purpose of a PA line is to measure PAWP, so the catheter is floated through the pulmonary artery until the dilated balloon wedges in a distal branch of the pulmonary artery, and the PAWP readings are available. After insertion, the balloon is deflated, and the PA waveform will be observed. Systemic arterial pressures are obtained using an arterial line, and the systemic vascular resistance is a calculated value, not a waveform."
+    },
+    {
+      "id": "ch35-q31",
+      "question": "Which finding by the nurse caring for a patient with a right radial arterial line indicates a need for the nurse to take action?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The left hand feels warmer than the right hand."
+        },
+        {
+          "id": "b",
+          "text": "The mean arterial pressure (MAP) is 77 mm Hg."
+        },
+        {
+          "id": "c",
+          "text": "The system is delivering 3 mL of flush solution per hour."
+        },
+        {
+          "id": "d",
+          "text": "The flush bag and tubing were changed 2 days previously."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "The cooler temperature of the right hand suggests that blood flow to the right hand may be impaired; further assessment may lead to plans for removal of the radial catheter to avoid permanent injury to the right hand. The flush system needs to be changed every 96 hours. A mean arterial pressure (MAP) of 70-105 mm Hg is normal. Flush systems for hemodynamic monitoring are set up to deliver 3 to 6 mL/hr of flush solution."
+    },
+    {
+      "id": "ch35-q32",
+      "question": "The nurse is caring for a patient who has an arterial catheter in the left radial artery for arterial pressure–based cardiac output (APCO) monitoring. Which information obtained by the nurse requires a report to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient has a positive Allen test result."
+        },
+        {
+          "id": "b",
+          "text": "There is redness at the catheter insertion site."
+        },
+        {
+          "id": "c",
+          "text": "The mean arterial pressure (MAP) is 86 mm Hg."
+        },
+        {
+          "id": "d",
+          "text": "The dicrotic notch is visible in the arterial waveform."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Redness at the catheter insertion site indicates possible infection. The Allen test is performed before arterial line insertion, and a positive test result indicates normal ulnar artery perfusion. A MAP of 86 mm Hg is normal, and the dicrotic notch is normally present on the arterial waveform."
+    },
+    {
+      "id": "ch35-q33",
+      "question": "A patient with respiratory failure has arterial pressure–based cardiac output (APCO) monitoring and is receiving mechanical ventilation with peak end-expiratory pressure (PEEP) of 12 cm H2O. Which information indicates that a change in the ventilator settings may be required?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The arterial pressure is 90/46."
+        },
+        {
+          "id": "b",
+          "text": "The heart rate is 58 beats/min."
+        },
+        {
+          "id": "c",
+          "text": "The stroke volume is increased."
+        },
+        {
+          "id": "d",
+          "text": "The stroke volume variation is 12%."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "The hypotension suggests that the high intrathoracic pressure caused by the PEEP may be decreasing venous return and (potentially) cardiac output. The other assessment data would not be a direct result of PEEP and mechanical ventilation."
+    },
+    {
+      "id": "ch35-q34",
+      "question": "While listening at the mitral area, the nurse notes abnormal heart sounds at the patient's 5th intercostal space, midclavicular line. After listening to the audio clip, describe how the nurse will document the assessment finding. Click here to listen to the audio clip",
+      "choices": [
+        {
+          "id": "a",
+          "text": "S3 gallop at the mitral area"
+        },
+        {
+          "id": "b",
+          "text": "Systolic murmur at mitral area"
+        },
+        {
+          "id": "c",
+          "text": "Diastolic murmur at tricuspid area"
+        },
+        {
+          "id": "d",
+          "text": "Pericardial friction rub at tricuspid area"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The mitral area location is at the intersection of the fifth intercostal space and the midclavicular line. The murmur is a pansystolic murmur."
+    },
+    {
+      "id": "ch37-q1",
+      "question": "The nurse is developing a teaching plan for a patient with coronary artery disease (CAD). Which factor would the nurse focus on during the teaching session?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Family history of coronary artery disease"
+        },
+        {
+          "id": "b",
+          "text": "Elevated low-density lipoprotein (LDL) level"
+        },
+        {
+          "id": "c",
+          "text": "Greater risk associated with the patient's gender"
+        },
+        {
+          "id": "d",
+          "text": "Increased risk of cardiovascular disease with aging"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Because family history, gender, and age are nonmodifiable risk factors, the nurse should focus on the patient's LDL level. Decreases in LDL will help reduce the patient's risk for developing CAD."
+    },
+    {
+      "id": "ch37-q2",
+      "question": "Which nursing intervention is likely to be most effective when assisting the patient with coronary artery disease to make dietary changes?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Inform the patient about a diet containing no saturated fat and minimal salt."
+        },
+        {
+          "id": "b",
+          "text": "Emphasize the increased cardiac risk unless the patient makes dietary changes."
+        },
+        {
+          "id": "c",
+          "text": "Help the patient modify favorite high-fat recipes by using monounsaturated oils."
+        },
+        {
+          "id": "d",
+          "text": "Give the patient a list of low-sodium, low-cholesterol foods to include in the diet."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Lifestyle changes are more likely to be successful when consideration is given to the patient's values and preferences. The highest percentage of calories from fat should come from monounsaturated or polyunsaturated fats. Although low-sodium and low-cholesterol foods are appropriate, providing the patient with a list alone is not likely to be successful in making dietary changes. Completely removing saturated fat from the diet is not a realistic expectation. Up to 7% of calories in the therapeutic lifestyle changes diet can come from saturated fat. Telling the patient about the increased risk without assisting further with strategies for dietary change is unlikely to be successful."
+    },
+    {
+      "id": "ch37-q3",
+      "question": "The nurse is admitting a patient who has chest pain. Which assessment data suggest that the pain may be from an acute myocardial infarction?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The pain increases with deep breathing."
+        },
+        {
+          "id": "b",
+          "text": "The pain has lasted longer than 30 minutes."
+        },
+        {
+          "id": "c",
+          "text": "The pain is relieved after the patient takes nitroglycerin."
+        },
+        {
+          "id": "d",
+          "text": "The pain is reproducible when the patient raises the arms."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Chest pain that lasts for 20 minutes or more is characteristic of AMI. Changes in pain that occur with raising the arms or with deep breathing are more typical of musculoskeletal pain or pericarditis. Stable angina is usually relieved when the patient takes nitroglycerin."
+    },
+    {
+      "id": "ch37-q4",
+      "question": "Which patient statement would help the nurse confirm the previous diagnosis of chronic stable angina?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“The pain wakes me up at night.”"
+        },
+        {
+          "id": "b",
+          "text": "“The pain is level 3 to 5 (0 to 10 scale).”"
+        },
+        {
+          "id": "c",
+          "text": "“The pain has gotten worse over the last week.”"
+        },
+        {
+          "id": "d",
+          "text": "“The pain goes away with a nitroglycerin tablet.”"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Chronic stable angina is typically relieved by rest or nitroglycerin administration. The level of pain is not a consistent indicator of the type of angina. Pain occurring at rest or with increased frequency is typical of unstable angina."
+    },
+    {
+      "id": "ch37-q5",
+      "question": "Which patient statement indicates that the nurse's teaching about sublingual nitroglycerin (Nitrostat) has been effective?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“I can expect nausea as a side effect of nitroglycerin.”"
+        },
+        {
+          "id": "b",
+          "text": "“I should only take nitroglycerin when I have chest pain.”"
+        },
+        {
+          "id": "c",
+          "text": "“Nitroglycerin helps prevent a clot from blocking blood flow to my heart.”"
+        },
+        {
+          "id": "d",
+          "text": "“I will call an ambulance if I have pain 5 minutes after taking nitroglycerin.”"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "The emergency response system (ERS) should be activated when chest pain or other symptoms are the same or worse 5 minutes after taking a sublingual nitroglycerin tablets. Nitroglycerin can be taken to prevent chest pain or other symptoms from developing (e.g., before intercourse). Gastric upset (e.g., nausea) is not an expected side effect of nitroglycerin. Nitroglycerin does not impact the underlying pathophysiology of coronary artery atherosclerosis."
+    },
+    {
+      "id": "ch37-q6",
+      "question": "Which statement made by a patient with coronary artery disease indicates that further diet teaching is needed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“I will switch from whole milk to 1% milk.”"
+        },
+        {
+          "id": "b",
+          "text": "“I like salmon and I will plan to eat it more often.”"
+        },
+        {
+          "id": "c",
+          "text": "“I can have a glass of wine with dinner if I want one.”"
+        },
+        {
+          "id": "d",
+          "text": "“I will miss being able to eat peanut butter sandwiches.”"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Although only 30% of the daily calories should come from fats, most of the fat in the diet should come from monounsaturated fats such as are found in nuts, olive oil, and canola oil. The patient can include peanut butter sandwiches as part of the diet. The other patient comments indicate a good understanding of the recommended diet."
+    },
+    {
+      "id": "ch37-q7",
+      "question": "Which patient statement indicates that the nurse's teaching about carvedilol (Coreg) for preventing anginal episodes has been effective?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“Carvedilol will help my heart muscle work harder.”"
+        },
+        {
+          "id": "b",
+          "text": "“It is important not to suddenly stop taking the carvedilol.”"
+        },
+        {
+          "id": "c",
+          "text": "“I can expect to feel short of breath when taking carvedilol.”"
+        },
+        {
+          "id": "d",
+          "text": "“Carvedilol will increase the blood flow to my heart muscle.”"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Patients who have been taking -adrenergic blockers can develop intense and frequent angina if the medication is suddenly discontinued. Carvedilol (Coreg) decreases myocardial contractility. Shortness of breath that occurs when taking -adrenergic blockers for angina may be due to bronchospasm and should be reported to the health care provider. Carvedilol works by decreasing myocardial O2 demand, not by increasing blood flow to the coronary arteries."
+    },
+    {
+      "id": "ch37-q8",
+      "question": "A patient who has had chest pain for several hours is admitted with a diagnosis of rule out acute myocardial infarction (AMI). Which laboratory test is most specific for the nurse to monitor in determining whether the patient has had an AMI?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Myoglobin"
+        },
+        {
+          "id": "b",
+          "text": "Homocysteine"
+        },
+        {
+          "id": "c",
+          "text": "C-reactive protein"
+        },
+        {
+          "id": "d",
+          "text": "Cardiac-specific troponin"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Troponin levels increase about 4 to 6 hours after the onset of myocardial infarction (MI) and are highly specific indicators for MI. Myoglobin is released within 2 hours of MI, but it lacks specificity and its use is limited. The other laboratory data are useful in determining the patient's risk for developing coronary artery disease but are not helpful in determining whether an acute MI is in progress."
+    },
+    {
+      "id": "ch37-q9",
+      "question": "Diltiazem is prescribed for a patient newly diagnosed with Prinzmetal's (variant) angina. Which action of diltiazem is accurate for the nurse to include in the teaching plan?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Reduces heart palpitations."
+        },
+        {
+          "id": "b",
+          "text": "Prevents coronary artery plaque."
+        },
+        {
+          "id": "c",
+          "text": "Decreases coronary artery spasms."
+        },
+        {
+          "id": "d",
+          "text": "Increases contractile force of the heart."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Prinzmetal's angina is caused by coronary artery spasm. Calcium channel blockers (e.g., diltiazem, amlodipine) are a first-line therapy for this type of angina. Lipid-lowering drugs help reduce atherosclerosis (i.e., plaque formation), and -adrenergic blockers decrease sympathetic stimulation of the heart (i.e., palpitations). Medications or activities that increase myocardial contractility will increase the incidence of angina by increasing O2 demand."
+    },
+    {
+      "id": "ch37-q10",
+      "question": "Which data indicates to the nurse that the patient with stable angina is experiencing a side effect of metoprolol?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Patient is restless and agitated."
+        },
+        {
+          "id": "b",
+          "text": "Patient reports feeling anxious."
+        },
+        {
+          "id": "c",
+          "text": "Blood pressure is 90/54 mm Hg."
+        },
+        {
+          "id": "d",
+          "text": "Heart monitor shows normal sinus rhythm."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Patients taking -adrenergic blockers should be monitored for hypotension and bradycardia. Because this class of medication inhibits the sympathetic nervous system, restlessness, agitation, hypertension, and anxiety will not be side effects. Normal sinus rhythm is a normal and expected heart rhythm."
+    },
+    {
+      "id": "ch37-q11",
+      "question": "Nadolol (Corgard) is prescribed for a patient with chronic stable angina and left ventricular dysfunction. Which data would indicate to the nurse that the drug is effective?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Decreased blood pressure and heart rate"
+        },
+        {
+          "id": "b",
+          "text": "Improvement in the strength of the distal pulses"
+        },
+        {
+          "id": "c",
+          "text": "Fewer complaints of having cold hands and feet"
+        },
+        {
+          "id": "d",
+          "text": "Participation in daily activities without chest pain"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Because the drug is ordered to improve the patient's angina, effectiveness is indicated if the patient is able to accomplish daily activities without chest pain. Blood pressure and heart rate may decrease, but these data do not indicate that the goal of decreased angina has been met. The noncardioselective -adrenergic blockers can cause peripheral vasoconstriction, so the nurse would not expect an improvement in distal pulse quality or skin temperature."
+    },
+    {
+      "id": "ch37-q12",
+      "question": "Heparin is ordered for a patient with a non–ST-segment-elevation myocardial infarction (NSTEMI). How should the nurse explain the purpose of the heparin to the patient?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“Heparin enhances platelet aggregation at the plaque site.”"
+        },
+        {
+          "id": "b",
+          "text": "“Heparin decreases the size of the coronary artery plaque.”"
+        },
+        {
+          "id": "c",
+          "text": "“Heparin prevents the development of new clots in the coronary arteries.”"
+        },
+        {
+          "id": "d",
+          "text": "“Heparin dissolves clots that are blocking blood flow in the coronary arteries.”"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Heparin helps prevent the conversion of fibrinogen to fibrin and decreases coronary artery thrombosis. It does not change coronary artery plaque, dissolve already formed clots, or enhance platelet aggregation."
+    },
+    {
+      "id": "ch37-q13",
+      "question": "Which action will the nurse take to evaluate the effectiveness of IV nitroglycerin for a patient with a myocardial infarction (MI)?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Monitor heart rate."
+        },
+        {
+          "id": "b",
+          "text": "Ask about chest pain."
+        },
+        {
+          "id": "c",
+          "text": "Check blood pressure."
+        },
+        {
+          "id": "d",
+          "text": "Observe for dysrhythmias."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The goal of IV nitroglycerin administration in MI is relief of chest pain by improving the balance between myocardial oxygen supply and demand. The nurse will also monitor heart rate and blood pressure and observe for dysrhythmias, but these parameters will not indicate whether the medication is effective."
+    },
+    {
+      "id": "ch37-q14",
+      "question": "A patient is admitted to the emergency department and diagnosed as having an ST-segment-elevation myocardial infarction (STEMI). Which question would the nurse ask to determine whether the patient is a candidate for thrombolytic therapy?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“Do you have any allergies?”"
+        },
+        {
+          "id": "b",
+          "text": "“Did you take aspirin today?”"
+        },
+        {
+          "id": "c",
+          "text": "“What time did your pain begin?”"
+        },
+        {
+          "id": "d",
+          "text": "“Can you rate the pain on a 0 to 10 scale?”"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Thrombolytic therapy criteria include chest pain for less than 12 hours with 12-lead ECG findings consistent with an acute STEMI. The other information is not a factor in the decision about thrombolytic therapy."
+    },
+    {
+      "id": "ch37-q15",
+      "question": "A patient who has recently had an acute myocardial infarction (AMI) ambulates in the hospital hallway. Which data would indicate to the nurse that the patient should stop and rest?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "O2 saturation drops from 99% to 95%."
+        },
+        {
+          "id": "b",
+          "text": "Heart rate increases from 66 to 98 beats/min."
+        },
+        {
+          "id": "c",
+          "text": "Respiratory rate goes from 14 to 20 breaths/min."
+        },
+        {
+          "id": "d",
+          "text": "Blood pressure (BP) changes from 118/60 to 126/68 mm Hg."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "A change in heart rate of more than 20 beats over the resting heart rate indicates that the patient should stop and rest. The increases in BP and respiratory rate, and the slight decrease in O2 saturation, are normal responses to exercise."
+    },
+    {
+      "id": "ch37-q16",
+      "question": "The nurse is administering a thrombolytic agent to a patient having an acute myocardial infarction. Which patient data indicates that the nurse should stop the drug infusion?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Bleeding from the gums"
+        },
+        {
+          "id": "b",
+          "text": "An increase in blood pressure"
+        },
+        {
+          "id": "c",
+          "text": "Decreased level of consciousness"
+        },
+        {
+          "id": "d",
+          "text": "A nonsustained episode of ventricular tachycardia"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The change in level of consciousness indicates that the patient may be experiencing intracranial bleeding, a possible complication of thrombolytic therapy. Some bleeding of the gums is an expected side effect of the therapy but not an indication to stop infusion of the thrombolytic medication. A decrease in blood pressure could indicate internal bleeding. A nonsustained episode of ventricular tachycardia is a common reperfusion dysrhythmia and may indicate that the therapy is effective."
+    },
+    {
+      "id": "ch37-q17",
+      "question": "A patient recovering from a myocardial infarction (MI) develops chest pain on day 3 that increases when taking a deep breath and is relieved by leaning forward. Which action would the nurse take as focused follow-up on this symptom?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Assess both feet for pedal edema."
+        },
+        {
+          "id": "b",
+          "text": "Palpate the radial pulses bilaterally."
+        },
+        {
+          "id": "c",
+          "text": "Auscultate for a pericardial friction rub."
+        },
+        {
+          "id": "d",
+          "text": "Check the heart monitor for dysrhythmias."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The patient's symptoms are consistent with the development of pericarditis, a possible complication of MI. The other assessments listed are not consistent with the description of the patient's symptoms."
+    },
+    {
+      "id": "ch37-q18",
+      "question": "In preparation for discharge, the nurse teaches a patient with chronic stable angina how to use the prescribed short-acting and long-acting nitrates. Which patient statement indicates that the teaching has been effective?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“I will sit down before I put the nitroglycerin under my tongue.”"
+        },
+        {
+          "id": "b",
+          "text": "“I will check my pulse rate before I take any nitroglycerin tablets.”"
+        },
+        {
+          "id": "c",
+          "text": "“I will put the nitroglycerin patch on as soon as I get any chest pain.”"
+        },
+        {
+          "id": "d",
+          "text": "“I will remove the nitroglycerin patch before taking sublingual nitroglycerin.”"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "The patient should sit down before taking the nitroglycerin to decrease cardiac workload and prevent orthostatic hypotension. Transdermal nitrates are used prophylactically rather than to treat acute pain and can be used concurrently with sublingual nitroglycerin. Although the nurse should check blood pressure before giving nitroglycerin, patients do not need to check the pulse rate before taking nitrates."
+    },
+    {
+      "id": "ch37-q19",
+      "question": "The nurse is caring for a patient who is recovering from a sudden cardiac death (SCD) event and has no evidence of an acute myocardial infarction (AMI). Which information would the nurse anticipate teaching the patient?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Sudden cardiac death events rarely reoccur."
+        },
+        {
+          "id": "b",
+          "text": "Additional diagnostic testing will be required."
+        },
+        {
+          "id": "c",
+          "text": "Long-term anticoagulation therapy will be needed."
+        },
+        {
+          "id": "d",
+          "text": "Limiting physical activity will prevent future SCD events."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Diagnostic testing (e.g., stress test, Holter monitor, electrophysiologic studies, cardiac catheterization) is used to determine the possible cause of the SCD and treatment options. SCD is likely to recur. Anticoagulation therapy will not have any effect on the incidence of SCD, and SCD can occur even when the patient is resting."
+    },
+    {
+      "id": "ch37-q20",
+      "question": "A patient with diabetes mellitus and chronic stable angina has a new order for captopril. Which information would the nurse teach this patient about the primary purpose of captopril?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Decreases the heart rate."
+        },
+        {
+          "id": "b",
+          "text": "Controls blood glucose levels."
+        },
+        {
+          "id": "c",
+          "text": "Prevents changes in heart muscle."
+        },
+        {
+          "id": "d",
+          "text": "Reduces the frequency of chest pain."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The purpose for angiotensin-converting enzyme (ACE) inhibitors in patients with chronic stable angina who are at high risk for a cardiac event is to decrease ventricular remodeling. ACE inhibitors do not directly impact angina frequency, blood glucose, or heart rate."
+    },
+    {
+      "id": "ch37-q21",
+      "question": "After having a myocardial infarction (MI) and successful percutaneous coronary intervention, the patient states, “It was just a little chest pain. As soon as I get out of here, I'm going for my vacation as planned.” Which reply would be most appropriate for the nurse to make?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“What do you think caused your chest pain?”"
+        },
+        {
+          "id": "b",
+          "text": "“Where are you planning to go for your vacation?”"
+        },
+        {
+          "id": "c",
+          "text": "“Sometimes plans need to change after a heart attack.”"
+        },
+        {
+          "id": "d",
+          "text": "“Recovery from a heart attack takes at least a few weeks.”"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "When the patient is experiencing denial, the nurse should assist the patient in testing reality until the patient has progressed beyond this step of the emotional adjustment to MI. Asking the patient about vacation plans reinforces the patient's plan, which is not appropriate in the immediate post-MI period. Reminding the patient in denial about the MI is likely to make the patient angry and lead to distrust of the nursing staff."
+    },
+    {
+      "id": "ch37-q22",
+      "question": "The nurse is evaluating the effectiveness of preoperative teaching with a patient scheduled for coronary artery bypass graft (CABG) surgery using the internal mammary artery. Which patient statement indicates that additional teaching is needed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“They will circulate my blood with a machine during surgery.”"
+        },
+        {
+          "id": "b",
+          "text": "“I will have incisions in my leg where they will remove the vein.”"
+        },
+        {
+          "id": "c",
+          "text": "“They will use an artery near my heart to go around the area that is blocked.”"
+        },
+        {
+          "id": "d",
+          "text": "“I will need to take aspirin every day after the surgery to keep the graft open.”"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "When the internal mammary artery is used, there is no need to have a saphenous vein removed from the leg. The other statements by the patient are accurate and indicate that the teaching has been effective."
+    },
+    {
+      "id": "ch37-q23",
+      "question": "A patient who is recovering from an acute myocardial infarction (AMI) asks the nurse about safely resuming sexual intercourse. Which response by the nurse provides the most useful information for the patient?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“Most patients are able to enjoy intercourse without any complications.”"
+        },
+        {
+          "id": "b",
+          "text": "“Sexual activity uses about as much energy as climbing two flights of stairs.”"
+        },
+        {
+          "id": "c",
+          "text": "“The doctor will provide sexual guidelines when your heart is strong enough.”"
+        },
+        {
+          "id": "d",
+          "text": "“Holding and cuddling are good ways to maintain intimacy after a heart attack.”"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Sexual activity places about as much physical stress on the cardiovascular system as moderate-energy activities, such as climbing two flights of stairs. The other responses are general statements that may be accurate, but do not provide useful guidelines for judging the physical safety of the activity."
+    },
+    {
+      "id": "ch37-q24",
+      "question": "A patient with hyperlipidemia has a new order for colesevelam (Welchol). Which action would the nurse take?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Administer the medication at the patient's usual bedtime."
+        },
+        {
+          "id": "b",
+          "text": "Have the patient take the colesevelam 1 hour before breakfast."
+        },
+        {
+          "id": "c",
+          "text": "Give the patient's other medications 3 hours after colesevelam."
+        },
+        {
+          "id": "d",
+          "text": "Have the patient take the dose at the same time as the prescribed aspirin."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The bile acid sequestrants interfere with the absorption of many other drugs and giving other medications at the same time should be avoided. Taking an aspirin concurrently with the colesevelam may increase the incidence of gastrointestinal side effects such as heartburn. For maximum effect, colesevelam should be administered with meals."
+    },
+    {
+      "id": "ch37-q25",
+      "question": "The nurse is caring for a patient who was admitted to the coronary care unit following an acute myocardial infarction (AMI) and percutaneous coronary intervention the previous day. Which information would the nurse plan to provide today?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Typical emotional responses to AMI"
+        },
+        {
+          "id": "b",
+          "text": "When cardiac rehabilitation will begin"
+        },
+        {
+          "id": "c",
+          "text": "Pathophysiology of coronary artery disease"
+        },
+        {
+          "id": "d",
+          "text": "Information regarding discharge medications"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Early after an AMI, the patient will want to know when resumption of usual activities can be expected. At this time, the patient's anxiety level or denial will interfere with good understanding of complex information such as the pathophysiology of coronary artery disease. Teaching about discharge medications should be done closer to discharge. The nurse should support the patient by decreasing anxiety with information rather than discussing the typical emotional responses to myocardial infarction."
+    },
+    {
+      "id": "ch37-q26",
+      "question": "A patient who has recently started taking pravastatin (Pravachol) and niacin reports several new symptoms to the nurse. Which information is most important to communicate to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Generalized muscle aches and pains"
+        },
+        {
+          "id": "b",
+          "text": "Dizziness with rapid position changes"
+        },
+        {
+          "id": "c",
+          "text": "Nausea when taking the drugs before meals"
+        },
+        {
+          "id": "d",
+          "text": "Flushing and pruritus after taking the drugs"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Muscle aches and pains may indicate myopathy and rhabdomyolysis, which have caused acute kidney injury and death in some patients who have taken the statin medications. These symptoms indicate that the pravastatin may need to be discontinued. The other symptoms are common side effects when taking niacin, and although the nurse should follow-up with the health care provider, they do not indicate that a change in medication is needed."
+    },
+    {
+      "id": "ch37-q27",
+      "question": "A patient who is being admitted to the emergency department with intermittent chest pain gives the following list of daily medications to the nurse. Which medication has the most immediate implications for the patient's care?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Sildenafil (Viagra)"
+        },
+        {
+          "id": "b",
+          "text": "Furosemide (Lasix)"
+        },
+        {
+          "id": "c",
+          "text": "Warfarin (Coumadin)"
+        },
+        {
+          "id": "d",
+          "text": "Diltiazem (Cardizem)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "The nurse will need to avoid giving nitrates to the patient because nitrate administration is contraindicated in patients who are using sildenafil because of the risk of severe hypotension caused by vasodilation. The other home medications should be documented and reported to the health care provider but do not have as immediate an impact on decisions about the patient's treatment."
+    },
+    {
+      "id": "ch37-q28",
+      "question": "Which assessment finding in a patient who has had coronary artery bypass grafting using a right radial artery graft is most important for the nurse to communicate to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Complaints of incisional chest pain"
+        },
+        {
+          "id": "b",
+          "text": "Pallor and weakness of the right hand"
+        },
+        {
+          "id": "c",
+          "text": "Fine crackles heard at both lung bases"
+        },
+        {
+          "id": "d",
+          "text": "Redness on both sides of the sternal incision"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The changes in the right hand indicate compromised blood flow, which requires immediate evaluation and actions, such as prescribed calcium channel blockers or surgery. The other changes are expected or require nursing interventions."
+    },
+    {
+      "id": "ch37-q29",
+      "question": "The nurse is caring for a patient who has just arrived on the telemetry unit after having cardiac catheterization. Which task could the nurse delegate to a licensed practical/vocational nurse (LPN/VN)?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Teach the patient about the postprocedure plan of care."
+        },
+        {
+          "id": "b",
+          "text": "Give the scheduled aspirin and lipid-lowering medication."
+        },
+        {
+          "id": "c",
+          "text": "Perform the initial assessment of the catheter insertion site."
+        },
+        {
+          "id": "d",
+          "text": "Titrate the heparin infusion according to the agency protocol."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Administration of oral medications is within the scope of practice for LPNs/VNs. The initial assessment of the patient, patient teaching, and titration of IV anticoagulant medications should be done by the registered nurse (RN)."
+    },
+    {
+      "id": "ch37-q30",
+      "question": "Which electrocardiographic (ECG) change by a patient with chest pain is most important for the nurse to report rapidly to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Inverted P wave"
+        },
+        {
+          "id": "b",
+          "text": "Sinus tachycardia"
+        },
+        {
+          "id": "c",
+          "text": "ST-segment elevation"
+        },
+        {
+          "id": "d",
+          "text": "First-degree atrioventricular block"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The patient is likely to be experiencing an ST-segment-elevation myocardial infarction. Immediate therapy with percutaneous coronary intervention or thrombolytic medication is indicated to minimize myocardial damage. The other ECG changes may also suggest a need for therapy but not as rapidly."
+    },
+    {
+      "id": "ch37-q31",
+      "question": "A patient with acute coronary syndrome has returned to the coronary care unit after having angioplasty with stent placement. Which assessment data indicate the need for immediate action by the nurse?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Report of chest pain"
+        },
+        {
+          "id": "b",
+          "text": "Heart rate 102 beats/min"
+        },
+        {
+          "id": "c",
+          "text": "Pedal pulses 1+ bilaterally"
+        },
+        {
+          "id": "d",
+          "text": "Blood pressure 103/54 mm Hg"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "The patient's chest pain indicates that restenosis of the coronary artery may be occurring and requires immediate actions, such as administration of oxygen and nitroglycerin, by the nurse. The other information indicates a need for ongoing assessments by the nurse."
+    },
+    {
+      "id": "ch37-q32",
+      "question": "A patient admitted to the coronary care unit (CCU) with an ST-segment-elevation myocardial infarction (STEMI) is restless and anxious. The blood pressure is 86/40 mm Hg, and heart rate is 132 beats/min. Based on this information, which patient problem is the priority?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Acute pain"
+        },
+        {
+          "id": "b",
+          "text": "Deficient knowledge"
+        },
+        {
+          "id": "c",
+          "text": "Impaired cardiac function"
+        },
+        {
+          "id": "d",
+          "text": "Health maintenance alteration"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The hypotension and tachycardia indicate decreased cardiac output and shock from the impaired function of the damaged myocardium. This will result in decreased perfusion to all vital organs (e.g., brain, kidney, heart) and is a priority."
+    },
+    {
+      "id": "ch37-q33",
+      "question": "When admitting a patient with a non–ST-segment-elevation myocardial infarction (NSTEMI) to the intensive care unit, which action would the nurse perform first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Attach the heart monitor."
+        },
+        {
+          "id": "b",
+          "text": "Obtain the blood pressure."
+        },
+        {
+          "id": "c",
+          "text": "Assess the peripheral pulses."
+        },
+        {
+          "id": "d",
+          "text": "Auscultate the breath sounds."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Because dysrhythmias are the most common complication of myocardial infarction (MI), the first action should be to place the patient on a heart monitor. The other actions are also important and should be accomplished as quickly as possible."
+    },
+    {
+      "id": "ch37-q34",
+      "question": "Which information about a patient receiving thrombolytic therapy for an acute myocardial infarction is most important for the nurse to communicate to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "An increase in troponin levels from baseline"
+        },
+        {
+          "id": "b",
+          "text": "A large bruise at the patient's IV insertion site"
+        },
+        {
+          "id": "c",
+          "text": "No change in the patient's reported level of chest pain"
+        },
+        {
+          "id": "d",
+          "text": "A decrease in ST-segment elevation on the electrocardiogram"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Continued chest pain suggests that the thrombolytic therapy is not effective and that other interventions such as percutaneous coronary intervention may be needed. Bruising is a possible side effect of thrombolytic therapy, but it is not an indication that therapy should be discontinued. The decrease of the ST-segment elevation indicates that thrombolysis is occurring, and perfusion is returning to the injured myocardium. An increase in troponin levels is expected with reperfusion and is related to the washout of cardiac biomarkers into the circulation as the blocked vessel is opened."
+    },
+    {
+      "id": "ch37-q35",
+      "question": "The nurse obtains the following data when assessing a patient who experienced an ST-segment-elevation myocardial infarction (STEMI) 2 days previously. Which information is most important to report to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The troponin level is elevated."
+        },
+        {
+          "id": "b",
+          "text": "The patient denies having a heart attack."
+        },
+        {
+          "id": "c",
+          "text": "Bilateral crackles in the mid-lower lobes."
+        },
+        {
+          "id": "d",
+          "text": "Occasional premature atrial contractions (PACs)."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The crackles indicate that the patient may be developing heart failure, a possible complication of myocardial infarction (MI). The health care provider may need to order medications such as diuretics or angiotensin-converting enzyme inhibitors for the patient. Elevation in troponin level at this time is expected. PACs are not life-threatening dysrhythmias. Denial is a common response in the immediate period after the MI."
+    },
+    {
+      "id": "ch37-q36",
+      "question": "A patient had a non–ST-segment-elevation myocardial infarction (NSTEMI) 3 days ago. Which nursing intervention is appropriate for the registered nurse (RN) to delegate to an experienced licensed practical/vocational nurse (LPN/VN)?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Reinforcement of teaching about the prescribed medications"
+        },
+        {
+          "id": "b",
+          "text": "Evaluation of the patient's response to walking in the hallway"
+        },
+        {
+          "id": "c",
+          "text": "Completion of the referral form for a home health nurse follow-up"
+        },
+        {
+          "id": "d",
+          "text": "Education of the patient about the pathophysiology of heart disease"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "LPN/VN education and scope of practice include reinforcing education that has previously been done by the RN. Evaluating the patient's response to exercise after a NSTEMI requires more education and should be done by the RN. Teaching and discharge planning and referral are skills that require RN education and scope of practice."
+    },
+    {
+      "id": "ch37-q37",
+      "question": "A patient who has chest pain is admitted to the emergency department (ED), and all of the following items are prescribed. Which one would the nurse arrange to be completed first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Chest x-ray"
+        },
+        {
+          "id": "b",
+          "text": "Troponin level"
+        },
+        {
+          "id": "c",
+          "text": "Electrocardiogram (ECG)"
+        },
+        {
+          "id": "d",
+          "text": "Insertion of a peripheral IV"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The priority for the patient is to determine whether an acute myocardial infarction (AMI) is occurring so that the appropriate therapy can begin as quickly as possible. ECG changes occur very rapidly after coronary artery occlusion, and an ECG should be obtained as soon as possible. Troponin levels will increase after about 3 hours. Data from the chest x-ray may impact the patient's care but are not helpful in determining whether the patient is experiencing a myocardial infarction. Peripheral IV access will be needed but not before the ECG."
+    },
+    {
+      "id": "ch37-q38",
+      "question": "After receiving change-of-shift report about the following four patients on the cardiac care unit, which patient would the nurse assess first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A 39-year-old patient with pericarditis who is complaining of sharp, stabbing chest pain"
+        },
+        {
+          "id": "b",
+          "text": "A 56-year-old patient with variant angina who is scheduled to receive nifedipine (Procardia)"
+        },
+        {
+          "id": "c",
+          "text": "A 65-year-old patient who had a myocardial infarction (MI) 4 days ago and is anxious about today's planned discharge"
+        },
+        {
+          "id": "d",
+          "text": "A 59-year-old patient with unstable angina who has just returned after a percutaneous coronary intervention (PCI)"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "After PCI, the patient is at risk for hemorrhage from the arterial access site. The nurse should assess the patient's blood pressure, pulses, and the access site immediately. The other patients should also be assessed as quickly as possible, but assessment of this patient has the highest priority."
+    },
+    {
+      "id": "ch37-q39",
+      "question": "To improve the physical activity level for a 68-year-old patient who is mildly obese, which action would the nurse plan to take?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Stress that weight loss is a major benefit of increased exercise."
+        },
+        {
+          "id": "b",
+          "text": "Determine what kind of physical activities the patient usually enjoys."
+        },
+        {
+          "id": "c",
+          "text": "Tell the patient that older adults should exercise for no more than 20 minutes at a time."
+        },
+        {
+          "id": "d",
+          "text": "Teach the patient to include a short warm-up period at the beginning of physical activity."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Because patients are more likely to continue physical activities that they already enjoy, the nurse will plan to ask the patient about preferred activities. The goal for older adults is 30 minutes of moderate activity on most days. Older adults should plan for a longer warm-up period. Benefits of exercises, such as improved activity tolerance, should be emphasized rather than aiming for significant weight loss in older mildly obese adults."
+    },
+    {
+      "id": "ch37-q40",
+      "question": "Which patient at the cardiovascular clinic requires the most immediate action by the nurse?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Patient with type 2 diabetes whose current blood glucose level is 145 mg/dL"
+        },
+        {
+          "id": "b",
+          "text": "Patient with stable angina whose chest pain has recently increased in frequency"
+        },
+        {
+          "id": "c",
+          "text": "Patient with familial hypercholesterolemia and a total cholesterol of 465 mg/dL"
+        },
+        {
+          "id": "d",
+          "text": "Patient with chronic hypertension whose blood pressure today is 172/98 mm Hg"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The history of more frequent chest pain suggests that the patient may have unstable angina, which is part of the acute coronary syndrome spectrum. This will require rapid implementation of actions such as cardiac catheterization and possible percutaneous coronary intervention. The data about the other patients suggest that their conditions are more stable."
+    },
+    {
+      "id": "ch37-q41",
+      "question": "The nurse reviews information shown in the accompanying figure from the medical records of a 43-year-old patient. Which risk factor modification for coronary artery disease would the nurse include in patient teaching?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Importance of daily physical activity"
+        },
+        {
+          "id": "b",
+          "text": "Effect of weight loss on blood pressure"
+        },
+        {
+          "id": "c",
+          "text": "Dietary changes to improve lipid levels"
+        },
+        {
+          "id": "d",
+          "text": "Cardiac risk associated with previous tobacco use"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The patient has an elevated low-density lipoprotein cholesterol and low high-density lipoprotein cholesterol, which will increase the risk of coronary artery disease. The patient's waist circumference and body mass index indicate an appropriate body weight. The risk for coronary artery disease a year after quitting smoking is the same as a nonsmoker. The patient's occupation indicates that daily activity is at the levels suggested by national guidelines."
+    },
+    {
+      "id": "ch37-q42",
+      "question": "After reviewing a patient's history, vital signs, physical assessment, and laboratory data, which information shown in the accompanying figure is most important for the nurse to communicate to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Hyperglycemia"
+        },
+        {
+          "id": "b",
+          "text": "Bilateral crackles"
+        },
+        {
+          "id": "c",
+          "text": "Q waves on ECG"
+        },
+        {
+          "id": "d",
+          "text": "Elevated troponin"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Bilateral crackles suggests that the patient may be developing heart failure, a complication of myocardial infarction (MI). Hyperglycemia is common after MI because of the inflammatory process that occurs with tissue necrosis. Troponin levels will be elevated for several days after MI. Q waves often develop with ST-segment-elevation MI."
+    },
+    {
+      "id": "ch39-q1",
+      "question": "What would the nurse measure to determine whether there is a delay in electrical impulse conduction through the patient's ventricles?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "P wave"
+        },
+        {
+          "id": "b",
+          "text": "Q wave"
+        },
+        {
+          "id": "c",
+          "text": "PR interval"
+        },
+        {
+          "id": "d",
+          "text": "QRS complex"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "The QRS complex represents ventricular depolarization. The P wave represents the depolarization of the atria. The PR interval represents depolarization of the atria, atrioventricular node, bundle of His, bundle branches, and the Purkinje fibers. The Q wave is the first negative deflection following the P wave and would be narrow and short."
+    },
+    {
+      "id": "ch39-q2",
+      "question": "The nurse needs to measure the heart rate for a patient with an irregular heart rhythm. Which method will be accurate?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Count the number of large squares in the R-R interval and divide by 300."
+        },
+        {
+          "id": "b",
+          "text": "Print a 1-minute electrocardiogram (ECG) strip and count the number of QRS complexes."
+        },
+        {
+          "id": "c",
+          "text": "Use the 3-second markers to count the number of QRS complexes in 6 seconds and multiply by 10."
+        },
+        {
+          "id": "d",
+          "text": "Calculate the number of small squares between one QRS complex and the next and divide into 1500."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The accurate way to measure the heart rate from an EKG of a patient with an irregular rhythm is to count the number of QRS complexes in 1 minute. The other methods are accurate for regular heart rhythms."
+    },
+    {
+      "id": "ch39-q3",
+      "question": "A patient has a junctional escape rhythm on the monitor. Which range of heart rate would the nurse expect?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "15 to 20"
+        },
+        {
+          "id": "b",
+          "text": "20 to 40"
+        },
+        {
+          "id": "c",
+          "text": "40 to 60"
+        },
+        {
+          "id": "d",
+          "text": "60 to 100"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "If the sinoatrial (SA) node does not discharge, the atrioventricular (AV) node will automatically discharge at the normal rate of 40 to 60 beats/min. The slower rates are typical of the bundle of His and Purkinje system and may be seen with failure of both the SA and AV node to discharge. The normal SA node rate is 60 to 100 beats/min."
+    },
+    {
+      "id": "ch39-q4",
+      "question": "The nurse obtains a rhythm strip on a patient who has had a myocardial infarction and makes the following analysis: no visible P waves, PR interval not measurable, ventricular rate of 162, R-R interval regular, QRS complex wide and distorted, and QRS duration of 0.18 second. How would the nurse interpret this cardiac rhythm?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Atrial flutter"
+        },
+        {
+          "id": "b",
+          "text": "Sinus tachycardia"
+        },
+        {
+          "id": "c",
+          "text": "Ventricular fibrillation"
+        },
+        {
+          "id": "d",
+          "text": "Ventricular tachycardia"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "The absence of P waves, wide QRS, rate greater than 150 beats/min, and the regularity of the rhythm indicate ventricular tachycardia. Atrial flutter is usually regular, has a narrow QRS configuration, and has flutter waves present representing atrial activity. Sinus tachycardia has P waves. Ventricular fibrillation is irregular and does not have a consistent QRS duration."
+    },
+    {
+      "id": "ch39-q5",
+      "question": "A patient's heart monitor shows that every other beat is earlier than expected, has no visible P wave, and has a QRS complex that is wide and bizarre in shape. How will the nurse document the rhythm?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Ventricular couplets"
+        },
+        {
+          "id": "b",
+          "text": "Ventricular bigeminy"
+        },
+        {
+          "id": "c",
+          "text": "Ventricular R-on-T phenomenon"
+        },
+        {
+          "id": "d",
+          "text": "Multifocal premature ventricular contractions"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Ventricular bigeminy describes a rhythm in which every other QRS complex is wide and bizarre looking. Pairs of wide QRS complexes are described as ventricular couplets. There is no indication that the premature ventricular contractions are multifocal or that the R-on-T phenomenon is occurring."
+    },
+    {
+      "id": "ch39-q6",
+      "question": "A patient has a sinus rhythm and a heart rate of 72 beats/min. The nurse determines that the PR interval is 0.24 seconds. Which action would the nurse take?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Notify the health care provider immediately."
+        },
+        {
+          "id": "b",
+          "text": "Document the finding and monitor the patient."
+        },
+        {
+          "id": "c",
+          "text": "Give atropine per agency dysrhythmia protocol."
+        },
+        {
+          "id": "d",
+          "text": "Prepare the patient for temporary pacemaker insertion."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "First-degree atrioventricular block is asymptomatic and usually not serious. There is no treatment for first-degree AV block; treatment of associated conditions may be considered. Monitor patients for changes in heart rhythm (e.g., more serious AV block). The rate is normal, so there is no indication that atropine is needed. Immediate notification of the health care provider about an asymptomatic rhythm is not necessary."
+    },
+    {
+      "id": "ch39-q7",
+      "question": "A patient who was admitted with a myocardial infarction has a 45-second episode of ventricular tachycardia, then converts to sinus rhythm with a heart rate of 98 beats/min. Which action would the nurse take next?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Immediately notify the health care provider."
+        },
+        {
+          "id": "b",
+          "text": "Document the rhythm and continue to monitor the patient."
+        },
+        {
+          "id": "c",
+          "text": "Prepare for synchronized cardioversion per agency protocol."
+        },
+        {
+          "id": "d",
+          "text": "Prepare to give IV amiodarone per agency dysrhythmia protocol."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "The burst of sustained ventricular tachycardia indicates that the patient has significant ventricular irritability, and antidysrhythmic medication administration is needed to prevent further episodes. The nurse should notify the health care provider after the medication is started. Cardioversion is not indicated given that the patient has returned to a sinus rhythm. Documentation and continued monitoring are not adequate responses to this situation."
+    },
+    {
+      "id": "ch39-q8",
+      "question": "After the nurse gives IV atropine to a patient with symptomatic type 1, second-degree atrioventricular (AV) block, which finding indicates that the drug has been effective?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Increase in the patient's heart rate"
+        },
+        {
+          "id": "b",
+          "text": "Increase in strength of peripheral pulses"
+        },
+        {
+          "id": "c",
+          "text": "Decrease in premature atrial contractions"
+        },
+        {
+          "id": "d",
+          "text": "Decrease in premature ventricular contractions"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Atropine will increase the heart rate and conduction through the AV node. Because the drug increases electrical conduction, not cardiac contractility, the quality of the peripheral pulses is not used to evaluate the drug effectiveness. Premature atrial or ventricular contractions are not a feature of second degree AV block."
+    },
+    {
+      "id": "ch39-q9",
+      "question": "A patient with dilated cardiomyopathy has new onset atrial fibrillation that has been unresponsive to drug therapy for four days. Which topic would the nurse plan to include in patient teaching?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Anticoagulant therapy"
+        },
+        {
+          "id": "b",
+          "text": "Permanent pacemakers"
+        },
+        {
+          "id": "c",
+          "text": "Emergency cardioversion"
+        },
+        {
+          "id": "d",
+          "text": "IV adenosine (Adenocard)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Atrial fibrillation therapy that has persisted for more than 48 hours requires anticoagulant treatment for 3 weeks before attempting cardioversion. This is done to prevent embolization of clots from the atria. Cardioversion may be done after several weeks of anticoagulation therapy. Adenosine is not used to treat atrial fibrillation. Pacemakers are routinely used for patients with bradydysrhythmias. Information does not indicate that the patient has a slow heart rate."
+    },
+    {
+      "id": "ch39-q10",
+      "question": "Which information will the nurse include when teaching a patient with atrial flutter who is scheduled for a radiofrequency catheter ablation?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The procedure stimulates the growth of new pathways between the atria."
+        },
+        {
+          "id": "b",
+          "text": "The procedure uses cold therapy to stop the formation of the flutter waves."
+        },
+        {
+          "id": "c",
+          "text": "The procedure uses electrical energy to destroy areas of the conduction system."
+        },
+        {
+          "id": "d",
+          "text": "The procedure prevents or minimizes the patient's risk for sudden cardiac death."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Radiofrequency catheter ablation therapy uses electrical energy to “burn” or ablate areas of the conduction system as definitive treatment of atrial flutter (i.e., restore normal sinus rhythm) and tachydysrhythmias. All other statements about the procedure are incorrect."
+    },
+    {
+      "id": "ch39-q11",
+      "question": "Which patient statement indicates that discharge teaching about the management of a new permanent pacemaker was effective?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“It will be several weeks before I can return to my usual activities.”"
+        },
+        {
+          "id": "b",
+          "text": "“I will avoid cooking with a microwave oven or being near one in use.”"
+        },
+        {
+          "id": "c",
+          "text": "“I will notify the airlines when I make a reservation that I have a pacemaker.”"
+        },
+        {
+          "id": "d",
+          "text": "“I won't lift the arm on the incision side until I see the health care provider.”"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "The patient is instructed to avoid lifting the arm on the pacemaker side above the shoulder to avoid displacing the pacemaker leads. The patient should notify airport security about the presence of a pacemaker before going through the metal detector, but there is no need to notify the airlines when making a reservation. Microwave oven use does not affect the pacemaker. The insertion procedure involves minor surgery that will have a short recovery period."
+    },
+    {
+      "id": "ch39-q12",
+      "question": "Which action by a nurse caring for a patient after an implantable cardioverter-defibrillator (ICD) insertion indicates a need for more teaching about the care of patients with ICDs?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The nurse administers amiodarone (Cordarone) to the patient."
+        },
+        {
+          "id": "b",
+          "text": "The nurse helps the patient fill out the application for obtaining a Medic Alert device."
+        },
+        {
+          "id": "c",
+          "text": "The nurse encourages the patient to do active range-of-motion exercises for all extremities."
+        },
+        {
+          "id": "d",
+          "text": "The nurse teaches the patient that sexual activity can be resumed when the incision is healed."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The patient should avoid moving the arm on the ICD insertion site until healing has occurred to prevent displacement of the ICD leads. The other actions by the nurse are appropriate for this patient."
+    },
+    {
+      "id": "ch39-q13",
+      "question": "A patient with supraventricular tachycardia who is alert and has a blood pressure of 110/66 mm Hg is being prepared for cardioversion. Which action should the nurse expect to take?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Turn the synchronizer switch to the “off” position."
+        },
+        {
+          "id": "b",
+          "text": "Give a sedative before cardioversion is implemented."
+        },
+        {
+          "id": "c",
+          "text": "Set the defibrillator/cardioverter energy to 360 joules."
+        },
+        {
+          "id": "d",
+          "text": "Provide assisted ventilations with a bag-valve-mask device."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "When a patient has a nonemergency cardioversion, sedation is used just before the procedure. The synchronizer switch is turned “on” for cardioversion. The initial level of joules for cardioversion is low (e.g., 50). Assisted ventilations are not indicated for this alert patient."
+    },
+    {
+      "id": "ch39-q14",
+      "question": "A 20-yr-old patient has a mandatory electrocardiogram (ECG) before participating on a college soccer team. The patient is found to have sinus bradycardia, rate 52 and blood pressure (BP) 114/54 mm Hg. The student denies any health problems. Which action would the nurse take?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Approve the student to participate on the soccer team."
+        },
+        {
+          "id": "b",
+          "text": "Refer the student to a cardiologist for further testing."
+        },
+        {
+          "id": "c",
+          "text": "Tell the student to stop playing immediately if any dyspnea occurs."
+        },
+        {
+          "id": "d",
+          "text": "Obtain more detailed information about the student's family health history."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "In an aerobically trained individual, sinus bradycardia is normal. The student's normal BP and negative health history indicate that there is no need for a cardiology referral or for more detailed information about the family's health history. Dyspnea during an aerobic activity such as soccer is normal."
+    },
+    {
+      "id": "ch39-q15",
+      "question": "Which finding from a newly admitted adult patient's electrocardiogram (ECG) requires further investigation by the nurse?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Isoelectric ST segment"
+        },
+        {
+          "id": "b",
+          "text": "PR interval of 0.18 second"
+        },
+        {
+          "id": "c",
+          "text": "QT interval of 0.38 second"
+        },
+        {
+          "id": "d",
+          "text": "QRS interval of 0.14 second"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Because the normal QRS interval is less than 0.12 seconds, the patient's QRS interval of 0.14 seconds indicates that the conduction through the ventricular conduction system is prolonged. The PR interval and QT interval are within normal range and ST segment should be isoelectric (flat)."
+    },
+    {
+      "id": "ch39-q16",
+      "question": "Which laboratory result for a patient with multifocal premature ventricular contractions (PVCs) is most important for the nurse to communicate to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Blood glucose of 243 mg/dL"
+        },
+        {
+          "id": "b",
+          "text": "Serum chloride of 92 mEq/L"
+        },
+        {
+          "id": "c",
+          "text": "Serum sodium of 134 mEq/L"
+        },
+        {
+          "id": "d",
+          "text": "Serum potassium of 2.9 mEq/L"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Hypokalemia increases the risk for ventricular dysrhythmias such as PVCs, ventricular tachycardia, and ventricular fibrillation. The health care provider will need to prescribe a potassium infusion to correct this abnormality. Although the other laboratory values are also abnormal, they are not likely to be the cause of the patient's PVCs and do not require immediate correction."
+    },
+    {
+      "id": "ch39-q17",
+      "question": "A patient's heart monitor shows a pattern of undulations of varying contours and amplitude with no measurable ECG pattern. The patient is unconscious, apneic, and pulseless. Which action would the nurse take first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Give epinephrine (Adrenalin) IV."
+        },
+        {
+          "id": "b",
+          "text": "Perform immediate defibrillation."
+        },
+        {
+          "id": "c",
+          "text": "Prepare for endotracheal intubation."
+        },
+        {
+          "id": "d",
+          "text": "Ventilate with a bag-valve-mask device."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The patient's rhythm and assessment indicate ventricular fibrillation and cardiac arrest; the initial action should be to defibrillate. If a defibrillator is not immediately available or is unsuccessful in converting the patient to a better rhythm, begin chest compressions. The other actions may also be appropriate but should not be done first."
+    },
+    {
+      "id": "ch39-q18",
+      "question": "A patient's heart monitor shows sinus rhythm, rate 64. The PR interval is 0.18 seconds at 1:00 AM, 0.22 seconds at 2:30 PM, and 0.28 seconds at 4:00 PM. Which action would the nurse take first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Place the transcutaneous pacemaker pads on the patient."
+        },
+        {
+          "id": "b",
+          "text": "Give atropine sulfate 1 mg IV per agency dysrhythmia protocol."
+        },
+        {
+          "id": "c",
+          "text": "Hold the scheduled metoprolol (Lopressor) and call the health care provider."
+        },
+        {
+          "id": "d",
+          "text": "Document the patient's rhythm and PR measurements in the medical record."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The patient has progressive first-degree atrioventricular (AV) block, and the -blocker should be held until discussing the drug with the health care provider. Documentation is appropriate later. The patient with first-degree AV block usually is asymptomatic; if the patient became symptomatic, a pacemaker or atropine may be used."
+    },
+    {
+      "id": "ch39-q19",
+      "question": "A patient develops sinus bradycardia at a rate of 32 beats/min, has a blood pressure (BP) of 80/42 mm Hg, and reports feeling faint. Which action would the nurse take?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Reposition the patient on the left side."
+        },
+        {
+          "id": "b",
+          "text": "Have the patient perform the Valsalva maneuver."
+        },
+        {
+          "id": "c",
+          "text": "Give the scheduled dose of diltiazem (Cardizem)."
+        },
+        {
+          "id": "d",
+          "text": "Apply the transcutaneous pacemaker (TCP) pads."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "The patient is experiencing symptomatic bradycardia and treatment with TCP is appropriate. Calcium channel blockers will further decrease the heart rate and the diltiazem should be held. The Valsalva maneuver will further decrease the rate. Repositioning on the left side may decrease cardiac output and blood pressure further."
+    },
+    {
+      "id": "ch39-q20",
+      "question": "A 19-year-old student comes to the student health center at the end of the semester stating, “My heart is skipping beats.” An electrocardiogram (ECG) shows occasional unifocal premature ventricular contractions (PVCs). What action would the nurse take next?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Insert an IV catheter for emergency use."
+        },
+        {
+          "id": "b",
+          "text": "Start supplemental O2 at 2 to 3 L/min via nasal cannula."
+        },
+        {
+          "id": "c",
+          "text": "Ask the patient about current stress level and caffeine use."
+        },
+        {
+          "id": "d",
+          "text": "Have the patient taken to the nearest emergency department (ED)."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "In a patient with a normal heart, occasional PVCs are a benign finding. The timing of the PVCs suggests stress or caffeine as possible etiologic factors. The patient is hemodynamically stable, so there is no indication that the patient needs supplemental O2, an IV, or to be seen in the ED."
+    },
+    {
+      "id": "ch39-q21",
+      "question": "The nurse has received change-of-shift report about the following patients on the progressive care unit. Which patient would the nurse see first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A patient with atrial fibrillation, rate 88 and irregular, who has a dose of warfarin (Coumadin) due"
+        },
+        {
+          "id": "b",
+          "text": "A patient with second-degree atrioventricular (AV) block, type 1, rate 60, who is dizzy when ambulating"
+        },
+        {
+          "id": "c",
+          "text": "A patient who is in a sinus rhythm, rate 98 and regular, recovering from an elective cardioversion 2 hours ago"
+        },
+        {
+          "id": "d",
+          "text": "A patient whose implantable cardioverter-defibrillator (ICD) fired twice today and has a dose of amiodarone due"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "The frequent firing of the ICD indicates that the patient's ventricles are very irritable. The priority is to assess the patient and give the amiodarone. The other patients can be seen after the amiodarone is given."
+    },
+    {
+      "id": "ch39-q22",
+      "question": "A patient on the telemetry unit develops atrial flutter, rate 150, with associated dyspnea and chest pain. Which action in the agency dysrhythmia protocol would the nurse take first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Obtain a 12-lead electrocardiogram (ECG)."
+        },
+        {
+          "id": "b",
+          "text": "Notify the health care provider of the change in rhythm."
+        },
+        {
+          "id": "c",
+          "text": "Give supplemental O2 at 2 to 3 L/min via nasal cannula."
+        },
+        {
+          "id": "d",
+          "text": "Assess the patient's blood pressure and discomfort level."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Because this patient has dyspnea and chest pain in association with the new rhythm, the nurse's initial actions should be to address the patient's airway, breathing, and circulation (ABC) by starting with O2 administration. The other actions are also important and should be implemented rapidly."
+    },
+    {
+      "id": "ch39-q23",
+      "question": "A patient is apneic and has no palpable pulses. The heart monitor shows sinus tachycardia, rate 132. Which action would the nurse take next?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Perform synchronized cardioversion."
+        },
+        {
+          "id": "b",
+          "text": "Start cardiopulmonary resuscitation (CPR)."
+        },
+        {
+          "id": "c",
+          "text": "Give atropine per agency dysrhythmia protocol."
+        },
+        {
+          "id": "d",
+          "text": "Apply supplemental O2 via non-rebreather mask."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The patient's manifestations indicate pulseless electrical activity, and the nurse would immediately start CPR. The other actions would not benefit this patient."
+    },
+    {
+      "id": "ch39-q24",
+      "question": "Which action will the nurse include in the plan of care for a patient who was admitted with syncopal episodes of unknown origin?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Teach the patient to avoid caffeine and other stimulants."
+        },
+        {
+          "id": "b",
+          "text": "Instruct the patient to call for help before getting out of bed."
+        },
+        {
+          "id": "c",
+          "text": "Explain the association between dysrhythmias and syncope."
+        },
+        {
+          "id": "d",
+          "text": "Tell the patient about implantable cardioverter-defibrillators."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "A patient with fainting episodes is at risk for falls. The nurse will plan to minimize the risk by having assistance whenever the patient is up. The other actions may be needed if dysrhythmias are found to be the cause of the patient's syncope but are not appropriate for syncope of unknown origin."
+    },
+    {
+      "id": "ch39-q25",
+      "question": "Which nursing action can the registered nurse (RN) delegate to experienced assistive personnel (AP) working as telemetry technicians on the cardiac care unit?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Decide whether a patient's heart rate of 116 requires urgent treatment."
+        },
+        {
+          "id": "b",
+          "text": "Observe heart rhythms for multiple patients who have telemetry monitoring."
+        },
+        {
+          "id": "c",
+          "text": "Monitor a patient's level of consciousness during synchronized cardioversion."
+        },
+        {
+          "id": "d",
+          "text": "Select the best lead for monitoring a patient admitted with acute coronary syndrome."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "AP serving as telemetry technicians can monitor heart rhythms for individuals or groups of patients. Nursing actions such as assessment and choice of the most appropriate lead based on ST segment elevation location require RN-level education and scope of practice."
+    },
+    {
+      "id": "ch39-q26",
+      "question": "Which action by a registered nurse (RN) who is orienting to the telemetry unit indicates a good understanding of the treatment of heart dysrhythmias?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Prepares defibrillator settings at 360 joules for a patient whose monitor shows asystole."
+        },
+        {
+          "id": "b",
+          "text": "Injects IV adenosine over 2 seconds for a patient with supraventricular tachycardia."
+        },
+        {
+          "id": "c",
+          "text": "Turns the synchronizer switch to the “on” position before defibrillating a patient with ventricular fibrillation."
+        },
+        {
+          "id": "d",
+          "text": "Gives the prescribed dose of diltiazem (Cardizem) to a patient with new-onset type II second-degree AV block."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Adenosine must be given over 1 to 2 seconds to be effective. The other actions indicate a need for more teaching about treatment of heart dysrhythmias. The RN should hold the diltiazem until discussing it with the health care provider. The treatment for asystole is immediate CPR. The synchronizer switch should be “off” when defibrillating."
+    },
+    {
+      "id": "ch39-q27",
+      "question": "A patient who reports a “racing” heart and feeling “anxious” comes to the emergency department. The nurse places the patient on a heart monitor and obtains the following electrocardiographic (ECG) tracing. Which action would the nurse take next?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Administer morphine 4 mg IV."
+        },
+        {
+          "id": "b",
+          "text": "Have the patient perform the Valsalva maneuver."
+        },
+        {
+          "id": "c",
+          "text": "Obtain the patient's vital signs including O2 saturation."
+        },
+        {
+          "id": "d",
+          "text": "Prepare to give a -blocker medication to slow the heart rate."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The patient has sinus tachycardia, which may have multiple causes, such as pain, dehydration, anxiety, and myocardial ischemia. Further assessment is needed before determining the treatment. Vagal stimulation, pain management, or -blockade may be used after further assessment of the patient."
+    },
+    {
+      "id": "ch40-q1",
+      "question": "The nurse obtains a health history from an older adult with a prosthetic mitral valve who has symptoms of infective endocarditis (IE). Which question by the nurse helps identify a risk factor for IE?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“Do you have a history of a heart attack?”"
+        },
+        {
+          "id": "b",
+          "text": "“Have you had dental work done recently?”"
+        },
+        {
+          "id": "c",
+          "text": "“Have you had any recent immunizations?”"
+        },
+        {
+          "id": "d",
+          "text": "“Do you have a family history of endocarditis?”"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Dental procedures place the patient with a prosthetic mitral valve at risk for IE. Myocardial infarction, immunizations, and a family history of endocarditis are not risk factors for IE."
+    },
+    {
+      "id": "ch40-q2",
+      "question": "Which finding would the nurse expect when assessing a young adult with infective endocarditis (IE)?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Substernal chest pressure"
+        },
+        {
+          "id": "b",
+          "text": "A new regurgitant murmur"
+        },
+        {
+          "id": "c",
+          "text": "A pruritic rash on the chest"
+        },
+        {
+          "id": "d",
+          "text": "Involuntary muscle movement"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "New regurgitant murmurs occur in IE because vegetations on the valves prevent valve closure. Substernal chest discomfort, rashes, and involuntary muscle movement are clinical manifestations of other cardiac disorders such as angina and rheumatic fever."
+    },
+    {
+      "id": "ch40-q3",
+      "question": "Which assessment finding indicates to the nurse that a patient with infective endocarditis has impaired cardiac function?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Prolonged fever with chills"
+        },
+        {
+          "id": "b",
+          "text": "Urine production of 25 mL/hr"
+        },
+        {
+          "id": "c",
+          "text": "Increase in heart rate of 15 beats/min with walking"
+        },
+        {
+          "id": "d",
+          "text": "Petechiae on the inside of the mouth and conjunctiva"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Decreased renal perfusion caused by inadequate cardiac output will lead to decreased urine output. Petechiae, fever, chills, and diaphoresis are symptoms of IE but are not caused by decreased cardiac output. An increase in pulse rate of 15 beats/min is normal with exercise."
+    },
+    {
+      "id": "ch40-q4",
+      "question": "Which intervention would the nurse include when planning care for a patient hospitalized with a streptococcal infective endocarditis (IE)?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Arrange for placement of a long-term IV catheter."
+        },
+        {
+          "id": "b",
+          "text": "Monitor labs for levels of streptococcal antibodies."
+        },
+        {
+          "id": "c",
+          "text": "Teach the importance of completing all oral antibiotics."
+        },
+        {
+          "id": "d",
+          "text": "Encourage the patient to begin regular aerobic exercise."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Treatment for IE involves 4 to 6 weeks of IV antibiotic therapy to eradicate the bacteria, which will require a long-term IV catheter such as a peripherally inserted central catheter (PICC) line. Rest periods and limiting physical activity to a moderate level are recommended during the treatment for IE. Oral antibiotics are not effective in eradicating the infective bacteria that cause IE. Blood cultures, rather than antibody levels, are used to monitor the effectiveness of antibiotic therapy."
+    },
+    {
+      "id": "ch40-q5",
+      "question": "A patient is admitted to the hospital with possible acute pericarditis. Which diagnostic test would the nurse expect the patient to undergo?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Blood cultures"
+        },
+        {
+          "id": "b",
+          "text": "Echocardiography"
+        },
+        {
+          "id": "c",
+          "text": "Cardiac catheterization"
+        },
+        {
+          "id": "d",
+          "text": "24-hour Holter monitor"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Echocardiograms are useful in detecting the presence of the pericardial effusions associated with pericarditis. Blood cultures are not indicated unless the patient has evidence of sepsis. Cardiac catheterization is not diagnostic for pericarditis. The 12-lead EKG may show changes with pericarditis, but a 24-hour Holter monitor would not be needed."
+    },
+    {
+      "id": "ch40-q6",
+      "question": "How would the nurse assess the patient with pericarditis for a pericardial friction rub?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Auscultate with the diaphragm of the stethoscope on the lower left sternal border."
+        },
+        {
+          "id": "b",
+          "text": "Auscultate for a rumbling, low-pitched, systolic murmur over the left anterior chest."
+        },
+        {
+          "id": "c",
+          "text": "Feel the precordial area with the palm of the hand to detect vibrations with cardiac contraction."
+        },
+        {
+          "id": "d",
+          "text": "Ask the patient to cough during auscultation to distinguish the sound from a pleural friction rub."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Pericardial friction rubs are best heard with the diaphragm at the lower left sternal border. The nurse should ask the patient to hold his or her breath during auscultation to distinguish the sounds from a pleural friction rub. Friction rubs are not typically low pitched or rumbling and are not confined to systole. Rubs are not assessed by palpation."
+    },
+    {
+      "id": "ch40-q7",
+      "question": "The nurse suspects cardiac tamponade in a patient who has acute pericarditis. How would the nurse assess for the presence of pulsus paradoxus?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Subtract the diastolic blood pressure from the systolic blood pressure."
+        },
+        {
+          "id": "b",
+          "text": "Note when Korotkoff sounds are heard during both inspiration and expiration."
+        },
+        {
+          "id": "c",
+          "text": "Check the electrocardiogram (ECG) for variations in rate during the respiratory cycle."
+        },
+        {
+          "id": "d",
+          "text": "Listen for a pericardial friction rub that persists when the patient is instructed to stop breathing."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Pulsus paradoxus exists when there is a gap of greater than 10 mm Hg between when Korotkoff sounds can be heard during only expiration and when they can be heard throughout the respiratory cycle. The other methods described would not be useful in determining the presence of pulsus paradoxus. The difference between the diastolic blood pressure and the systolic blood pressure is known as the pulse pressure."
+    },
+    {
+      "id": "ch40-q8",
+      "question": "A patient has pain due to acute pericarditis. Which action would the nurse take?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Force fluids to 3000 mL/day to decrease the inflammation."
+        },
+        {
+          "id": "b",
+          "text": "Teach the patient to take deep, slow breaths to control the pain."
+        },
+        {
+          "id": "c",
+          "text": "Place the patient in Fowler's position, leaning forward on the table."
+        },
+        {
+          "id": "d",
+          "text": "Provide a fresh ice bag every hour for the patient to place on the chest."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Sitting upright and leaning forward often will decrease the pain associated with pericarditis. Forcing fluids will not decrease the inflammation or pain. Taking deep breaths will tend to increase pericardial pain. Ice does not decrease this type of inflammation and pain."
+    },
+    {
+      "id": "ch40-q9",
+      "question": "The nurse is admitting a patient with possible rheumatic fever. Which question on the admission health history focuses on a pertinent risk factor for rheumatic fever?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“Do you use any illegal IV drugs?”"
+        },
+        {
+          "id": "b",
+          "text": "“Have you ever injured your chest?”"
+        },
+        {
+          "id": "c",
+          "text": "“Have you had a recent sore throat?”"
+        },
+        {
+          "id": "d",
+          "text": "“Do you have a family history of heart disease?”"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Rheumatic fever occurs because of an abnormal immune response to a streptococcal infection. Although IV drug use should be discussed with the patient before discharge, it is not a risk factor for rheumatic fever. Family history is not a risk factor for rheumatic fever. Chest injury would cause musculoskeletal chest pain rather than rheumatic fever."
+    },
+    {
+      "id": "ch40-q10",
+      "question": "A patient with rheumatic fever has subcutaneous nodules, erythema marginatum, and polyarthritis. The patient reports that joint discomfort prevents favorite activities such as taking a daily walk and sewing. Which patient problem would be the focus of nursing interventions?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Social isolation"
+        },
+        {
+          "id": "b",
+          "text": "General anxiety"
+        },
+        {
+          "id": "c",
+          "text": "Activity intolerance"
+        },
+        {
+          "id": "d",
+          "text": "Altered body image"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The patient's joint pain will lead to difficulty with activity. Although acute joint pain will be a problem for this patient, joint inflammation is a temporary clinical manifestation of rheumatic fever and is not associated with permanent joint changes. This patient did not provide any data to support a problem with social isolation, anxiety, or altered body image."
+    },
+    {
+      "id": "ch40-q11",
+      "question": "The home health nurse is visiting a 30-yr-old patient recovering from rheumatic fever without carditis. Which statement by the patient indicates a need for further teaching?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“I will need prophylactic antibiotic therapy for 5 years.”"
+        },
+        {
+          "id": "b",
+          "text": "“I can take aspirin or ibuprofen to relieve my joint pain.”"
+        },
+        {
+          "id": "c",
+          "text": "“I will be immune to future episodes of rheumatic fever after this infection.”"
+        },
+        {
+          "id": "d",
+          "text": "“I should call the health care provider if I am tired or have trouble breathing.”"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Patients with a history of rheumatic fever are more susceptible to a second episode. Patients with rheumatic fever without carditis require prophylaxis until age 20 years and for a minimum of 5 years. The other patient statements are correct."
+    },
+    {
+      "id": "ch40-q12",
+      "question": "Which action would the nurse include in a community health program to decrease the incidence of rheumatic fever?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Vaccinate high-risk groups in the community with streptococcal vaccine."
+        },
+        {
+          "id": "b",
+          "text": "Teach community members to seek treatment for streptococcal pharyngitis."
+        },
+        {
+          "id": "c",
+          "text": "Teach about the importance of monitoring temperature when sore throats occur."
+        },
+        {
+          "id": "d",
+          "text": "Teach about prophylactic antibiotics to those with a family history of rheumatic fever."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The incidence of rheumatic fever is decreased by treatment of streptococcal infections with antibiotics. Family history is not a risk factor for rheumatic fever. There is no immunization that is effective in decreasing the incidence of rheumatic fever. Teaching about monitoring temperature will not decrease the incidence of rheumatic fever."
+    },
+    {
+      "id": "ch40-q13",
+      "question": "Which finding for a patient with mitral valve stenosis would be of most concern to the nurse?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Diastolic murmur"
+        },
+        {
+          "id": "b",
+          "text": "Peripheral edema"
+        },
+        {
+          "id": "c",
+          "text": "Shortness of breath on exertion"
+        },
+        {
+          "id": "d",
+          "text": "Right upper quadrant tenderness"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The pressure gradient changes in mitral stenosis lead to fluid backup into the lungs, resulting in hypoxemia and dyspnea. The other findings also may be associated with mitral valve disease but are not indicators of hypoxemia, which is a priority."
+    },
+    {
+      "id": "ch40-q14",
+      "question": "A 21-yr-old woman is considering heart valve replacement surgery. Which information would the nurse include when explaining the differences in ongoing care required with different types of valves?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Biologic valves require immunosuppressive drugs after surgery."
+        },
+        {
+          "id": "b",
+          "text": "Mechanical mitral valves need to be replaced sooner than biologic valves."
+        },
+        {
+          "id": "c",
+          "text": "Lifelong anticoagulant therapy is needed after mechanical valve replacement."
+        },
+        {
+          "id": "d",
+          "text": "Ongoing care by a health care provider is not necessary after valve replacement."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Long-term anticoagulation therapy is needed after mechanical valve replacement, and this would restrict decisions about career and childbearing in this patient. Mechanical valves are durable and last longer than biologic valves. All valve repair procedures are palliative, not curative, and require lifelong health care. Biologic valves do not activate the immune system and immunosuppressive therapy is not needed."
+    },
+    {
+      "id": "ch40-q15",
+      "question": "Which statement by a 23-yr-old patient who has mitral valve prolapse (MVP) without valvular regurgitation indicates that discharge teaching has been effective?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“I will take antibiotics before any dental appointments.”"
+        },
+        {
+          "id": "b",
+          "text": "“I will limit physical activity to avoid stressing the heart.”"
+        },
+        {
+          "id": "c",
+          "text": "“I should avoid over-the-counter drugs that contain stimulants.”"
+        },
+        {
+          "id": "d",
+          "text": "“I should take an aspirin a day to prevent clots from forming on the valve.”"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Patients with MVP should avoid using stimulant drugs because they may exacerbate symptoms. Daily aspirin and restricted physical activity are not needed by patients with mild MVP. Antibiotic prophylaxis is needed for patients with MVP with regurgitation but will not be necessary for this patient."
+    },
+    {
+      "id": "ch40-q16",
+      "question": "A patient with aortic stenosis has acute pain due to decreased coronary blood flow. Which intervention would the nurse plan for this patient?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Promote rest to decrease myocardial oxygen demand."
+        },
+        {
+          "id": "b",
+          "text": "Teach the patient to self-administer anticoagulant therapy."
+        },
+        {
+          "id": "c",
+          "text": "Teach the patient to use sublingual nitroglycerin for chest pain."
+        },
+        {
+          "id": "d",
+          "text": "Raise the head of the bed 60 degrees to decrease venous return."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Rest is recommended to balance myocardial oxygen supply and demand and to decrease chest pain. The patient with aortic stenosis requires higher preload to maintain cardiac output, so nitroglycerin and measures to decrease venous return are contraindicated. Anticoagulation is not recommended unless the patient has atrial fibrillation."
+    },
+    {
+      "id": "ch40-q17",
+      "question": "An older adult patient who had a mitral valve replacement with a mechanical valve is taking warfarin. Which information would the nurse include in discharge teaching?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Use of daily aspirin for anticoagulation."
+        },
+        {
+          "id": "b",
+          "text": "Correct method for taking the radial pulse."
+        },
+        {
+          "id": "c",
+          "text": "Need for frequent laboratory blood testing."
+        },
+        {
+          "id": "d",
+          "text": "Plan to avoid any physical activity for 1 month."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Anticoagulation with warfarin (Coumadin) is needed for a patient with mechanical valves to prevent clotting on the valve. This will require frequent international normalized ratio testing. Daily aspirin use will not be effective in reducing the risk for clots on the valve. Monitoring of the radial pulse is not necessary after valve replacement. Patients should resume activities of daily living as tolerated."
+    },
+    {
+      "id": "ch40-q18",
+      "question": "A patient recovering from heart surgery develops pericarditis and reports level 6 (0 to 10 scale) chest pain with deep breathing. Which prescribed PRN medication will likely be the most helpful in relieving the pain?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Fentanyl 1 mg IV"
+        },
+        {
+          "id": "b",
+          "text": "IV morphine sulfate 4 mg"
+        },
+        {
+          "id": "c",
+          "text": "Oral ibuprofen (Motrin) 600 mg"
+        },
+        {
+          "id": "d",
+          "text": "Oral acetaminophen (Tylenol) 650 mg"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The pain associated with pericarditis is caused by inflammation, so nonsteroidal antiinflammatory drugs (e.g., ibuprofen) are most effective. Opioid analgesics and acetaminophen are not very effective for the pain associated with pericarditis."
+    },
+    {
+      "id": "ch40-q19",
+      "question": "Which assessment finding for a patient with infective endocarditis is consistent with embolized vegetations from the tricuspid valve?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Flank pain"
+        },
+        {
+          "id": "b",
+          "text": "Splenomegaly"
+        },
+        {
+          "id": "c",
+          "text": "Shortness of breath"
+        },
+        {
+          "id": "d",
+          "text": "Mental status changes"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Embolization from the tricuspid valve would cause symptoms of pulmonary embolus. Flank pain, changes in mental status, and splenomegaly would be associated with embolization from the left-sided valves."
+    },
+    {
+      "id": "ch40-q20",
+      "question": "A patient admitted with acute dyspnea is newly diagnosed with dilated cardiomyopathy. Which information will the nurse plan to teach the patient?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A heart transplant should be scheduled as soon as possible."
+        },
+        {
+          "id": "b",
+          "text": "Notify the health care provider about worsening symptoms."
+        },
+        {
+          "id": "c",
+          "text": "Elevating the legs above the heart will help relieve dyspnea."
+        },
+        {
+          "id": "d",
+          "text": "Careful compliance with diet and medications will prevent heart failure."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The patient should be instructed to notify the health care provider about any worsening of heart failure symptoms. Because dilated cardiomyopathy does not respond well to therapy, even patients with good compliance with therapy may have recurrent episodes of heart failure. Elevation of the legs above the heart will worsen symptoms (although this approach is appropriate for a patient with hypertrophic cardiomyopathy). The patient with terminal or end-stage cardiomyopathy may consider heart transplantation."
+    },
+    {
+      "id": "ch40-q21",
+      "question": "The nurse is obtaining a health history from a 24-yr-old patient with hypertrophic cardiomyopathy (CMP). Which information obtained by the nurse is most important in planning care?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient had a recent upper respiratory infection."
+        },
+        {
+          "id": "b",
+          "text": "The patient has a family history of coronary artery disease."
+        },
+        {
+          "id": "c",
+          "text": "The patient reports using cocaine “a few times” as a teenager."
+        },
+        {
+          "id": "d",
+          "text": "The patient's 29-yr-old brother died from a sudden cardiac arrest."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "About half of all cases of hypertrophic CMP have a genetic basis, and it is the most common cause of sudden cardiac death in otherwise healthy young people. The information about the patient's brother will be helpful in planning care (e.g., an automatic implantable cardioverter-defibrillator [AICD]) for the patient and in counseling other family members. The patient should be counseled against the use of stimulant drugs, but the limited past history indicates that the patient is not currently at high risk for cocaine use. Viral infections and CAD are risk factors for dilated cardiomyopathy but not for hypertrophic CMP."
+    },
+    {
+      "id": "ch40-q22",
+      "question": "Which patient will need the nurse to plan discharge teaching about prophylactic antibiotics before dental procedures?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Patient admitted with a large acute myocardial infarction"
+        },
+        {
+          "id": "b",
+          "text": "Patient being discharged after an exacerbation of heart failure"
+        },
+        {
+          "id": "c",
+          "text": "Patient who had a mitral valve replacement with a mechanical valve"
+        },
+        {
+          "id": "d",
+          "text": "Patient being treated for rheumatic fever after a streptococcal infection"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Current American Heart Association guidelines recommend the use of prophylactic antibiotics before dental procedures for patients with prosthetic valves to prevent infective endocarditis (IE). The other patients are not at high risk for IE."
+    },
+    {
+      "id": "ch40-q23",
+      "question": "Which admission prescription written by the health care provider for a patient admitted with infective endocarditis (IE) and a fever would be a priority for the nurse to implement?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Administer an IV antibiotic."
+        },
+        {
+          "id": "b",
+          "text": "Draw blood cultures from two sites."
+        },
+        {
+          "id": "c",
+          "text": "Schedule a transesophageal echocardiogram."
+        },
+        {
+          "id": "d",
+          "text": "Give acetaminophen (Tylenol) PRN for fever."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Treatment of the IE with antibiotics should be started as quickly as possible, but it is essential to obtain blood cultures before starting antibiotic therapy to obtain accurate sensitivity results. The echocardiogram and acetaminophen administration also should be implemented rapidly, but the blood cultures (and then administration of the antibiotic) have the highest priority."
+    },
+    {
+      "id": "ch40-q24",
+      "question": "Which assessment finding in a patient who is admitted with infective endocarditis (IE) is most important to communicate to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Muscle aching"
+        },
+        {
+          "id": "b",
+          "text": "Right flank pain"
+        },
+        {
+          "id": "c",
+          "text": "Janeway's lesions on the palms"
+        },
+        {
+          "id": "d",
+          "text": "Temperature 100.7F (38.1C)"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Flank pain indicates possible embolization to the kidney and may require diagnostic testing such as a renal arteriogram and interventions to improve renal perfusion. The other findings are typically found in IE but do not require any new interventions."
+    },
+    {
+      "id": "ch40-q25",
+      "question": "Which finding by the nurse assessing a patient with acute pericarditis should be reported immediately to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Jugular veins are flat"
+        },
+        {
+          "id": "b",
+          "text": "Pulsus paradoxus of 20 mm Hg"
+        },
+        {
+          "id": "c",
+          "text": "Blood pressure (BP) of 168/94 mm Hg"
+        },
+        {
+          "id": "d",
+          "text": "Level 6 (0 to 10 scale) chest pain with a deep breath"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "A pulsus paradoxus of less than 10 is normal; 20 mm Hg indicates possible cardiac tamponade. Distended jugular veins could indicate that the patient may have developed cardiac tamponade but flat jugular veins does not indicate an urgent problem. The BP is not high enough to indicate that there is any immediate need to call the health care provider. Level 6/10 chest pain should be treated but is not unusual with pericarditis."
+    },
+    {
+      "id": "ch40-q26",
+      "question": "The nurse is caring for a patient with aortic stenosis. Which assessment data would be most important to report to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient reports chest pressure when ambulating."
+        },
+        {
+          "id": "b",
+          "text": "A loud systolic murmur is heard along the right sternal border."
+        },
+        {
+          "id": "c",
+          "text": "A thrill is palpated at the second intercostal space, right sternal border."
+        },
+        {
+          "id": "d",
+          "text": "The point of maximum impulse (PMI) is at the left midclavicular line."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Chest pressure (or pain) occurring with aortic stenosis is caused by cardiac ischemia and reporting this information would be a priority. A systolic murmur and thrill are expected in a patient with aortic stenosis. A PMI at the left midclavicular line is normal."
+    },
+    {
+      "id": "ch40-q27",
+      "question": "Two days after an acute myocardial infarction (MI), a patient reports stabbing chest pain that increases with a deep breath. Which action will the nurse take first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Auscultate the heart sounds."
+        },
+        {
+          "id": "b",
+          "text": "Check the patient's temperature."
+        },
+        {
+          "id": "c",
+          "text": "Give PRN acetaminophen (Tylenol)."
+        },
+        {
+          "id": "d",
+          "text": "Notify the patient's health care provider."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "The patient's clinical manifestations and history are consistent with pericarditis, and the first action by the nurse would be to listen for a pericardial friction rub. Checking the temperature and notifying the health care provider are also appropriate actions but would not be done before listening for a rub. Acetaminophen (Tylenol) is not effective for pericarditis pain. An analgesic would not be given before assessment of a new symptom."
+    },
+    {
+      "id": "ch40-q28",
+      "question": "The nurse is caring for a patient with mitral valve regurgitation. Which information obtained by the nurse would be reported to the health care provider immediately?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient has 4+ peripheral edema."
+        },
+        {
+          "id": "b",
+          "text": "The patient has diffuse bilateral crackles."
+        },
+        {
+          "id": "c",
+          "text": "The patient has a loud systolic murmur across the precordium."
+        },
+        {
+          "id": "d",
+          "text": "The patient has a palpable thrill felt over the left anterior chest."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Crackles that are audible throughout the lungs indicate that the patient is experiencing severe left ventricular failure with pulmonary congestion and needs immediate interventions such as diuretics. A systolic murmur and palpable thrill would be expected in a patient with mitral regurgitation. Although 4+ peripheral edema indicates a need for a change in therapy, it does not need to be addressed urgently."
+    },
+    {
+      "id": "ch40-q29",
+      "question": "Which action by the nurse will determine if therapies ordered for a patient with chronic constrictive pericarditis are effective?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Assess for the presence of a paradoxical pulse."
+        },
+        {
+          "id": "b",
+          "text": "Monitor for changes in the patient's sedimentation rate."
+        },
+        {
+          "id": "c",
+          "text": "Assess for the presence of jugular venous distention (JVD)."
+        },
+        {
+          "id": "d",
+          "text": "Check the electrocardiogram (ECG) for ST segment changes."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Because the most common finding on physical examination for a patient with chronic constrictive pericarditis is jugular venous distention, a decrease in JVD indicates improvement. Paradoxical pulse, ST segment ECG changes, and changes in sedimentation rates occur with acute pericarditis but are not expected in chronic constrictive pericarditis."
+    },
+    {
+      "id": "ch40-q30",
+      "question": "Which statement by a patient with restrictive cardiomyopathy indicates that the nurse's discharge teaching about self-management has been effective?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“I will avoid taking aspirin or other antiinflammatory drugs.”"
+        },
+        {
+          "id": "b",
+          "text": "“I can restart my exercise program that includes hiking and biking.”"
+        },
+        {
+          "id": "c",
+          "text": "“I will need to limit my intake of salt and fluids even in hot weather.”"
+        },
+        {
+          "id": "d",
+          "text": "“I will take antibiotics before my teeth are cleaned at the dental office.”"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Patients with restrictive cardiomyopathy are at risk for infective endocarditis and would use prophylactic antibiotics for any procedure that may cause bacteremia. The other statements indicate a need for more teaching by the nurse. Dehydration and vigorous exercise impair ventricular filling in patients with restrictive cardiomyopathy. There is no need to avoid salt (unless ordered), aspirin, or nonsteroidal antiinflammatory drugs."
+    },
+    {
+      "id": "ch40-q31",
+      "question": "The nurse is assessing a patient with myocarditis before giving a scheduled dose of digoxin (Lanoxin). Which finding is most important for the nurse to communicate to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Fatigue"
+        },
+        {
+          "id": "b",
+          "text": "Leukocytosis"
+        },
+        {
+          "id": "c",
+          "text": "Irregular pulse"
+        },
+        {
+          "id": "d",
+          "text": "Generalized myalgia"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Myocarditis predisposes the heart to digoxin-associated dysrhythmias and toxicity. The other findings are common symptoms of myocarditis and there is no urgent need to report these."
+    },
+    {
+      "id": "ch40-q32",
+      "question": "After receiving change-of-shift report on four patients, which patient would the nurse assess first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Patient with rheumatic fever who has sharp chest pain with a deep breath."
+        },
+        {
+          "id": "b",
+          "text": "Patient with acute aortic regurgitation whose blood pressure is 86/54 mm Hg."
+        },
+        {
+          "id": "c",
+          "text": "Patient with infective endocarditis who has a murmur and splinter hemorrhages."
+        },
+        {
+          "id": "d",
+          "text": "Patient with dilated cardiomyopathy who has bilateral crackles at the lung bases."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Hypotension in patients with acute aortic regurgitation may indicate cardiogenic shock. The nurse would immediately assess this patient for other findings such as dyspnea, chest pain or tachycardia. The findings in the other patients are typical of their diagnoses and do not indicate a need for urgent assessment and intervention."
+    },
+    {
+      "id": "ch40-q33",
+      "question": "After receiving information about four patients during change-of-shift report, which patient would the nurse assess first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Patient with acute pericarditis who has a pericardial friction rub."
+        },
+        {
+          "id": "b",
+          "text": "Patient who has just returned to the unit after balloon valvuloplasty."
+        },
+        {
+          "id": "c",
+          "text": "Patient who has hypertrophic cardiomyopathy and a heart rate of 116."
+        },
+        {
+          "id": "d",
+          "text": "Patient with a mitral valve replacement who has an anticoagulant scheduled."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The patient who has just arrived after balloon valvuloplasty will need assessment for complications such as bleeding and hypotension. The information about the other patients is consistent with their diagnoses and does not indicate any complications or need for urgent assessment or intervention."
+    },
+    {
+      "id": "ch40-q34",
+      "question": "Which action could the nurse delegate to assistive personnel (AP) trained as electrocardiogram (ECG) technicians working on the cardiac unit?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Select the best lead for monitoring a patient with an admission diagnosis of Dressler syndrome."
+        },
+        {
+          "id": "b",
+          "text": "Obtain a list of herbal medications used at home while admitting a new patient with pericarditis."
+        },
+        {
+          "id": "c",
+          "text": "Teach about the need to monitor the weight daily for a patient who has hypertrophic cardiomyopathy."
+        },
+        {
+          "id": "d",
+          "text": "Watch the heart monitor for changes in rhythm while a patient who had a valve replacement ambulates."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Under the supervision of registered nurses (RNs), APs check the patient's cardiac monitor and obtain information about changes in heart rate and rhythm with exercise. Teaching and obtaining information about home medications (prescribed or complementary) and selecting the best leads for monitoring patients require more critical thinking and would be done by the RN."
+    },
+    {
+      "id": "ch40-q35",
+      "question": "The nurse is caring for a patient with mitral regurgitation. Referring to the figure below, where would the nurse listen to best hear a murmur typical of mitral regurgitation?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "1"
+        },
+        {
+          "id": "b",
+          "text": "2"
+        },
+        {
+          "id": "c",
+          "text": "3"
+        },
+        {
+          "id": "d",
+          "text": "4"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Sounds from the mitral valve are best heard at the apex of the heart, fifth intercostal space, midclavicular line."
+    },
+    {
+      "id": "ch41-q1",
+      "question": "Which risk factor would the nurse focus on when teaching a patient who has a 5-cm abdominal aortic aneurysm?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Male gender"
+        },
+        {
+          "id": "b",
+          "text": "Hypertension"
+        },
+        {
+          "id": "c",
+          "text": "Age over 60 years"
+        },
+        {
+          "id": "d",
+          "text": "Family history of vascular disease"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Hypertension can potentially be managed to decrease the patient's risk for further expansion of the aneurysm. Male gender, older age, and family history are not modifiable risk factors."
+    },
+    {
+      "id": "ch41-q2",
+      "question": "Which finding on a patient's nursing admission assessment is congruent with the initial medical diagnosis of a 6-cm thoracic aortic aneurysm?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Low back pain"
+        },
+        {
+          "id": "b",
+          "text": "Difficulty swallowing"
+        },
+        {
+          "id": "c",
+          "text": "Abdominal tenderness"
+        },
+        {
+          "id": "d",
+          "text": "Changes in bowel habits"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Difficulty swallowing may occur with a thoracic aneurysm because of pressure on the esophagus. The other symptoms would be expected in patients with abdominal aortic aneurysms."
+    },
+    {
+      "id": "ch41-q3",
+      "question": "A patient had an open surgical repair of an abdominal aortic aneurysm earlier today. The patient's total urinary output for the past 2 hours was 45 mL. What would the nurse anticipate will be prescribed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Hemoglobin count"
+        },
+        {
+          "id": "b",
+          "text": "Increased IV fluids"
+        },
+        {
+          "id": "c",
+          "text": "Additional antibiotics"
+        },
+        {
+          "id": "d",
+          "text": "Serum creatinine level"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The decreased urine output suggests decreased renal perfusion and monitoring of renal function is needed. There is no indication that infection is a concern, so antibiotic therapy and a WBC count are not needed. The IV rate may be increased because hypovolemia may be contributing to the patient's decreased urinary output."
+    },
+    {
+      "id": "ch41-q4",
+      "question": "Which group of drugs will the nurse plan to include when teaching a patient who has a new diagnosis of peripheral artery disease (PAD)?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Statins"
+        },
+        {
+          "id": "b",
+          "text": "Antibiotics"
+        },
+        {
+          "id": "c",
+          "text": "Thrombolytics"
+        },
+        {
+          "id": "d",
+          "text": "Anticoagulants"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Statin use by patients with PAD improves multiple outcomes; aggressive lipid management is needed for all patients with PAD. Antibiotics are not needed as PAD is not associated with infection. Thrombolytics and/or anticoagulants may be used in treatment of acute arterial occlusion, but are not part of general management of PAD."
+    },
+    {
+      "id": "ch41-q5",
+      "question": "An older patient with chronic atrial fibrillation develops sudden severe pain, pulselessness, pallor, and coolness in the right leg. After the nurse notifies the health care provider, what would the nurse do next?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Apply a compression stocking to the leg."
+        },
+        {
+          "id": "b",
+          "text": "Elevate the leg above the level of the heart."
+        },
+        {
+          "id": "c",
+          "text": "Assist the patient in gently exercising the leg."
+        },
+        {
+          "id": "d",
+          "text": "Keep the patient in bed in the supine position."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "The patient's history and clinical manifestations are consistent with acute arterial occlusion. Resting the leg will decrease the O2 demand of the tissues and minimize ischemic damage until circulation can be restored. Elevating the leg or applying an elastic wrap will further compromise blood flow to the leg. Exercise will increase oxygen demand for the tissues of the leg."
+    },
+    {
+      "id": "ch41-q6",
+      "question": "A patient at the clinic says, “I always walk after dinner, but lately my leg cramps and hurts after just a few minutes. The pain goes away after I stop walking, though.” Which focused assessment would the nurse make?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Look for the presence of tortuous veins bilaterally on the legs."
+        },
+        {
+          "id": "b",
+          "text": "Ask about any skin color changes that occur in response to cold."
+        },
+        {
+          "id": "c",
+          "text": "Assess for unilateral swelling, redness, and tenderness of either leg."
+        },
+        {
+          "id": "d",
+          "text": "Palpate for the presence of dorsalis pedis and posterior tibial pulses."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "The nurse should assess for other clinical manifestations of peripheral arterial disease in a patient who describes intermittent claudication. Changes in skin color that occur in response to cold are consistent with Raynaud's phenomenon. Tortuous veins on the legs suggest venous insufficiency. Unilateral leg swelling, redness, and tenderness indicate venous thromboembolism."
+    },
+    {
+      "id": "ch41-q7",
+      "question": "A patient has chronic peripheral artery disease (PAD) of the legs and an ulcer on the right second toe. Which assessment finding would the nurse expect?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Dilated superficial veins"
+        },
+        {
+          "id": "b",
+          "text": "Swollen, dry, scaly ankles"
+        },
+        {
+          "id": "c",
+          "text": "Prolonged capillary refill in all the toes"
+        },
+        {
+          "id": "d",
+          "text": "Serosanguineous drainage from the ulcer"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Capillary refill is prolonged in PAD because of the slower and decreased blood flow to the periphery. The other listed manifestations are consistent with chronic venous disease."
+    },
+    {
+      "id": "ch41-q8",
+      "question": "The nurse is evaluating the discharge teaching outcomes for a patient with chronic peripheral artery disease (PAD). Which patient statement indicates a need for further instruction?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“I will buy loose clothes that do not bind across my legs or waist.”"
+        },
+        {
+          "id": "b",
+          "text": "“I will use a heating pad on my feet at night to increase the circulation.”"
+        },
+        {
+          "id": "c",
+          "text": "“I will walk to the point of pain, rest, and walk again for at least 30 minutes 3 times a week.”"
+        },
+        {
+          "id": "d",
+          "text": "“I will change my position every hour and avoid long periods of sitting with my legs crossed.”"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Because the patient has impaired circulation and sensation to the feet, the use of a heating pad could lead to burns. The other patient statements are correct and indicate that teaching has been successful."
+    },
+    {
+      "id": "ch41-q9",
+      "question": "Which action by the patient with newly diagnosed Raynaud's phenomenon demonstrates that the nurse's teaching about managing the condition has been effective?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient exercises indoors during the winter months."
+        },
+        {
+          "id": "b",
+          "text": "The patient immerses hands in hot water when they turn pale."
+        },
+        {
+          "id": "c",
+          "text": "The patient takes pseudoephedrine (Sudafed) for cold symptoms."
+        },
+        {
+          "id": "d",
+          "text": "The patient avoids taking nonsteroidal antiinflammatory drugs (NSAIDs)."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Patients should avoid temperature extremes by exercising indoors when it is cold. To avoid burn injuries, the patient should use warm rather than hot water to warm the hands. Pseudoephedrine is a vasoconstrictor and should be avoided. There is no reason to avoid taking NSAIDs with Raynaud's phenomenon."
+    },
+    {
+      "id": "ch41-q10",
+      "question": "The health care provider has prescribed bed rest with the feet elevated for a patient admitted to the hospital with a venous thromboembolism of the left lower leg. Which action would the nurse take?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Place a rolled towel under the patient's left ankle."
+        },
+        {
+          "id": "b",
+          "text": "Place the patient's bed in the Trendelenburg position."
+        },
+        {
+          "id": "c",
+          "text": "Place a pillow under the thighs and 2 pillows under the lower legs."
+        },
+        {
+          "id": "d",
+          "text": "Elevate the bed at the head and knee and place pillows under both feet."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The purpose of elevating the feet is to enhance venous flow from the feet to the right atrium, which is best accomplished by placing 2 pillows under the feet and another under the thighs. Placing the patient in the Trendelenburg position will lower the head below heart level, which is not indicated for this patient. Elevating the bed at the head and knee may cause blood stasis at the calf level. A rolled towel under the ankle may help prevent heel pressure but will not improve venous return."
+    },
+    {
+      "id": "ch41-q11",
+      "question": "The health care provider prescribes heparin infusion and daily partial thromboplastin time (PTT) testing for a patient with venous thromboembolism (VTE). Which action would the nurse include in the plan of care?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Obtain a Doppler for monitoring bilateral pedal pulses."
+        },
+        {
+          "id": "b",
+          "text": "Decrease the infusion when the PTT value is 65 seconds."
+        },
+        {
+          "id": "c",
+          "text": "Avoid giving IM medications to prevent localized bleeding."
+        },
+        {
+          "id": "d",
+          "text": "Have vitamin K available in case reversal of the heparin is needed."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Intramuscular injections are avoided in patients receiving anticoagulation to prevent hematoma formation and bleeding from the site. A PTT of 65 seconds is within the therapeutic range. Vitamin K is used to reverse warfarin. Pulse quality is not affected by VTE."
+    },
+    {
+      "id": "ch41-q12",
+      "question": "A patient with a venous thromboembolism (VTE) has new prescriptions for enoxaparin (Lovenox) and warfarin (Coumadin). The patient asks the nurse why two medications are necessary. Which response by the nurse is accurate?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“Taking two medications dissolves the blood clot much faster.”"
+        },
+        {
+          "id": "b",
+          "text": "“Enoxaparin works right away, but warfarin takes several days to prevent clots.”"
+        },
+        {
+          "id": "c",
+          "text": "“Enoxaparin will start to dissolve the clot, and warfarin will prevent any more clots from forming.”"
+        },
+        {
+          "id": "d",
+          "text": "“Because of the risk for a blood clot in the lungs, it is important for you to take more than one blood thinner.”"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Low-molecular-weight heparin (LMWH) is used because of the immediate effect on coagulation and discontinued once the international normalized ratio (INR) value indicates that the warfarin has reached a therapeutic level, usually about 5 days. LMWH and warfarin have no thrombolytic properties and they do not dissolve clots. The use of two anticoagulants is not related to the risk for pulmonary embolism."
+    },
+    {
+      "id": "ch41-q13",
+      "question": "The nurse has started discharge teaching for a patient who is to continue warfarin (Coumadin) after hospitalization for venous thromboembolism (VTE). Which patient statement indicates a need for additional teaching?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“I should get a Medic Alert device stating that I take warfarin.”"
+        },
+        {
+          "id": "b",
+          "text": "“I should reduce the amount of green, leafy vegetables that I eat.”"
+        },
+        {
+          "id": "c",
+          "text": "“I will need routine blood tests to monitor the effects of the warfarin.”"
+        },
+        {
+          "id": "d",
+          "text": "“I will check with my health care provider before I begin any new drugs.”"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Teach patients taking warfarin to follow a consistent diet regarding foods that are high in vitamin K, such as green, leafy vegetables. There is no need to reduce the intake of these vegetables. The other patient statements are accurate."
+    },
+    {
+      "id": "ch41-q14",
+      "question": "An adult whose employment requires long periods of standing undergoes sclerotherapy for treatment of superficial varicose veins at an outpatient center. Which instructions would the nurse provide to the patient before discharge?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Sitting at the work counter, rather than standing, is recommended."
+        },
+        {
+          "id": "b",
+          "text": "Exercise, such as walking or jogging, can cause recurrence of varicosities."
+        },
+        {
+          "id": "c",
+          "text": "Elastic compression stockings should be applied before getting out of bed."
+        },
+        {
+          "id": "d",
+          "text": "Taking an aspirin daily will help prevent clots from forming around venous valves."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Elastic compression stockings are applied with the legs elevated to reduce pressure in the lower legs. Walking is recommended to prevent recurrent varicosities. Sitting and standing are both risk factors for varicose veins and venous insufficiency. An aspirin a day is not adequate to prevent venous thrombosis and would not be recommended for a patient who had just had sclerotherapy."
+    },
+    {
+      "id": "ch41-q15",
+      "question": "Which topic would the nurse include in teaching for a patient with a venous stasis ulcer on the lower leg?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Need to increase carbohydrate intake"
+        },
+        {
+          "id": "b",
+          "text": "Methods of keeping the wound area dry"
+        },
+        {
+          "id": "c",
+          "text": "Purpose of prophylactic antibiotic therapy"
+        },
+        {
+          "id": "d",
+          "text": "Application of graduated compression stockings"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Graduated compression of the leg is essential to healing of venous stasis ulcers. High dietary intake of protein, rather than carbohydrates, is needed. Prophylactic antibiotics are not routinely used for venous ulcers. Moist dressings are used to hasten wound healing."
+    },
+    {
+      "id": "ch41-q16",
+      "question": "Which patient statement is consistent with their experiencing venous insufficiency?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“I can't get my shoes on at the end of the day.”"
+        },
+        {
+          "id": "b",
+          "text": "“I can't ever seem to get my feet warm enough.”"
+        },
+        {
+          "id": "c",
+          "text": "“I have burning leg pain after I walk two blocks.”"
+        },
+        {
+          "id": "d",
+          "text": "“I wake up during the night because my legs hurt.”"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Because the edema associated with venous insufficiency increases when the patient has been standing, shoes will feel tighter at the end of the day. The other patient statements are characteristic of peripheral artery disease."
+    },
+    {
+      "id": "ch41-q17",
+      "question": "Which action would the nurse include in the plan of care for a patient after endovascular repair of an abdominal aortic aneurysm?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Record hourly chest tube drainage."
+        },
+        {
+          "id": "b",
+          "text": "Monitor fluid intake and urine output."
+        },
+        {
+          "id": "c",
+          "text": "Assess the abdominal incision for redness."
+        },
+        {
+          "id": "d",
+          "text": "Counsel the patient to plan for a long recovery time."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Because renal artery occlusion can occur after endovascular repair, the nurse should monitor parameters of renal function such as intake and output. Chest tubes will not be needed for endovascular surgery, the recovery period will be short, and there will not be an abdominal wound."
+    },
+    {
+      "id": "ch41-q18",
+      "question": "Which action would the nurse take when giving fondaparinux (Arixtra) to a patient with a lower leg venous thromboembolism (VTE)?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Massage the site after giving the injection."
+        },
+        {
+          "id": "b",
+          "text": "Inject the drug into the abdominal subcutaneous tissue."
+        },
+        {
+          "id": "c",
+          "text": "Ejects the air bubble from the syringe before giving the drug."
+        },
+        {
+          "id": "d",
+          "text": "Check partial thromboplastin time (PTT) before giving the drug."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Low-molecular-weight heparin (LMWH) is administered subcutaneously in the abdominal area. The air bubble is not ejected before giving fondaparinux to avoid loss of drug. The other actions by the nurse are appropriate for LMWHs typically do not require ongoing PTT monitoring and dose adjustment."
+    },
+    {
+      "id": "ch41-q19",
+      "question": "A young adult patient tells the health care provider about having cold, numb fingers. After Raynaud's phenomenon is diagnosed, which condition would the nurse anticipate as a likely comorbidity?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Hyperglycemia"
+        },
+        {
+          "id": "b",
+          "text": "Hyperlipidemia"
+        },
+        {
+          "id": "c",
+          "text": "Coronary artery disease"
+        },
+        {
+          "id": "d",
+          "text": "Systemic lupus erythematosus"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Secondary Raynaud's phenomenon may occur in conjunction with autoimmune diseases such as systemic lupus erythematosus. Patients should be screened for autoimmune disorders. Raynaud's phenomenon is not associated with hyperlipidemia, hyperglycemia, or coronary artery disease."
+    },
+    {
+      "id": "ch41-q20",
+      "question": "Which patient statement supports a history of intermittent claudication?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“When I stand too long, my feet start to swell.”"
+        },
+        {
+          "id": "b",
+          "text": "“My legs cramp when I walk more than a block.”"
+        },
+        {
+          "id": "c",
+          "text": "“I get short of breath when I climb a lot of stairs.”"
+        },
+        {
+          "id": "d",
+          "text": "“My fingers hurt when I go outside in cold weather.”"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Cramping that is precipitated by a consistent level of exercise is descriptive of intermittent claudication. Finger pain associated with cold weather is typical of Raynaud's phenomenon. Shortness of breath that occurs with exercise is not typical of intermittent claudication, which is reproducible. Swelling associated with prolonged standing is typical of venous disease."
+    },
+    {
+      "id": "ch41-q21",
+      "question": "Which instructions would the nurse include in a teaching plan for an older adult patient newly diagnosed with peripheral artery disease (PAD)?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“Exercise only if you do not experience any pain.”"
+        },
+        {
+          "id": "b",
+          "text": "“It is very important that you stop smoking cigarettes.”"
+        },
+        {
+          "id": "c",
+          "text": "“Try to keep your legs elevated whenever you are sitting.”"
+        },
+        {
+          "id": "d",
+          "text": "“Put elastic compression stockings on early in the morning.”"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Smoking cessation is essential for slowing the progression of PAD to critical limb ischemia and reducing the risk of myocardial infarction and death. Circulation to the legs will decrease if the legs are elevated. Patients with PAD are taught to exercise to the point of feeling pain, rest, and then resume walking. Support hose are not used for patients with PAD."
+    },
+    {
+      "id": "ch41-q22",
+      "question": "An older patient with a history of an abdominal aortic aneurysm arrives at the emergency department (ED) with severe back pain and absent pedal pulses. Which action would the nurse take first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Draw blood for laboratory testing."
+        },
+        {
+          "id": "b",
+          "text": "Check the patient's blood pressure."
+        },
+        {
+          "id": "c",
+          "text": "Assess the patient for an abdominal bruit."
+        },
+        {
+          "id": "d",
+          "text": "Determine any family history of heart disease."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Because the patient appears to be experiencing aortic dissection, the nurse's first action should be to determine the hemodynamic status by assessing blood pressure. The other actions may also be done, but they will not provide information to determine what interventions are needed immediately."
+    },
+    {
+      "id": "ch41-q23",
+      "question": "After receiving change-of-shift report, which patient admitted to the emergency department would the nurse assess first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A 67-yr-old patient who has a gangrenous foot ulcer with a weak pedal pulse"
+        },
+        {
+          "id": "b",
+          "text": "A 50-yr-old patient who is reporting sudden sharp and severe upper back pain"
+        },
+        {
+          "id": "c",
+          "text": "A 39-yr-old patient who has right calf tenderness and swelling after a plane ride"
+        },
+        {
+          "id": "d",
+          "text": "A 58-yr-old patient taking anticoagulants for atrial fibrillation who has black stools"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The patient's presentation of sudden sharp and severe upper back pain is consistent with dissecting thoracic aneurysm, which will require the most rapid intervention. The other patients also require rapid intervention but not before the patient with severe pain."
+    },
+    {
+      "id": "ch41-q24",
+      "question": "The nurse is caring for a patient immediately after repair of an abdominal aortic aneurysm. On assessment, the patient has absent popliteal, posterior tibial, and dorsalis pedis pulses. The legs are cool and mottled. Which action would the nurse take first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Wrap both legs in a warming blanket."
+        },
+        {
+          "id": "b",
+          "text": "Notify the surgeon and anesthesiologist."
+        },
+        {
+          "id": "c",
+          "text": "Document the findings and recheck in 15 minutes."
+        },
+        {
+          "id": "d",
+          "text": "Review the preoperative assessment in the health record."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Lower extremity pulses may be absent for a short time after surgery because of vasospasm and hypothermia. Decreased or absent pulses together with a cool and mottled extremity may indicate embolization or graft occlusion. These findings would be reported to the surgeon immediately because this is an emergency situation. Because pulses are marked before surgery, the nurse already would know whether pulses were present before surgery. Because the patient's symptoms may indicate graft occlusion or multiple emboli and a possible need to return to surgery, it is not appropriate to wait 15 minutes before taking action. A warming blanket will not improve the circulation to the patient's legs."
+    },
+    {
+      "id": "ch41-q25",
+      "question": "When caring for a patient on the first postoperative day after an abdominal aortic aneurysm repair, which assessment finding is most important for the nurse to communicate to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Presence of flatus"
+        },
+        {
+          "id": "b",
+          "text": "Hypoactive bowel sounds"
+        },
+        {
+          "id": "c",
+          "text": "Maroon-colored liquid stool"
+        },
+        {
+          "id": "d",
+          "text": "Abdominal pain with palpation"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Loose, bloody (maroon-colored) stools at this time may indicate intestinal ischemia or infarction and would be reported immediately because the patient may need an emergency bowel resection. The other findings are normal on the first postoperative day after abdominal surgery."
+    },
+    {
+      "id": "ch41-q26",
+      "question": "The nurse is caring for a patient with critical limb ischemia who has just arrived on the nursing unit after having percutaneous transluminal balloon angioplasty. Which action would the nurse perform first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Obtain vital signs."
+        },
+        {
+          "id": "b",
+          "text": "Teach wound care."
+        },
+        {
+          "id": "c",
+          "text": "Assess pedal pulses."
+        },
+        {
+          "id": "d",
+          "text": "Check the wound site."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Bleeding is a possible complication after catheterization of the femoral artery, so the nurse's first action would be to assess for changes in vital signs that might indicate hemorrhage. The other actions are also appropriate but can be done after determining that the patient is breathing and hemodynamically stable."
+    },
+    {
+      "id": "ch41-q27",
+      "question": "A patient who is 2 days post femoral popliteal bypass graft to the right leg is being cared for on the vascular unit. Which action by a licensed practical/vocational nurse (LPN/VN) caring for the patient requires the registered nurse (RN) to intervene?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The LPN/VN tells the patient sit in a chair for 2 hours."
+        },
+        {
+          "id": "b",
+          "text": "The LPN/VN gives the prescribed aspirin after breakfast."
+        },
+        {
+          "id": "c",
+          "text": "The LPN/VN assists the patient to walk 40 ft in the hallway."
+        },
+        {
+          "id": "d",
+          "text": "The LPN/VN places the patient in Fowler's position for meals."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Discourage the patient from prolonged sitting with legs lowered, since it may cause pain and edema, increase the risk for venous thrombosis, and place stress on the suture lines. The other actions by the LPN/LVN are appropriate."
+    },
+    {
+      "id": "ch41-q28",
+      "question": "The nurse is developing a discharge teaching plan for a patient diagnosed with thromboangiitis obliterans (Buerger's disease). Which expected outcome has the highest priority for this patient?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Cessation of all tobacco use"
+        },
+        {
+          "id": "b",
+          "text": "Control of serum lipid levels"
+        },
+        {
+          "id": "c",
+          "text": "Maintenance of appropriate weight"
+        },
+        {
+          "id": "d",
+          "text": "Demonstration of meticulous foot care"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Absolute cessation of nicotine use is needed to reduce the risk for amputation in patients with Buerger's disease. Other therapies have limited success in treatment of this disease."
+    },
+    {
+      "id": "ch41-q29",
+      "question": "Which assessment finding for a patient who has been admitted with a right calf venous thromboembolism (VTE) requires immediate action by the nurse?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Report of right calf pain"
+        },
+        {
+          "id": "b",
+          "text": "Redness of right lower leg"
+        },
+        {
+          "id": "c",
+          "text": "New onset shortness of breath"
+        },
+        {
+          "id": "d",
+          "text": "Temperature of 100.4F (38C)"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "New onset dyspnea suggests a pulmonary embolus, which will require rapid actions such as O2 administration and notification of the health care provider. The other findings are typical of VTE."
+    },
+    {
+      "id": "ch41-q30",
+      "question": "Which intervention for a patient who had an open repair of an abdominal aortic aneurysm 2 days previously could the nurse delegate to assistive personnel (AP)?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Monitor the quality and presence of the pedal pulses."
+        },
+        {
+          "id": "b",
+          "text": "Teach the patient the signs of possible wound infection."
+        },
+        {
+          "id": "c",
+          "text": "Check the lower extremities for strength and movement."
+        },
+        {
+          "id": "d",
+          "text": "Help the patient to use a pillow to splint while coughing."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Assisting a patient who has already been taught how to cough is part of routine postoperative care and within the education and scope of practice for UAP. Patient teaching and assessment of essential postoperative functions such as circulation and movement would be done by RNs."
+    },
+    {
+      "id": "ch41-q31",
+      "question": "The nurse is caring for a patient with a descending aortic dissection. Which assessment finding is most important to report to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Weak pedal pulses"
+        },
+        {
+          "id": "b",
+          "text": "Absent bowel sounds"
+        },
+        {
+          "id": "c",
+          "text": "Blood pressure of 148/88 mm Hg"
+        },
+        {
+          "id": "d",
+          "text": "25 mL of urine output over the past hour"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The systolic blood pressure is typically kept between 100- and 110-mmHg to minimize extension of the dissection. The nurse will need to notify the health care provider so that b-blockers or other antihypertensive drugs can be prescribed. The other findings are typical with aortic dissection and would also be reported but do not require immediate action."
+    },
+    {
+      "id": "ch41-q32",
+      "question": "A patient is being evaluated for postthrombotic syndrome. Which assessment will the nurse perform?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Ask about pain with leg elevation."
+        },
+        {
+          "id": "b",
+          "text": "Determine the ankle-brachial index."
+        },
+        {
+          "id": "c",
+          "text": "Inspect for edema and color changes."
+        },
+        {
+          "id": "d",
+          "text": "Assess capillary refill in the patient's toes."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Clinical signs of postthrombotic syndrome include persistent edema, spider veins (telangiectasia), venous dilation (ectasia), redness, cyanosis, increased pigmentation, eczema, pain during compression, atrophie blanche (white scar tissue). The other assessments would be done for patients with peripheral arterial disease."
+    },
+    {
+      "id": "ch41-q33",
+      "question": "Which action for a patient at risk for venous thromboembolism could the nurse delegate to assistive personnel (AP)?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Monitor for any bleeding after anticoagulation therapy is started."
+        },
+        {
+          "id": "b",
+          "text": "Tell the patient to call immediately if any shortness of breath occurs."
+        },
+        {
+          "id": "c",
+          "text": "Apply sequential compression devices whenever the patient is in bed."
+        },
+        {
+          "id": "d",
+          "text": "Ask the patient about use of any herbal medicines or dietary supplements."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "AP training includes the use of equipment that requires minimal nursing judgment, such as sequential compression devices. Patient assessment and teaching require more education and critical thinking and should be done by the registered nurse (RN)."
+    },
+    {
+      "id": "ch41-q34",
+      "question": "The nurse who works in the vascular clinic has several patients with venous insufficiency. Which patient would the nurse assign to an experienced licensed practical/vocational nurse (LPN/VN)?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Patient who has a history of venous thromboembolism and reports dyspnea."
+        },
+        {
+          "id": "b",
+          "text": "Patient who has been reporting increased edema and skin changes in the legs."
+        },
+        {
+          "id": "c",
+          "text": "Patient who needs wound care for a chronic venous stasis ulcer on the lower leg."
+        },
+        {
+          "id": "d",
+          "text": "Patient who needs teaching about compression stockings for venous insufficiency."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "LPN education and scope of practice includes wound care. The other patients, which require more complex assessments or education, should be managed by the RN."
+    },
+    {
+      "id": "ch41-q35",
+      "question": "The nurse is admitting a patient newly diagnosed with peripheral artery disease who takes clopidogrel. Which admission order would the nurse question?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Cilostazol drug therapy"
+        },
+        {
+          "id": "b",
+          "text": "Omeprazole drug therapy"
+        },
+        {
+          "id": "c",
+          "text": "Use of treadmill for exercise"
+        },
+        {
+          "id": "d",
+          "text": "Exercise to the point of discomfort"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Because the antiplatelet effect of clopidogrel is reduced when it is used with omeprazole, the nurse should clarify this order with the health care provider. The other interventions are appropriate for a patient with peripheral artery disease."
     }
   ]
 }
