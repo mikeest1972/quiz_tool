@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { Link, Navigate, useNavigate, useParams } from 'react-router-dom';
+import { findQuiz } from './catalog';
 import { DEFAULT_SECONDS, DEFAULT_SETTINGS } from './config';
 import { loadQuestions } from './loadQuestions';
 import { useQuiz } from './QuizContext';
@@ -9,6 +10,8 @@ import type { QuestionBank, TimerMode } from './types';
 export default function StartPage() {
   const { dispatch } = useQuiz();
   const navigate = useNavigate();
+  const { quizId } = useParams();
+  const entry = findQuiz(quizId);
   const [bank, setBank] = useState<QuestionBank | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [count, setCount] = useState(DEFAULT_SETTINGS.questionCount);
@@ -16,13 +19,23 @@ export default function StartPage() {
   const [seconds, setSeconds] = useState(DEFAULT_SETTINGS.seconds);
 
   useEffect(() => {
-    loadQuestions()
+    if (!entry) return;
+    let cancelled = false;
+    setBank(null);
+    setError(null);
+    loadQuestions(`${import.meta.env.BASE_URL}${entry.file}`)
       .then((b) => {
+        if (cancelled) return;
         setBank(b);
         setCount((c) => Math.min(c, b.questions.length));
       })
-      .catch((e: Error) => setError(e.message));
-  }, []);
+      .catch((e: Error) => !cancelled && setError(e.message));
+    return () => {
+      cancelled = true;
+    };
+  }, [entry]);
+
+  if (!entry) return <Navigate to="/" replace />;
 
   if (error) {
     return (
@@ -31,6 +44,7 @@ export default function StartPage() {
         <p role="alert" className="error">
           {error}
         </p>
+        <Link to="/">Back to quiz list</Link>
       </div>
     );
   }
@@ -95,6 +109,7 @@ export default function StartPage() {
       <button className="btn btn-primary" disabled={!valid} onClick={start}>
         Start quiz
       </button>
+      <Link to="/">Choose a different quiz</Link>
     </div>
   );
 }

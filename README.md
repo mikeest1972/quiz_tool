@@ -25,7 +25,9 @@ Placeholder login: **quiz / quiz123**. To change it, edit `src/auth/credentials.
 
 ## Editing questions
 
-Edit `public/questions.json`:
+The app opens on a quiz picker. Quizzes are registered in `src/quiz/catalog.ts`; each points to a JSON
+file in `public/` (`questions.json` = Test Bank, `questions-study-guide.json` = Study Guide).
+Edit the file for the quiz you want to change:
 
 ```json
 {

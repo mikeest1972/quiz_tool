@@ -1,8 +1,8 @@
 import { prepareQuestions, shuffle } from './shuffle';
-import { scoreQuestion } from './scoring';
+import { gradeQuestion, scoreQuestion } from './scoring';
 import { validateBank } from './loadQuestions';
 import { initialState, quizReducer, type QuizState } from './quizReducer';
-import type { Question, QuizSettings } from './types';
+import type { ChoiceQuestion as Question, MatchQuestion, QuizSettings, TextQuestion } from './types';
 
 const q = (id: string, correct: string[], n = 4): Question => ({
   id,
@@ -26,7 +26,7 @@ describe('shuffle', () => {
     const qs = [q('1', ['a']), q('2', ['b']), q('3', ['c'])];
     const out = prepareQuestions(qs, 2);
     expect(out).toHaveLength(2);
-    expect(out[0].choices.map((c) => c.id).sort()).toEqual(['a', 'b', 'c', 'd']);
+    expect((out[0] as Question).choices.map((c) => c.id).sort()).toEqual(['a', 'b', 'c', 'd']);
   });
 });
 
@@ -122,5 +122,70 @@ describe('quizReducer', () => {
   });
   it('reset returns to idle', () => {
     expect(quizReducer(started(), { type: 'reset' })).toEqual(initialState);
+  });
+});
+
+describe('match and text questions', () => {
+  const match: MatchQuestion = {
+    id: 'm',
+    question: 'Order the steps',
+    type: 'match',
+    items: [
+      { id: 'x', prompt: 'First' },
+      { id: 'y', prompt: 'Second' },
+    ],
+    options: [
+      { id: '1', text: '1' },
+      { id: '2', text: '2' },
+    ],
+    answers: { x: '1', y: '2' },
+    rationale: 'because',
+  };
+  const text: TextQuestion = {
+    id: 't',
+    question: 'Fill in',
+    type: 'text',
+    items: [
+      { id: 'a', prompt: 'HR', accepted: ['80'], numeric: true, tolerance: 1 },
+      { id: 'b', prompt: 'Valve', accepted: ['Mitral', 'bicuspid'] },
+    ],
+    rationale: 'because',
+  };
+  it('match: one point per correct item, no negatives', () => {
+    expect(gradeQuestion(match, [], { x: '1', y: '1' })).toEqual({ score: 1, max: 2 });
+    expect(gradeQuestion(match, [], {})).toEqual({ score: 0, max: 2 });
+    expect(gradeQuestion(match, [], { x: '1', y: '2' })).toEqual({ score: 2, max: 2 });
+  });
+  it('text: numeric tolerance and case-insensitive text', () => {
+    expect(gradeQuestion(text, [], { a: '79.5 bpm', b: ' MITRAL. ' })).toEqual({ score: 2, max: 2 });
+    expect(gradeQuestion(text, [], { a: '90', b: 'aortic' })).toEqual({ score: 0, max: 2 });
+  });
+  it('text unordered: each accepted answer counts once', () => {
+    const u: TextQuestion = {
+      ...text,
+      unordered: true,
+      items: [
+        { id: 'a', prompt: '1', accepted: ['pain'] },
+        { id: 'b', prompt: '2', accepted: ['pallor'] },
+      ],
+    };
+    expect(gradeQuestion(u, [], { a: 'pallor', b: 'pain' })).toEqual({ score: 2, max: 2 });
+    expect(gradeQuestion(u, [], { a: 'pain', b: 'pain' })).toEqual({ score: 1, max: 2 });
+  });
+  it('validateBank accepts them and rejects a bad match answer', () => {
+    expect(validateBank({ questions: [match, text] }).questions).toHaveLength(2);
+    expect(() => validateBank({ questions: [{ ...match, answers: { x: '1', y: 'zzz' } }] })).toThrow(/Invalid/);
+    expect(() => validateBank({ questions: [{ ...text, items: [{ id: 'a', prompt: 'p', accepted: [] }] }] })).toThrow(/Invalid/);
+  });
+  it('reducer records responses and grades them', () => {
+    let s = quizReducer(initialState, {
+      type: 'start',
+      questions: [match],
+      settings: { questionCount: 1, timerMode: 'off', seconds: 0 },
+      now: 0,
+    });
+    s = quizReducer(s, { type: 'respond', itemId: 'x', value: '1' });
+    s = quizReducer(s, { type: 'submit' });
+    expect(s.answers[0]).toMatchObject({ score: 1, max: 2, responses: { x: '1' } });
   });
 });

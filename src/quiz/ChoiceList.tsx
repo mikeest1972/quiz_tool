@@ -1,7 +1,7 @@
-import { isMultiSelect, type Question } from './types';
+import { isMultiSelect, type ChoiceQuestion } from './types';
 
 type Props = {
-  question: Question;
+  question: ChoiceQuestion;
   selected: string[];
   reviewing: boolean;
   onToggle: (choiceId: string) => void;

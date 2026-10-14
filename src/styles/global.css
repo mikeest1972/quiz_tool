@@ -68,3 +68,15 @@ input[type='text'], input[type='password'], input[type='number'], input:not([typ
 .review { padding-left: 20px; display: flex; flex-direction: column; gap: 14px; }
 .review-item { display: flex; flex-direction: column; gap: 2px; }
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+.quiz-option { display: flex; flex-direction: column; gap: 8px; align-items: flex-start; padding: 14px; border: 1px solid var(--border); border-radius: 10px; }
+.quiz-option h2 { margin: 0; font-size: 1.1rem; }
+.quiz-option p { margin: 0; }
+a.btn { text-decoration: none; display: inline-block; }
+
+.figure { max-width: 100%; height: auto; align-self: center; border: 1px solid var(--border); border-radius: 8px; background: #fff; }
+.items { display: flex; flex-direction: column; gap: 10px; border: 0; padding: 0; margin: 0; }
+.item { display: flex; flex-direction: column; gap: 6px; padding: 10px; border: 1px solid var(--border); border-radius: 8px; }
+.item select, .item input { font: inherit; padding: 8px; max-width: 100%; }
+.item.right { border-color: #2e7d32; }
+.item.wrong { border-color: #c62828; }

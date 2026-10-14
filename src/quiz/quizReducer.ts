@@ -1,5 +1,5 @@
-import { scoreQuestion } from './scoring';
-import { isMultiSelect, type Answer, type Question, type QuizSettings } from './types';
+import { gradeQuestion, maxScore } from './scoring';
+import { isChoice, isMultiSelect, type Answer, type Question, type QuizSettings } from './types';
 
 export type QuizState = {
   status: 'idle' | 'in_progress' | 'finished';
@@ -8,6 +8,8 @@ export type QuizState = {
   index: number;
   phase: 'answering' | 'reviewing';
   selected: string[];
+  /** match/text questions: item id -> option id or typed text. */
+  responses: Record<string, string>;
   answers: Answer[];
   /** Epoch ms when the current question times out (per-question mode, answering phase). */
   questionDeadline: number | null;
@@ -18,6 +20,7 @@ export type QuizState = {
 export type QuizAction =
   | { type: 'start'; questions: Question[]; settings: QuizSettings; now: number }
   | { type: 'toggle'; choiceId: string }
+  | { type: 'respond'; itemId: string; value: string }
   | { type: 'submit'; timedOut?: boolean }
   | { type: 'next'; now: number }
   | { type: 'finish' }
@@ -30,6 +33,7 @@ export const initialState: QuizState = {
   index: 0,
   phase: 'answering',
   selected: [],
+  responses: {},
   answers: [],
   questionDeadline: null,
   overallDeadline: null,
@@ -41,8 +45,15 @@ const questionDeadline = (s: QuizSettings, now: number) =>
 function submit(state: QuizState, timedOut: boolean): QuizState {
   if (state.status !== 'in_progress' || state.phase !== 'answering') return state;
   const q = state.questions[state.index];
-  const { score, max } = scoreQuestion(q, state.selected);
-  const answer: Answer = { questionId: q.id, selected: state.selected, score, max, timedOut };
+  const { score, max } = gradeQuestion(q, state.selected, state.responses);
+  const answer: Answer = {
+    questionId: q.id,
+    selected: state.selected,
+    responses: state.responses,
+    score,
+    max,
+    timedOut,
+  };
   return { ...state, phase: 'reviewing', answers: [...state.answers, answer], questionDeadline: null };
 }
 
@@ -61,11 +72,16 @@ export function quizReducer(state: QuizState, action: QuizAction): QuizState {
     case 'toggle': {
       if (state.status !== 'in_progress' || state.phase !== 'answering') return state;
       const q = state.questions[state.index];
+      if (!isChoice(q)) return state;
       if (!isMultiSelect(q)) return { ...state, selected: [action.choiceId] };
       const selected = state.selected.includes(action.choiceId)
         ? state.selected.filter((id) => id !== action.choiceId)
         : [...state.selected, action.choiceId];
       return { ...state, selected };
+    }
+    case 'respond': {
+      if (state.status !== 'in_progress' || state.phase !== 'answering') return state;
+      return { ...state, responses: { ...state.responses, [action.itemId]: action.value } };
     }
     case 'submit':
       return submit(state, action.timedOut ?? false);
@@ -77,6 +93,7 @@ export function quizReducer(state: QuizState, action: QuizAction): QuizState {
         index: state.index + 1,
         phase: 'answering',
         selected: [],
+        responses: {},
         questionDeadline: questionDeadline(state.settings!, action.now),
       };
     }
@@ -89,8 +106,9 @@ export function quizReducer(state: QuizState, action: QuizAction): QuizState {
         answers.push({
           questionId: q.id,
           selected: [],
+          responses: {},
           score: 0,
-          max: new Set(q.correct).size,
+          max: maxScore(q),
           timedOut: true,
         });
       }

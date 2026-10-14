@@ -1,4 +1,4 @@
-import type { Question } from './types';
+import { isChoice, type Question } from './types';
 
 export type Rng = () => number;
 
@@ -20,5 +20,5 @@ export function prepareQuestions(
 ): Question[] {
   return shuffle(questions, rng)
     .slice(0, count)
-    .map((q) => ({ ...q, choices: shuffle(q.choices, rng) }));
+    .map((q) => (isChoice(q) ? { ...q, choices: shuffle(q.choices, rng) } : q));
 }

@@ -1,4 +1,5 @@
 import { Navigate, useNavigate } from 'react-router-dom';
+import { describeAnswer } from './answerText';
 import { useQuiz } from './QuizContext';
 
 export default function ResultsPage() {
@@ -9,8 +10,6 @@ export default function ResultsPage() {
   const total = state.answers.reduce((n, a) => n + a.score, 0);
   const max = state.answers.reduce((n, a) => n + a.max, 0);
   const pct = max === 0 ? 0 : Math.round((total / max) * 100);
-  const text = (qi: number, id: string) =>
-    state.questions[qi].choices.find((c) => c.id === id)?.text ?? id;
 
   return (
     <div className="card">
@@ -21,6 +20,7 @@ export default function ResultsPage() {
       <ol className="review">
         {state.questions.map((q, i) => {
           const a = state.answers[i];
+          const { yours, correct } = describeAnswer(q, a);
           return (
             <li key={q.id} className="review-item">
               <p>
@@ -28,10 +28,10 @@ export default function ResultsPage() {
               </p>
               <p>
                 Your answer:{' '}
-                {a.selected.length ? a.selected.map((id) => text(i, id)).join(', ') : <em>none</em>}
+                {yours || <em>none</em>}
                 {a.timedOut && <em> (timed out)</em>}
               </p>
-              <p>Correct: {q.correct.map((id) => text(i, id)).join(', ')}</p>
+              <p>Correct: {correct}</p>
               <p>
                 <strong>
                   {a.score} / {a.max}

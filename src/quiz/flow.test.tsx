@@ -47,6 +47,7 @@ const renderApp = () =>
   );
 
 async function start(user: ReturnType<typeof userEvent.setup>, mode = 'off') {
+  await user.click(screen.getByRole('link', { name: /Take the Test Bank quiz/ }));
   await screen.findByText('Test Quiz');
   await user.selectOptions(screen.getByLabelText('Timer'), mode);
   await user.click(screen.getByRole('button', { name: 'Start quiz' }));
@@ -76,6 +77,15 @@ it('runs a full quiz and shows rationale and results', async () => {
   expect(screen.getByText(/2 \/ 3 points/)).toBeInTheDocument();
 });
 
+it('offers both quizzes and loads the chosen file', async () => {
+  const user = userEvent.setup();
+  renderApp();
+  expect(screen.getByText('Which quiz do you want to take?')).toBeInTheDocument();
+  await user.click(screen.getByRole('link', { name: /Take the Study Guide quiz/ }));
+  await screen.findByText('Test Quiz');
+  expect(vi.mocked(fetch).mock.calls[0][0]).toContain('questions-study-guide.json');
+});
+
 it('uses radio for single and checkbox for select-all', async () => {
   const user = userEvent.setup();
   renderApp();
@@ -95,4 +105,54 @@ it('auto-submits with a timeout when the per-question timer expires', async () =
     vi.advanceTimersByTime(61_000);
   });
   expect(screen.getByRole('status')).toHaveTextContent('Time’s up');
+});
+
+it('handles match and text questions end to end', async () => {
+  const mixed = {
+    title: 'Mixed Quiz',
+    questions: [
+      {
+        id: 'm1',
+        type: 'match',
+        question: 'Match each animal',
+        items: [
+          { id: 'i1', prompt: 'Cat' },
+          { id: 'i2', prompt: 'Cow' },
+        ],
+        options: [
+          { id: 'o1', text: 'Meow' },
+          { id: 'o2', text: 'Moo' },
+        ],
+        answers: { i1: 'o1', i2: 'o2' },
+        rationale: 'Cats meow; cows moo.',
+      },
+      {
+        id: 't1',
+        type: 'text',
+        question: 'Compute',
+        items: [{ id: 'i1', prompt: 'Two plus two', accepted: ['4'], numeric: true, tolerance: 0 }],
+        rationale: 'Basic math.',
+      },
+    ],
+  };
+  vi.stubGlobal('fetch', vi.fn(async () => ({ ok: true, status: 200, json: async () => mixed })));
+  const user = userEvent.setup();
+  renderApp();
+  await user.click(screen.getByRole('link', { name: /Take the Test Bank quiz/ }));
+  await screen.findByText('Mixed Quiz');
+  await user.selectOptions(screen.getByLabelText('Timer'), 'off');
+  await user.click(screen.getByRole('button', { name: 'Start quiz' }));
+
+  for (let i = 0; i < 2; i++) {
+    if (screen.queryByLabelText('Cat')) {
+      await user.selectOptions(screen.getByLabelText('Cat'), 'Meow');
+      await user.selectOptions(screen.getByLabelText('Cow'), 'Moo');
+    } else {
+      await user.type(screen.getByLabelText('Two plus two'), '4');
+    }
+    await user.click(screen.getByRole('button', { name: 'Submit answer' }));
+    expect(screen.getByRole('status')).toHaveTextContent('Correct!');
+    await user.click(screen.getByRole('button', { name: /Next question|See results/ }));
+  }
+  expect(await screen.findByText(/3 \/ 3 points/)).toBeInTheDocument();
 });

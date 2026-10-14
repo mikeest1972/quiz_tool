@@ -20,6 +20,39 @@ export function validateBank(data: unknown): QuestionBank {
     seen.add(q.id);
     if (typeof q.question !== 'string' || !q.question) return fail(`${where} needs "question" text`);
     if (typeof q.rationale !== 'string' || !q.rationale) return fail(`${where} needs "rationale"`);
+    if (q.image !== undefined && typeof q.image !== 'string') return fail(`${where} "image" must be a string`);
+    const type = q.type ?? 'choice';
+    if (type === 'match' || type === 'text') {
+      if (!Array.isArray(q.items) || q.items.length === 0) return fail(`${where} needs a non-empty "items" array`);
+      const itemIds = new Set<string>();
+      for (const it of q.items) {
+        if (typeof it?.id !== 'string' || typeof it?.prompt !== 'string') {
+          return fail(`${where} has an item without string "id" and "prompt"`);
+        }
+        if (itemIds.has(it.id)) return fail(`${where} has duplicate item id "${it.id}"`);
+        itemIds.add(it.id);
+        if (type === 'text' && (!Array.isArray(it.accepted) || it.accepted.length === 0)) {
+          return fail(`${where} item "${it.id}" needs a non-empty "accepted" array`);
+        }
+      }
+      if (type === 'match') {
+        if (!Array.isArray(q.options) || q.options.length < 2) return fail(`${where} needs at least 2 options`);
+        const optIds = new Set<string>();
+        for (const o of q.options) {
+          if (typeof o?.id !== 'string' || typeof o?.text !== 'string') {
+            return fail(`${where} has an option without string "id" and "text"`);
+          }
+          if (optIds.has(o.id)) return fail(`${where} has duplicate option id "${o.id}"`);
+          optIds.add(o.id);
+        }
+        const answers = (q.answers ?? {}) as Record<string, string>;
+        for (const id of itemIds) {
+          if (!optIds.has(answers[id])) return fail(`${where} has no valid answer for item "${id}"`);
+        }
+      }
+      return;
+    }
+    if (type !== 'choice') return fail(`${where} has unknown type "${String(type)}"`);
     if (!Array.isArray(q.choices) || q.choices.length < 2) return fail(`${where} needs at least 2 choices`);
     const ids = new Set<string>();
     for (const c of q.choices) {
