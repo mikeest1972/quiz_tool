@@ -1,0 +1,2622 @@
+{
+  "title": "Med-Surg Test 4 (Ch 26, 42, 51)",
+  "questions": [
+    {
+      "id": "t4-ch26-q1",
+      "question": "When assessing a patient who spilled hot oil on the right leg and foot, the nurse notes dry, pale, and hard skin. The patient states that the burn is not painful. Which term would the nurse use to document the burn depth?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "First-degree skin destruction"
+        },
+        {
+          "id": "b",
+          "text": "Full-thickness skin destruction"
+        },
+        {
+          "id": "c",
+          "text": "Deep partial-thickness skin destruction"
+        },
+        {
+          "id": "d",
+          "text": "Superficial partial-thickness skin destruction"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "With full-thickness skin destruction, the appearance is pale and dry or leathery, and the area is painless because of the associated nerve destruction. Erythema, swelling, and blisters point to a deep partial-thickness burn. With superficial partial-thickness burns, the area is red, but no blisters are present. First-degree burns exhibit erythema, blanching, and pain."
+    },
+    {
+      "id": "t4-ch26-q2",
+      "question": "On admission to the burn unit, a patient with an approximate 25% total body surface area (TBSA) burn has the following initial laboratory results: Hct 58%, Hgb 18.2 mg/dL (172 g/L), serum K+ 4.9 mEq/L (4.8 mmol/L), and serum Na+ 135 mEq/L (135 mmol/L). Which prescribed action would be the nurse’s priority?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Monitoring urine output"
+        },
+        {
+          "id": "b",
+          "text": "Scheduling additional laboratory tests"
+        },
+        {
+          "id": "c",
+          "text": "Increasing the rate of the ordered IV solution"
+        },
+        {
+          "id": "d",
+          "text": "Typing and crossmatching for a blood transfusion"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The patient’s laboratory results show hemoconcentration, which may lead to a decrease in blood flow to the microcirculation unless fluid intake is increased. Additional lab tests can be scheduled after the fluid volume is increased. Because the hematocrit and hemoglobin are elevated, a transfusion is inappropriate, although transfusions may be needed after the emergent phase once the patient’s fluid balance has been restored. Urine output would be monitored frequently, likely every hour, and adequate fluid volume will be needed to maintain the urine output."
+    },
+    {
+      "id": "t4-ch26-q3",
+      "question": "A patient is admitted with burns to the head, face, and hands. Initially, wheezes are heard throughout the chest, but an hour later, the lung sounds are decreased, and no wheezes are audible. Which action would the nurse take?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Encourage the patient to cough and auscultate the lungs again."
+        },
+        {
+          "id": "b",
+          "text": "Notify the health care provider and prepare for endotracheal intubation."
+        },
+        {
+          "id": "c",
+          "text": "Document the assessment and continue to monitor the patient’s respiratory rate."
+        },
+        {
+          "id": "d",
+          "text": "Reposition the patient in high-Fowler’s position and reassess breath sounds."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The patient’s history and clinical manifestations suggest airway edema, and the health care provider should be notified at once so that intubation can be done rapidly. Placing the patient in a more upright position or having the patient cough will not address the problem of airway edema. Continuing to monitor is inappropriate because immediate action should occur."
+    },
+    {
+      "id": "t4-ch26-q4",
+      "question": "A patient with severe burns has crystalloid fluid replacement ordered using the Parkland formula. The initial volume of fluid to be given in the first 24 hours is 30,000 mL. The initial rate of administration is 1875 mL/hr. After the first 8 hours, what rate would the nurse infuse the IV fluids?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "219 mL/hr"
+        },
+        {
+          "id": "b",
+          "text": "625 mL/hr"
+        },
+        {
+          "id": "c",
+          "text": "938 mL/hr"
+        },
+        {
+          "id": "d",
+          "text": "1875 mL/hr"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Half of the fluid replacement using the Parkland formula is administered in the first 8 hours and the other half over the next 16 hours. In this case, the patient should receive half of the initial rate, or 938 mL/hr."
+    },
+    {
+      "id": "t4-ch26-q5",
+      "question": "During the emergent phase of burn care, which assessment is most useful in determining whether the patient is receiving adequate fluids?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Check skin turgor."
+        },
+        {
+          "id": "b",
+          "text": "Monitor daily weight."
+        },
+        {
+          "id": "c",
+          "text": "Assess mucous membranes."
+        },
+        {
+          "id": "d",
+          "text": "Measure hourly urine output."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "When fluid intake is adequate, the urine output will be at least 0.5 to 1 mL/kg/hr. The patient’s weight is not as useful in this situation because of the effects of third spacing and evaporative fluid loss. Mucous membrane assessment and skin turgor also may be used, but they are not as useful in determining that fluid infusions are maintaining adequate perfusion."
+    },
+    {
+      "id": "t4-ch26-q6",
+      "question": "A patient has just been admitted with a 40% total body surface area (TBSA) burn injury. Which action would the nurse plan to take to maintain adequate patient nutrition?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Administer vitamins and minerals intravenously."
+        },
+        {
+          "id": "b",
+          "text": "Insert a feeding tube and initiate enteral nutrition."
+        },
+        {
+          "id": "c",
+          "text": "Infuse total parenteral nutrition via a central catheter."
+        },
+        {
+          "id": "d",
+          "text": "Encourage an oral intake of at least 5000 kcal per day."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Enteral nutrition can usually be started during the emergent phase at low rates and increased over 24 to 48 hours to the goal rate. During the emergent phase, the patient will be unable to eat enough calories to meet nutritional needs. Vitamins and minerals may be given during the emergent phase, but these will not assist in meeting the patient’s caloric needs. Parenteral nutrition increases the infection risk, does not help preserve gastrointestinal function, and is not routinely used in burn patients unless the gastrointestinal tract is not available for use."
+    },
+    {
+      "id": "t4-ch26-q7",
+      "question": "Which nursing action prevents cross contamination when the patient’s full-thickness burn wounds are exposed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Using sterile gloves when removing dressings"
+        },
+        {
+          "id": "b",
+          "text": "Keeping the room temperature at 70°F (20°C)"
+        },
+        {
+          "id": "c",
+          "text": "Wearing gown, cap, mask, and gloves during care"
+        },
+        {
+          "id": "d",
+          "text": "Giving IV antibiotics to prevent bacterial colonization"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Use of gowns, caps, masks, and gloves during all patient care will decrease the possibility of wound contamination for a patient whose burns are not covered. When removing contaminated dressings and washing the dirty wound, use nonsterile, disposable gloves. The room temperature would be kept at 85°F for patients with open burn wounds to prevent shivering. Systemic antibiotics are not well absorbed into deep burns because of the lack of circulation."
+    },
+    {
+      "id": "t4-ch26-q8",
+      "question": "A nurse is caring for a patient who has burns of the ears, head, neck, and right arm and hand. In which position would the nurse place the patient?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Place the right arm and hand flexed in a position of comfort."
+        },
+        {
+          "id": "b",
+          "text": "Elevate the right arm and hand on pillows and extend the fingers."
+        },
+        {
+          "id": "c",
+          "text": "Assist the patient to a supine position with a small pillow under the head."
+        },
+        {
+          "id": "d",
+          "text": "Position the patient in a side-lying position with rolled towel under the neck."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The right hand and arm should be elevated to reduce swelling and the fingers extended to avoid flexion contractures (even though this position may not be comfortable for the patient). The patient with burns of the ears should not use a pillow for the head because this will put pressure on the ears, and the pillow may stick to the ears. Patients with neck burns should not use a pillow or rolled towel because the head should be kept in an extended position to avoid contractures."
+    },
+    {
+      "id": "t4-ch26-q9",
+      "question": "A patient with circumferential burns of both legs develops a decrease in dorsalis pedis pulse strength and reports numbness in the toes. Which action would the nurse take first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Monitor the pulses every hour."
+        },
+        {
+          "id": "b",
+          "text": "Notify the health care provider."
+        },
+        {
+          "id": "c",
+          "text": "Elevate both legs above heart level with pillows."
+        },
+        {
+          "id": "d",
+          "text": "Encourage the patient to flex and extend the toes."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The decrease in pulse and numbness in a patient with circumferential burns shows decreased circulation to the legs and the likely need for an escharotomy. Monitoring the pulses is not an adequate response to the decrease in circulation. Elevating the legs or increasing toe movement will not improve the patient’s circulation."
+    },
+    {
+      "id": "t4-ch26-q10",
+      "question": "Esomeprazole is prescribed for a patient who incurred extensive burn injuries 5 days ago. Which nursing assessment would best evaluate the effectiveness of the drug?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Bowel sounds"
+        },
+        {
+          "id": "b",
+          "text": "Stool frequency"
+        },
+        {
+          "id": "c",
+          "text": "Stool occult blood"
+        },
+        {
+          "id": "d",
+          "text": "Abdominal distention"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "H2 blockers and proton pump inhibitors are given to prevent Curling’s ulcer and gastrointestinal bleeding in the patient who has sustained burn injuries. Proton pump inhibitors usually do not affect bowel sounds, stool frequency, or appetite."
+    },
+    {
+      "id": "t4-ch26-q11",
+      "question": "Which prescribed drug would the nurse plan to administer before scheduled wound debridement on a patient with partial-thickness burns?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ketorolac"
+        },
+        {
+          "id": "b",
+          "text": "lorazepam (Ativan)"
+        },
+        {
+          "id": "c",
+          "text": "gabapentin (Neurontin)"
+        },
+        {
+          "id": "d",
+          "text": "hydromorphone (Dilaudid)"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Opioid pain medications are the best choice for pain control during a painful procedure. The other drugs are used as adjuvants to enhance the effects of opioids."
+    },
+    {
+      "id": "t4-ch26-q12",
+      "question": "A young female patient with deep partial-thickness face and neck burns is in the rehabilitation phase. Which statement by the patient indicates that a problem with body image is resolving?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“I’m glad to know the scars will be gone soon.”"
+        },
+        {
+          "id": "b",
+          "text": "“I don’t use a pillow, so my neck will be OK.”"
+        },
+        {
+          "id": "c",
+          "text": "“I think dark beige makeup will cover this scar.”"
+        },
+        {
+          "id": "d",
+          "text": "“I don’t think my boyfriend will want to look at me now.”"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The willingness to use strategies to enhance appearance is an indication that the disturbed body image is resolving. Expressing concern about the appearance to others shows a willingness to discuss appearance but not resolution of the problem. Because deep partial-thickness burns leave permanent scars, a statement that the scars are temporary shows denial rather than resolution of the problem. Avoiding using a pillow will help prevent contractures, but it does not address the problem of disturbed body image."
+    },
+    {
+      "id": "t4-ch26-q13",
+      "question": "A patient admitted with burns over 30% of the body surface 3 days ago has dramatically increased urine output today. How would the nurse interpret this finding?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Diuresis indicates development of acute kidney injury."
+        },
+        {
+          "id": "b",
+          "text": "Diuresis reflects normalizing capillary permeability."
+        },
+        {
+          "id": "c",
+          "text": "Increased urine volume signals a likely urinary infection."
+        },
+        {
+          "id": "d",
+          "text": "Increased urine volume requires increased calorie intake."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "At the end of the emergent phase, capillary permeability normalizes, and the patient begins to diurese large amounts of urine with a low specific gravity. This usually happens about 72 hours after the initial injury. A low urine output in the early days after a burn injury would raise concern for possible kidney injury form hypovolemia. Patients with burns are susceptible to infection and may need additional calories for wound healing, however, increased urine volume is not associated with a urinary tract infection or a need for additional calories."
+    },
+    {
+      "id": "t4-ch26-q14",
+      "question": "A patient with burns covering 40% total body surface area (TBSA) is in the acute phase of burn treatment. Which snack would the nurse recommend as providing the most support for wound healing?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Banana"
+        },
+        {
+          "id": "b",
+          "text": "Orange gelatin"
+        },
+        {
+          "id": "c",
+          "text": "Vanilla milkshake"
+        },
+        {
+          "id": "d",
+          "text": "Whole grain bagel"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "A patient with a burn injury needs high-protein and high-calorie food intake, and the milkshake is the highest in these nutrients. The other choices are not as nutrient dense as the milkshake. Gelatin is high in sugar. The bagel is a good carbohydrate choice but low in protein. Bananas are a good source of potassium but are not high in protein and calories."
+    },
+    {
+      "id": "t4-ch26-q15",
+      "question": "A patient has just arrived in the emergency department after an electrical burn from exposure to a high-voltage current. Which assessment is the priority?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Oral temperature"
+        },
+        {
+          "id": "b",
+          "text": "Peripheral pulses"
+        },
+        {
+          "id": "c",
+          "text": "Extremity movement"
+        },
+        {
+          "id": "d",
+          "text": "Pupil reaction to light"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "All patients with electrical burns would be considered at risk for cervical spine injury, and assessment of extremity movement will provide baseline data. The other assessment data are necessary but not as essential as determining the cervical spine status."
+    },
+    {
+      "id": "t4-ch26-q16",
+      "question": "A patient who has burns on the arms, legs, and chest from a house fire has become agitated and restless 8 hours after being admitted to the hospital. Which action would the nurse take first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Stay at the bedside and reassure the patient."
+        },
+        {
+          "id": "b",
+          "text": "Administer the ordered morphine sulfate IV."
+        },
+        {
+          "id": "c",
+          "text": "Assess orientation and level of consciousness."
+        },
+        {
+          "id": "d",
+          "text": "Use pulse oximetry to check oxygen saturation."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Agitation in a patient who may have suffered inhalation injury might indicate hypoxia, and this should be assessed by the nurse first. Administration of morphine may be indicated if the nurse determines that the agitation is caused by pain. Assessing level of consciousness and orientation is appropriate but not as essential as determining whether the patient is hypoxemic. Reassurance is not helpful to reduce agitation in a hypoxemic patient."
+    },
+    {
+      "id": "t4-ch26-q17",
+      "question": "A patient arrives in the emergency department with facial and chest burns caused by a house fire. Which action would the nurse take first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Auscultate for breath sounds."
+        },
+        {
+          "id": "b",
+          "text": "Determine the extent and depth of the burns."
+        },
+        {
+          "id": "c",
+          "text": "Give the prescribed hydromorphone (Dilaudid)."
+        },
+        {
+          "id": "d",
+          "text": "Infuse the prescribed lactated Ringer’s solution."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "A patient with facial and chest burns is at risk for inhalation injury and assessment of airway and breathing is the priority. The other actions will be completed after airway management is assured."
+    },
+    {
+      "id": "t4-ch26-q18",
+      "question": "A patient with extensive electrical burn injuries is admitted to the emergency department. Which prescribed intervention would the nurse implement first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Assess pain level."
+        },
+        {
+          "id": "b",
+          "text": "Place on heart monitor."
+        },
+        {
+          "id": "c",
+          "text": "Check potassium level."
+        },
+        {
+          "id": "d",
+          "text": "Assess oral temperature."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "After an electrical burn, the patient is at risk for life-threatening dysrhythmias and should be placed on a heart monitor. Assessing the oral temperature and pain is not as important as assessing for dysrhythmias. Checking the potassium level is important, but it will take time before the laboratory results are back. The first intervention is to place the patient on a heart monitor and assess for dysrhythmias so that they can be monitored and treated if necessary."
+    },
+    {
+      "id": "t4-ch26-q19",
+      "question": "A patient who weighs 92 kg (202.4 lb) experienced a thermal burn covering 50% of total body surface area (TBSA) eight hours ago. Which new information would be a priority for the nurse to communicate to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Blood pressure is 95/48 per arterial line."
+        },
+        {
+          "id": "b",
+          "text": "Urine output of 41 mL over past 2 hours."
+        },
+        {
+          "id": "c",
+          "text": "Serous exudate is leaking from the burns."
+        },
+        {
+          "id": "d",
+          "text": "Heart monitor shows sinus tachycardia of 108."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The urine output should be at least 0.5 to 1.0 mL/kg/hr during the emergent phase, when the patient is at great risk for hypovolemic shock. The nurse should notify the health care provider because a higher IV fluid rate is needed. BP during the emergent phase should be greater than 90 mm Hg systolic and the pulse rate should be less than 120 beats/min. Serous exudate from the burns is expected during the emergent phase."
+    },
+    {
+      "id": "t4-ch26-q20",
+      "question": "Which patient would the nurse assess first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A patient with burns who reports level 8 (0 to 10 scale) pain"
+        },
+        {
+          "id": "b",
+          "text": "A patient with smoke inhalation who has wheezes and confusion"
+        },
+        {
+          "id": "c",
+          "text": "A patient with full-thickness leg burns who is scheduled for a dressing change"
+        },
+        {
+          "id": "d",
+          "text": "A patient with partial thickness burns who is receiving IV fluids at 500 mL/hr"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Wheezes and confusion are evidence of lower airway injury. The patient should be assessed at once to determine the need for O2 or intubation (or both). The other patients should be assessed as rapidly as possible, but they do not have evidence of life-threatening complications."
+    },
+    {
+      "id": "t4-ch26-q21",
+      "question": "Which patient is most appropriate for the burn unit charge nurse to assign to a registered nurse (RN) who has floated from the hospital medical unit?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A patient who has twice-daily burn debridements to partial-thickness facial burns"
+        },
+        {
+          "id": "b",
+          "text": "A patient who just returned from having a cultured epithelial autograft to the chest"
+        },
+        {
+          "id": "c",
+          "text": "A patient who has a 15% weight loss from admission and will need enteral feedings"
+        },
+        {
+          "id": "d",
+          "text": "A patient who has blebs under an autograft on the thigh and has an order for bleb aspiration"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "An RN from a medical unit would be familiar with malnutrition and with administration and evaluation of response to enteral feedings. The other patients need burn assessment and care that is more appropriate for staff who regularly care for burned patients."
+    },
+    {
+      "id": "t4-ch26-q22",
+      "question": "A patient who was found unconscious in a burning house is brought to the emergency department by ambulance. Which action would the nurse take first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Insert two large-bore IV lines."
+        },
+        {
+          "id": "b",
+          "text": "Check the patient’s orientation."
+        },
+        {
+          "id": "c",
+          "text": "Place the patient on 100% O2."
+        },
+        {
+          "id": "d",
+          "text": "Assess for percentage of burn injury."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The patient’s history suggests possible carbon monoxide poisoning, which should be treated by rapidly starting O2 at 100% using a nonrebreather mask. The other actions are important and can be taken after the action to support gas exchange."
+    },
+    {
+      "id": "t4-ch26-q23",
+      "question": "The nurse is reviewing laboratory results for a patient who had a large burn 48 hours ago. Which result requires priority action by the nurse?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Hematocrit of 53%"
+        },
+        {
+          "id": "b",
+          "text": "Serum sodium of 147 mEq/L"
+        },
+        {
+          "id": "c",
+          "text": "Serum potassium of 6.1 mEq/L"
+        },
+        {
+          "id": "d",
+          "text": "Blood urea nitrogen of 37 mg/dL"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Hyperkalemia can lead to life-threatening dysrhythmias. The patient needs cardiac monitoring and immediate treatment to lower the potassium level. The other laboratory values are also abnormal and require changes in treatment, but they are not as immediately life threatening as the elevated potassium level."
+    },
+    {
+      "id": "t4-ch26-q24",
+      "question": "The charge nurse observes the following actions being taken by a new nurse on the burn unit. Which action by the new nurse would require immediate intervention by the charge nurse?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The new nurse uses clean gloves when applying antibacterial cream to a burn wound."
+        },
+        {
+          "id": "b",
+          "text": "The new nurse obtains burn cultures when the patient has a temperature of 95.2°F (35.1°C)."
+        },
+        {
+          "id": "c",
+          "text": "The new nurse gives PRN fentanyl (Sublimaze) IV to a patient 5 minutes before a dressing change."
+        },
+        {
+          "id": "d",
+          "text": "The new nurse calls the health care provider when a nondiabetic patient’s serum glucose is elevated."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Sterile gloves would be worn when applying medications or dressings to a burn. Hypothermia is an indicator of possible sepsis, and cultures are appropriate. Nondiabetic patients may need insulin because stress and high-calorie intake may lead to temporary hyperglycemia. Fentanyl peaks 5 minutes after IV administration and would be used just before and during dressing changes for pain management."
+    },
+    {
+      "id": "t4-ch26-q25",
+      "question": "Which nursing action is a priority for a patient who had a burn injury while working on an electrical power line?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Inspect the contact burns."
+        },
+        {
+          "id": "b",
+          "text": "Check the blood pressure."
+        },
+        {
+          "id": "c",
+          "text": "Stabilize the cervical spine."
+        },
+        {
+          "id": "d",
+          "text": "Assess alertness and orientation."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Cervical spine injuries are often associated with electrical burns. The refore, stabilization of the cervical spine takes precedence after airway management. The other actions are also included in the emergent care after electrical burns, but the most important action is to avoid further spinal cord injury."
+    },
+    {
+      "id": "t4-ch26-q26",
+      "question": "Which action will the nurse include in the plan of care for a patient in the rehabilitation phase after a burn injury to the right arm and chest?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Keep the arms in a position of comfort."
+        },
+        {
+          "id": "b",
+          "text": "Apply water-based cream to healing areas."
+        },
+        {
+          "id": "c",
+          "text": "Avoid the use of sustained-release opioids."
+        },
+        {
+          "id": "d",
+          "text": "Teach about the purpose of tetanus immunization."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Application of water-based emollients will moisturize new skin and decrease flakiness and itching. To avoid contractures, the joints of the right arm should be positioned in an extended position, which is not the position of comfort. Patients may need to continue the use of opioids during rehabilitation. Tetanus immunization would have been given during the emergent phase of the burn injury."
+    },
+    {
+      "id": "t4-ch26-q27",
+      "question": "A young adult patient who is in the rehabilitation phase 6 months after a severe face and neck burn tells the nurse, “I’m sorry that I’m still alive. My life will never be normal again.” Which response should the nurse provide?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“Most people recover after a burn and feel satisfied with their lives.”"
+        },
+        {
+          "id": "b",
+          "text": "“It’s true that your life may be different. What concerns you the most?”"
+        },
+        {
+          "id": "c",
+          "text": "“Why do you feel that way? It will get better as your recovery progresses.”"
+        },
+        {
+          "id": "d",
+          "text": "“It is really too early to know how much your life will be changed by the burn.”"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "This response acknowledges the patient’s feelings and asks for more assessment data that will help in developing an appropriate plan of care to assist the patient with the emotional response to the burn injury. The other statements do not acknowledge what the patient is expressing."
+    },
+    {
+      "id": "t4-ch26-fill1",
+      "question": "An 80-kg patient with burns over 30% of total body surface area (TBSA) is admitted to the burn unit. Using the Parkland formula of 4 mL/kg/%TBSA, what is the IV infusion rate (mL/hour) for lactated Ringer’s solution that the nurse will give during the first 8 hours?",
+      "type": "text",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "Your answer (mL)",
+          "accepted": [
+            "600"
+          ],
+          "numeric": true
+        }
+      ],
+      "rationale": "The Parkland formula states that patients should receive 4 mL/kg/%TBSA burned during the first 24 hours. Half of the total volume is given in the first 8 hours and then the remaining half is given over 16 hours: 4 × 80 × 30 = 9600 mL total volume; 9600/2 = 4800 mL in the first 8 hours; 4800 mL/8 hr = 600 mL/hr."
+    },
+    {
+      "id": "t4-ch26-fill2",
+      "question": "The nurse estimates the extent of a burn using the rule of nines for a patient who has been admitted with deep partial-thickness burns of the anterior trunk and the entire left arm. What percentage of the patient’s total body surface area (TBSA) has been injured?",
+      "type": "text",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "Your answer (%)",
+          "accepted": [
+            "27"
+          ],
+          "numeric": true
+        }
+      ],
+      "rationale": "When using the rule of nines, the anterior trunk is considered to cover 18% of the patient’s body and the anterior (4.5%) and posterior (4.5%) left arm equals 9%."
+    },
+    {
+      "id": "t4-ch42-q1",
+      "question": "After change-of-shift report in the progressive care unit, for which patient would the nurse provide care first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Patient who had an inferior myocardial infarction 2 days ago and has crackles in the lung bases"
+        },
+        {
+          "id": "b",
+          "text": "Patient who had a T5 spinal cord injury 1 week ago and currently has a heart rate of 54 beats/minute"
+        },
+        {
+          "id": "c",
+          "text": "Patient with suspected urosepsis who has new prescriptions for urine and blood cultures and antibiotics"
+        },
+        {
+          "id": "d",
+          "text": "Patient admitted with anaphylaxis 3 hours ago who has clear lung sounds and a blood pressure of 108/58 mm Hg"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Antibiotics should be given within the first hour for patients who have sepsis or suspected sepsis in order to prevent progression to systemic inflammatory response syndrome and septic shock. The data on the other patients indicate that they are more stable. Crackles heard only at the lung bases do not require immediate intervention in a patient who has had a myocardial infarction. Mild bradycardia does not usually require atropine in patients who have a spinal cord injury. The findings for the patient admitted with anaphylaxis indicate resolution of bronchospasm and hypotension."
+    },
+    {
+      "id": "t4-ch42-q2",
+      "question": "An 81-yr-old patient who has been in the intensive care unit (ICU) for a week with sepsis is now stable and transfer to the progressive care unit is planned. On rounds, the nurse notices that the patient has new onset confusion with stable vital signs and oxygen saturation. What would the nurse plan to do?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Give PRN lorazepam (Ativan) and cancel the transfer."
+        },
+        {
+          "id": "b",
+          "text": "Inform the receiving nurse and then transfer the patient."
+        },
+        {
+          "id": "c",
+          "text": "Notify the health care provider and postpone the transfer."
+        },
+        {
+          "id": "d",
+          "text": "Obtain an order for restraints as needed and transfer the patient."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The patient’s history and symptoms most likely indicate delirium associated with the sleep deprivation and sensory overload in the ICU environment. Informing the receiving nurse and transferring the patient is appropriate. Postponing the transfer is likely to prolong the delirium. Benzodiazepines and restraints contribute to delirium and agitation."
+    },
+    {
+      "id": "t4-ch42-q3",
+      "question": "Which hemodynamic parameter best reflects the effectiveness of drugs that the nurse gives to reduce a patient’s left ventricular afterload?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Mean arterial pressure (MAP)"
+        },
+        {
+          "id": "b",
+          "text": "Systemic vascular resistance (SVR)"
+        },
+        {
+          "id": "c",
+          "text": "Pulmonary vascular resistance (PVR)"
+        },
+        {
+          "id": "d",
+          "text": "Pulmonary artery wedge pressure (PAWP)"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "SVR reflects the resistance to ventricular ejection, or afterload. The other parameters may be monitored but do not reflect afterload as directly."
+    },
+    {
+      "id": "t4-ch42-q4",
+      "question": "After surgery for an abdominal aortic aneurysm, a patient’s central venous pressure (CVP) monitor indicates low pressures. Which action would the nurse take?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Administer IV diuretic medications."
+        },
+        {
+          "id": "b",
+          "text": "Increase the IV fluid infusion per protocol."
+        },
+        {
+          "id": "c",
+          "text": "Increase the infusion rate of IV vasodilators."
+        },
+        {
+          "id": "d",
+          "text": "Elevate the head of the patient’s bed to 45 degrees."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "A low CVP indicates hypovolemia and a need for an increase in the infusion rate. Diuretic administration will contribute to hypovolemia and elevation of the head or increasing vasodilators may decrease cerebral perfusion."
+    },
+    {
+      "id": "t4-ch42-q5",
+      "question": "When caring for a patient with pulmonary hypertension, which parameter will the nurse use to directly evaluate the effectiveness of the treatment?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Central venous pressure (CVP)"
+        },
+        {
+          "id": "b",
+          "text": "Systemic vascular resistance (SVR)"
+        },
+        {
+          "id": "c",
+          "text": "Pulmonary vascular resistance (PVR)"
+        },
+        {
+          "id": "d",
+          "text": "Pulmonary artery wedge pressure (PAWP)"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "PVR is a major contributor to pulmonary hypertension, and a decrease would indicate that pulmonary hypertension was improving. The other parameters may also be monitored but do not directly assess for pulmonary hypertension."
+    },
+    {
+      "id": "t4-ch42-q6",
+      "question": "When monitoring the effectiveness of treatment for a patient with a large anterior wall myocardial infarction, which is the most pertinent measurement for the nurse to obtain?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Central venous pressure (CVP)"
+        },
+        {
+          "id": "b",
+          "text": "Systemic vascular resistance (SVR)"
+        },
+        {
+          "id": "c",
+          "text": "Pulmonary vascular resistance (PVR)"
+        },
+        {
+          "id": "d",
+          "text": "Pulmonary artery wedge pressure (PAWP)"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "PAWP reflects left ventricular end diastolic pressure (or left ventricular preload) and is a sensitive indicator of cardiac function. Because the patient is high risk for left ventricular failure, the PAWP must be monitored. An increase will indicate left ventricular failure. The other values would also provide useful information, but the most definitive measurement of changes in cardiac function is the PAWP."
+    },
+    {
+      "id": "t4-ch42-q7",
+      "question": "The central venous oxygen saturation (ScvO2) is decreasing in a patient who has severe pancreatitis. Which information would the nurse analyze to determine the possible cause of the decreased ScvO2?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Lipase level"
+        },
+        {
+          "id": "b",
+          "text": "Temperature"
+        },
+        {
+          "id": "c",
+          "text": "Urinary output"
+        },
+        {
+          "id": "d",
+          "text": "Body mass index"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Elevated temperature increases metabolic demands and O2 use by tissues, resulting in a drop in O2 saturation of central venous blood. Information about the patient’s body mass index, urinary output, and lipase will not help in determining the cause of the patient’s drop in ScvO2."
+    },
+    {
+      "id": "t4-ch42-q8",
+      "question": "An intraaortic balloon pump (IABP) is being used for a patient who is in cardiogenic shock. Which data indicate to the nurse that the goals of treatment with the IABP are being met?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Urine output of 25 mL/hr"
+        },
+        {
+          "id": "b",
+          "text": "Heart rate of 110 beats/min"
+        },
+        {
+          "id": "c",
+          "text": "Cardiac output (CO) of 5 L/min"
+        },
+        {
+          "id": "d",
+          "text": "Stroke volume (SV) of 40 mL/beat"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "A CO of 5 L/min is normal and indicates that the IABP has been successful in treating the shock. The low SV signifies continued cardiogenic shock. The tachycardia and low urine output also suggest continued cardiogenic shock."
+    },
+    {
+      "id": "t4-ch42-q9",
+      "question": "The nurse is caring for a patient receiving a continuous norepinephrine IV infusion. Which finding indicates that the infusion rate may need to be adjusted?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Heart rate is slow at 58 beats/min."
+        },
+        {
+          "id": "b",
+          "text": "Mean arterial pressure (MAP) is 56 mm Hg."
+        },
+        {
+          "id": "c",
+          "text": "Systemic vascular resistance (SVR) is elevated."
+        },
+        {
+          "id": "d",
+          "text": "Pulmonary artery wedge pressure (PAWP) is low."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Vasoconstrictors, such as norepinephrine, will increase SVR. This will increase the work of the heart and decrease peripheral perfusion. The infusion rate may need to be decreased. Bradycardia, hypotension (MAP of 56 mm Hg), and low PAWP are not associated with norepinephrine infusion."
+    },
+    {
+      "id": "t4-ch42-q10",
+      "question": "A 78-kg patient in septic shock has a pulse rate of 120 beats/min with low central venous pressure and pulmonary artery wedge pressure. After initial fluid volume resuscitation, the patient’s urine output has been 30 mL/hr for the past 3 hours. Which intervention prescribed by the health care provider would the nurse question?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Administer furosemide (Lasix) 40 mg IV."
+        },
+        {
+          "id": "b",
+          "text": "Increase normal saline infusion to 250 mL/hr."
+        },
+        {
+          "id": "c",
+          "text": "Give hydrocortisone (Solu-Cortef) 100 mg IV."
+        },
+        {
+          "id": "d",
+          "text": "Use norepinephrine to keep systolic blood pressure (BP) above 90 mm Hg."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Furosemide will lower the filling pressures and renal perfusion further for the patient with septic shock. Patients in septic shock require large amounts of fluid replacement. If the patient remains hypotensive after initial volume resuscitation with minimally 30 mL/kg, vasopressors such as norepinephrine may be added. IV corticosteroids may be considered for patients in septic shock who cannot maintain an adequate BP with vasopressor therapy despite fluid resuscitation."
+    },
+    {
+      "id": "t4-ch42-q11",
+      "question": "A nurse is caring for a patient whose hemodynamic monitoring indicates a blood pressure of 92/54 mm Hg, a pulse of 64 beats/min, and an elevated pulmonary artery wedge pressure (PAWP). Which intervention prescribed by the health care provider would the nurse question?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Elevate head of bed to 30 degrees."
+        },
+        {
+          "id": "b",
+          "text": "Infuse normal saline at 250 mL/hr."
+        },
+        {
+          "id": "c",
+          "text": "Hold nitroprusside if systolic BP is less than 90 mm Hg."
+        },
+        {
+          "id": "d",
+          "text": "Titrate dobutamine to keep systolic BP is greater than 90 mm Hg."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The patient’s elevated PAWP indicates volume excess in relation to cardiac pumping ability, consistent with cardiogenic shock. A saline infusion at 250 mL/hr will exacerbate the volume excess. The other actions will help to improve cardiac output, which should lower the PAWP and may raise the BP."
+    },
+    {
+      "id": "t4-ch42-q12",
+      "question": "A patient with massive trauma and possible spinal cord injury is admitted to the emergency department (ED). Which assessment finding by the nurse would be consistent with a diagnosis of neurogenic shock?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Inspiratory crackles"
+        },
+        {
+          "id": "b",
+          "text": "Heart rate 45 beats/min"
+        },
+        {
+          "id": "c",
+          "text": "Cool, clammy extremities"
+        },
+        {
+          "id": "d",
+          "text": "Temperature 101.2°F (38.4°C)"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Neurogenic shock is characterized by hypotension and bradycardia. The other findings would be more consistent with other types of shock."
+    },
+    {
+      "id": "t4-ch42-q13",
+      "question": "An older patient with cardiogenic shock is cool and clammy. Hemodynamic monitoring indicates a high systemic vascular resistance (SVR). Which intervention would the nurse anticipate?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Increase the rate for the dopamine infusion."
+        },
+        {
+          "id": "b",
+          "text": "Decrease the rate for the nitroglycerin infusion."
+        },
+        {
+          "id": "c",
+          "text": "Increase the rate for the sodium nitroprusside infusion."
+        },
+        {
+          "id": "d",
+          "text": "Decrease the rate for the 5% dextrose in normal saline (D5/.9 NS) infusion."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Nitroprusside is an arterial vasodilator and will decrease the SVR and afterload, which will improve cardiac output. Changes in the D5/.9 NS and nitroglycerin infusions will not directly decrease SVR. Increasing the dopamine will tend to increase SVR."
+    },
+    {
+      "id": "t4-ch42-q14",
+      "question": "After a patient who has septic shock receives 2 L of IV normal saline, the central venous pressure is 10 mm Hg and the blood pressure is 82/40 mm Hg. Which medication would the nurse anticipate being prescribed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Furosemide"
+        },
+        {
+          "id": "b",
+          "text": "Nitroglycerin"
+        },
+        {
+          "id": "c",
+          "text": "Norepinephrine"
+        },
+        {
+          "id": "d",
+          "text": "Sodium nitroprusside"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "When fluid resuscitation is unsuccessful, vasopressor drugs are given to increase the systemic vascular resistance (SVR) and blood pressure and improve tissue perfusion. Furosemide would cause diuresis and further decrease the BP. Nitroglycerin would decrease the preload and further drop cardiac output and BP. Nitroprusside is an arterial vasodilator and would further decrease SVR."
+    },
+    {
+      "id": "t4-ch42-q15",
+      "question": "Which assessment will the nurse perform to evaluate the effectiveness of the pantoprazole given to a patient with systemic inflammatory response syndrome (SIRS)?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Auscultate bowel sounds."
+        },
+        {
+          "id": "b",
+          "text": "Ask the patient about nausea."
+        },
+        {
+          "id": "c",
+          "text": "Check stools for occult blood."
+        },
+        {
+          "id": "d",
+          "text": "Palpate for abdominal tenderness."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Proton pump inhibitors are given to decrease the risk for stress ulcers in critically ill patients. The other assessments will also be done, but these will not help in determining the effectiveness of the pantoprazole administration."
+    },
+    {
+      "id": "t4-ch42-q16",
+      "question": "A patient with cardiogenic shock has the following vital signs: BP 102/50, pulse 128, respirations 28. The pulmonary artery wedge pressure (PAWP) is high, and cardiac output is low. Which treatment would the nurse expect to be prescribed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Furosemide"
+        },
+        {
+          "id": "b",
+          "text": "Hydrocortisone"
+        },
+        {
+          "id": "c",
+          "text": "Epinephrine drip"
+        },
+        {
+          "id": "d",
+          "text": "5% albumin infusion"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "The PAWP indicates that the patient’s preload is elevated, and furosemide is indicated to reduce the preload and improve cardiac output. Epinephrine would further increase the heart rate and myocardial oxygen demand. 5% albumin would also increase the PAWP. Hydrocortisone might be considered for septic or anaphylactic shock."
+    },
+    {
+      "id": "t4-ch42-q17",
+      "question": "The emergency department (ED) nurse receives report that a seriously injured patient involved in a motor vehicle crash is being transported to the facility with an estimated arrival in 5 minutes. Which item would the nurse obtain in preparation for the patient’s arrival?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A dopamine infusion"
+        },
+        {
+          "id": "b",
+          "text": "A hypothermia blanket"
+        },
+        {
+          "id": "c",
+          "text": "Lactated Ringer’s solution"
+        },
+        {
+          "id": "d",
+          "text": "A 16-gauge IV catheter"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "A patient with multiple trauma may require fluid resuscitation to prevent or treat hypovolemic shock, so the nurse will anticipate the need for 2 large-bore IV lines to administer normal saline. Lactated Ringer’s solution should be used cautiously and would not be prescribed until the patient has been assessed for possible liver abnormalities. Vasopressor infusion is not used as the initial therapy for hypovolemic shock. Patients in shock need to be kept warm not cool."
+    },
+    {
+      "id": "t4-ch42-q18",
+      "question": "Which finding is the best indicator that the fluid resuscitation for a 90-kg patient with hypovolemic shock has been effective?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "There are no signs of hemorrhage."
+        },
+        {
+          "id": "b",
+          "text": "Hemoglobin is within normal limits."
+        },
+        {
+          "id": "c",
+          "text": "Urine output 65 mL over the past hour."
+        },
+        {
+          "id": "d",
+          "text": "Mean arterial pressure (MAP) is 72 mm Hg."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Assessment of end organ perfusion, such as an adequate urine output, is the best indicator that fluid resuscitation has been successful. Urine output should be equal to or more than 0.5 mL/kg/hr. The hemoglobin level and MAP are useful in determining the effects of fluid administration, but they are not as useful as data indicating good organ perfusion. The absence of hemorrhage helps to prevent further fluid loss, but does not reflect fluid balance."
+    },
+    {
+      "id": "t4-ch42-q19",
+      "question": "Which intervention will the nurse include in the plan of care for a patient who has cardiogenic shock?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Check temperature every 2 hours."
+        },
+        {
+          "id": "b",
+          "text": "Monitor breath sounds frequently."
+        },
+        {
+          "id": "c",
+          "text": "Maintain patient in supine position."
+        },
+        {
+          "id": "d",
+          "text": "Assess skin for flushing and itching."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Because pulmonary congestion and dyspnea are characteristics of cardiogenic shock, the nurse should assess the breath sounds frequently. The head of the bed is usually elevated to decrease dyspnea in patients with cardiogenic shock. Elevated temperature and flushing or itching of the skin are not typical of cardiogenic shock."
+    },
+    {
+      "id": "t4-ch42-q20",
+      "question": "Norepinephrine has been prescribed for a patient who was admitted with dehydration and hypotension. Which data indicate that the nurse should consult with the health care provider before starting the norepinephrine?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient is receiving low dose dopamine."
+        },
+        {
+          "id": "b",
+          "text": "The patient’s central venous pressure is 3 mm Hg."
+        },
+        {
+          "id": "c",
+          "text": "The patient is in sinus tachycardia at 120 beats/min."
+        },
+        {
+          "id": "d",
+          "text": "The patient has had no urine output since admission."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Adequate fluid administration is essential before giving vasopressors to patients with hypovolemic shock. The patient’s low central venous pressure indicates a need for more volume replacement. The other patient data are not contraindications to norepinephrine administration."
+    },
+    {
+      "id": "t4-ch42-q21",
+      "question": "A nurse is assessing a patient who is receiving a nitroprusside infusion to treat cardiogenic shock. Which finding indicates that the drug is effective?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "No heart murmur"
+        },
+        {
+          "id": "b",
+          "text": "Skin is warm and pink"
+        },
+        {
+          "id": "c",
+          "text": "Decreased troponin level"
+        },
+        {
+          "id": "d",
+          "text": "Blood pressure of 92/40 mm Hg"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Warm, pink, and dry skin indicates that perfusion to tissues is improved. Because nitroprusside is a vasodilator, the blood pressure may be low even if the drug is effective. Absence of a heart murmur and a decrease in troponin level are not indicators of improvement in shock."
+    },
+    {
+      "id": "t4-ch42-q22",
+      "question": "Which assessment information is most important for the nurse to obtain when evaluating whether treatment of a patient with anaphylactic shock has been effective?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Heart rate"
+        },
+        {
+          "id": "b",
+          "text": "Orientation"
+        },
+        {
+          "id": "c",
+          "text": "Blood pressure"
+        },
+        {
+          "id": "d",
+          "text": "Oxygen saturation"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Because the airway edema that is associated with anaphylaxis can affect airway and breathing, the O2 saturation is the most critical assessment. Improvements in the other assessments will also be expected with effective treatment of anaphylactic shock."
+    },
+    {
+      "id": "t4-ch42-q23",
+      "question": "Which data collected by the nurse caring for a patient who has cardiogenic shock indicate that the patient may be developing multiple organ dysfunction syndrome (MODS)?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient’s serum creatinine level is elevated."
+        },
+        {
+          "id": "b",
+          "text": "The patient reports intermittent chest pressure."
+        },
+        {
+          "id": "c",
+          "text": "The patient’s extremities are cool and pulses are weak."
+        },
+        {
+          "id": "d",
+          "text": "The patient has bilateral crackles throughout lung fields."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "The elevated serum creatinine level indicates that the patient has renal failure as well as heart failure. The crackles, chest pressure, and cool extremities are all symptoms consistent with the patient’s diagnosis of cardiogenic shock."
+    },
+    {
+      "id": "t4-ch42-q24",
+      "question": "A patient with septic shock has a BP of 70/46 mm Hg, pulse of 136 beats/min, respirations of 32 breaths/min, temperature of 104°F, and blood glucose of 246 mg/dL. Which intervention ordered by the health care provider would the nurse implement first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Acetaminophen (Tylenol) 650 mg rectally."
+        },
+        {
+          "id": "b",
+          "text": "Administer normal saline IV at 500 mL/hr."
+        },
+        {
+          "id": "c",
+          "text": "Start norepinephrine to keep blood pressure above 90 mm Hg."
+        },
+        {
+          "id": "d",
+          "text": "Start insulin drip to maintain blood glucose at 110 to 150 mg/dL."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Because of the decreased preload associated with septic shock, fluid resuscitation is the initial therapy. The other actions also are appropriate, and should be initiated quickly as well."
+    },
+    {
+      "id": "t4-ch42-q25",
+      "question": "The nurse is caring for a patient who has septic shock. Which assessment finding is most important for the nurse to report to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Skin cool and clammy"
+        },
+        {
+          "id": "b",
+          "text": "Heart rate of 118 beats/min"
+        },
+        {
+          "id": "c",
+          "text": "Blood pressure of 92/56 mm Hg"
+        },
+        {
+          "id": "d",
+          "text": "O2 saturation of 93% on room air"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Because patients in the early stage of septic shock have warm and dry skin, the patient’s cool and clammy skin indicates that shock is progressing. The other information will also be reported, but does not indicate deterioration of the patient’s status."
+    },
+    {
+      "id": "t4-ch42-q26",
+      "question": "A patient is admitted to the emergency department (ED) in shock of unknown etiology. Which action would the nurse take first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Obtain the blood pressure."
+        },
+        {
+          "id": "b",
+          "text": "Check the level of orientation."
+        },
+        {
+          "id": "c",
+          "text": "Administer supplemental oxygen."
+        },
+        {
+          "id": "d",
+          "text": "Obtain a 12-lead electrocardiogram."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The initial actions of the nurse are focused on the ABCs—airway, breathing, and circulation— and administration of O2 should be done first. The other actions should be accomplished as rapidly as possible after providing O2."
+    },
+    {
+      "id": "t4-ch42-q27",
+      "question": "A patient has been admitted with dehydration and hypotension after 4 days of vomiting and diarrhea. Which finding is most important for the nurse to report to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "New onset of confusion"
+        },
+        {
+          "id": "b",
+          "text": "Decreased bowel sounds"
+        },
+        {
+          "id": "c",
+          "text": "Heart rate 112 beats/min"
+        },
+        {
+          "id": "d",
+          "text": "Pale, cool, and dry extremities"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "The changes in mental status are indicative that the patient is in the progressive stage of shock and that rapid intervention is needed to prevent further deterioration. The other information is consistent with compensatory shock."
+    },
+    {
+      "id": "t4-ch42-q28",
+      "question": "A patient who was involved in a motor vehicle crash arrives in the emergency department (ED) with cool, clammy skin; tachycardia; and hypotension. Which intervention prescribed by the health care provider would the nurse implement first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Insert two large-bore IV catheters."
+        },
+        {
+          "id": "b",
+          "text": "Provide O2 at 100% per non-rebreather mask."
+        },
+        {
+          "id": "c",
+          "text": "Draw blood to type and crossmatch for transfusions."
+        },
+        {
+          "id": "d",
+          "text": "Initiate continuous electrocardiogram (ECG) monitoring."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The first priority in the initial management of shock is maintenance of the airway and ventilation. ECG monitoring, insertion of IV catheters, and obtaining blood for transfusions should also be rapidly accomplished but only after actions to maximize O2 delivery have been implemented."
+    },
+    {
+      "id": "t4-ch42-q29",
+      "question": "A patient who has neurogenic shock is receiving phenylephrine through a right forearm IV. Which assessment finding obtained by the nurse indicates a need for immediate action?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient’s heart rate is 58 beats/min."
+        },
+        {
+          "id": "b",
+          "text": "The patient’s extremities are warm and dry."
+        },
+        {
+          "id": "c",
+          "text": "The patient’s IV infusion site is cool and pale."
+        },
+        {
+          "id": "d",
+          "text": "The patient’s urine output is 28 mL over the past hour."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The coldness and pallor at the infusion site suggest extravasation of the phenylephrine. The nurse should discontinue the IV and, if possible, infuse the drug into a central line. An apical pulse of 58 beats/min is typical for neurogenic shock but does not indicate an immediate need for nursing intervention. A 28-mL urinary output over 1 hour would require the nurse to monitor the output over the next hour, but an immediate change in therapy is not indicated. Warm, dry skin is consistent with early neurogenic shock, but it does not indicate a need for a change in therapy or immediate action."
+    },
+    {
+      "id": "t4-ch42-q30",
+      "question": "Several interventions are prescribed by the health care provider for a patient who has respiratory distress and syncope after eating strawberries. Which action will the nurse complete first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Give diphenhydramine."
+        },
+        {
+          "id": "b",
+          "text": "Administer epinephrine."
+        },
+        {
+          "id": "c",
+          "text": "Start continuous ECG monitoring."
+        },
+        {
+          "id": "d",
+          "text": "Draw blood for complete blood count (CBC)."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Epinephrine rapidly causes peripheral vasoconstriction, dilates the bronchi, and blocks the effects of histamine and reverses the vasodilation, bronchoconstriction, and histamine release that cause the symptoms of anaphylaxis. The other interventions are also appropriate but would not be the first ones completed."
+    },
+    {
+      "id": "t4-ch42-q31",
+      "question": "Which finding about a patient who is receiving vasopressin to treat septic shock indicates an immediate need for the nurse to contact the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient’s urine output is 18 mL/hr."
+        },
+        {
+          "id": "b",
+          "text": "The patient’s peripheral pulses are weak."
+        },
+        {
+          "id": "c",
+          "text": "The patient reports diffuse chest pressure."
+        },
+        {
+          "id": "d",
+          "text": "The patient’s heart rate is 110 beats/minute."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Because vasopressin is a potent vasoconstrictor, it may decrease coronary artery perfusion and cause chest pain or pressure. Low urine output, weal pulses, and tachycardia are consistent with the patient’s diagnosis, and should be reported to the health care provider but do not indicate an immediate need for a change in therapy."
+    },
+    {
+      "id": "t4-ch42-q32",
+      "question": "After reviewing the information shown in the accompanying chart for a patient with pneumonia and sepsis, which information is most important for the nurse to report to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Temperature and IV site appearance"
+        },
+        {
+          "id": "b",
+          "text": "Oxygen saturation and breath sounds"
+        },
+        {
+          "id": "c",
+          "text": "Platelet count and presence of petechiae"
+        },
+        {
+          "id": "d",
+          "text": "Blood pressure, pulse rate, respiratory rate"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "image": "images/test4/ch42-q32-chart.png",
+      "rationale": "The low platelet count and presence of petechiae suggest that the patient may have disseminated intravascular coagulation and that multiple organ dysfunction syndrome is developing. The other information will also be discussed with the health care provider but does not indicate that the patient’s condition is deteriorating or that a change in therapy is needed immediately."
+    },
+    {
+      "id": "t4-ch42-mr1",
+      "question": "A patient with suspected neurogenic shock after a diving accident has arrived in the emergency department. A cervical collar is in place. Which actions should the nurse take? (Select all that apply.)",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Prepare to administer atropine IV."
+        },
+        {
+          "id": "b",
+          "text": "Obtain baseline body temperature."
+        },
+        {
+          "id": "c",
+          "text": "Infuse large volumes of lactated Ringer’s solution."
+        },
+        {
+          "id": "d",
+          "text": "Provide high-flow O2 (100%) by nonrebreather mask."
+        },
+        {
+          "id": "e",
+          "text": "Prepare for emergent intubation and mechanical ventilation."
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "d",
+        "e"
+      ],
+      "rationale": "Once the spine is stabilized, treating hypotension and bradycardia are essential to prevent further spinal cord damage. Treatment involves vasopressors (e.g., phenylephrine) to maintain BP and organ perfusion. Bradycardia may be treated with atropine. The patient with a spinal cord injury is monitored for hypothermia. Infuse fluids cautiously since hypotension is not related to fluid loss and it is important not to volume overload the patient. In addition, lactated Ringer’s solution is used cautiously in all shock situations because an ischemic liver cannot convert lactate to bicarbonate."
+    },
+    {
+      "id": "t4-ch42-mr2",
+      "question": "Which preventive actions by the nurse will help limit the development of systemic inflammatory response syndrome (SIRS) in patients admitted to the hospital? (Select all that apply.)",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Ambulate postoperative patients as soon as possible after surgery."
+        },
+        {
+          "id": "b",
+          "text": "Use aseptic technique when manipulating invasive lines or devices."
+        },
+        {
+          "id": "c",
+          "text": "Remove indwelling urinary catheters as soon as possible after surgery."
+        },
+        {
+          "id": "d",
+          "text": "Administer prescribed antibiotics within 1 hour for patients with possible sepsis."
+        },
+        {
+          "id": "e",
+          "text": "Advocate for parenteral nutrition for patients who cannot eat adequate calories."
+        }
+      ],
+      "correct": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "rationale": "Because sepsis is the most frequent etiology for SIRS, measures to avoid infection such as removing indwelling urinary catheters as soon as possible, use of aseptic technique, and early ambulation should be included in the plan of care. Adequate nutrition is important in preventing SIRS. Antibiotics should be given within 1 hour after being prescribed to decrease the risk of sepsis progressing to SIRS. Enteral, rather than parenteral, nutrition is preferred when patients are unable to take oral feedings because enteral nutrition helps maintain the integrity of the intestine, thus decreasing infection risk."
+    },
+    {
+      "id": "t4-ch51-q1",
+      "question": "After an arteriovenous graft is inserted in a patient’s right forearm, the patient reports pain and coldness in the right fingers. Which action would the nurse take?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Remind the patient to take a daily low-dose aspirin tablet."
+        },
+        {
+          "id": "b",
+          "text": "Report the patient’s symptoms to the health care provider."
+        },
+        {
+          "id": "c",
+          "text": "Elevate the patient’s arm on pillows above the heart level."
+        },
+        {
+          "id": "d",
+          "text": "Teach the patient about normal arteriovenous graft function."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The patient’s problems suggest the development of distal ischemia (steal syndrome) and may require revision of the arteriovenous graft (AVG). Elevating the arm above the heart will further decrease perfusion. Pain and coolness are not normal after AVG insertion. Aspirin therapy is not used to maintain grafts."
+    },
+    {
+      "id": "t4-ch51-q2",
+      "question": "Which assessment finding would the nurse expect when a patient with acute kidney injury (AKI) has an arterial blood pH of 7.30?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Persistent skin tenting"
+        },
+        {
+          "id": "b",
+          "text": "Rapid, deep respirations"
+        },
+        {
+          "id": "c",
+          "text": "Hot, flushed face and neck"
+        },
+        {
+          "id": "d",
+          "text": "Bounding peripheral pulses"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Patients with metabolic acidosis caused by AKI may have Kussmaul respirations to eliminate carbon dioxide. Bounding pulses and vasodilation are not associated with metabolic acidosis. Because the patient is likely to have fluid retention, poor skin turgor would not be a finding in AKI."
+    },
+    {
+      "id": "t4-ch51-q3",
+      "question": "The nurse is planning care for a patient with severe heart failure who has developed increased blood urea nitrogen (BUN) and creatinine levels. Which aim will be the primary treatment goal?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Augmenting fluid volume"
+        },
+        {
+          "id": "b",
+          "text": "Maintaining cardiac output"
+        },
+        {
+          "id": "c",
+          "text": "Diluting nephrotoxic substances"
+        },
+        {
+          "id": "d",
+          "text": "Preventing systemic hypertension"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The primary goal of treatment for acute kidney injury (AKI) is to eliminate the cause and provide supportive care while the kidneys recover. Because this patient’s heart failure is causing AKI, the care will be directed toward treatment of the heart failure. Renal failure caused by hypertension, hypovolemia, or nephrotoxins would be managed by interventions specific to those problems."
+    },
+    {
+      "id": "t4-ch51-q4",
+      "question": "A patient who has acute glomerulonephritis is hospitalized with hyperkalemia. Which information will the nurse monitor to evaluate the effectiveness of the prescribed calcium gluconate IV?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Urine volume"
+        },
+        {
+          "id": "b",
+          "text": "Calcium level"
+        },
+        {
+          "id": "c",
+          "text": "Cardiac rhythm"
+        },
+        {
+          "id": "d",
+          "text": "Neurologic status"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Calcium gluconate raises the threshold at which dysrhythmias occur, temporarily stabilizing the myocardium. The nurse will monitor the other data as well, but these will not be helpful in determining the effectiveness of the calcium gluconate."
+    },
+    {
+      "id": "t4-ch51-q5",
+      "question": "Which statement by a patient with stage 5 chronic kidney disease (CKD) indicates that the nurse’s teaching about management of CKD has been effective?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“I need to get most of my protein from low-fat dairy products.”"
+        },
+        {
+          "id": "b",
+          "text": "“I will increase my intake of fruits and vegetables to 5 per day.”"
+        },
+        {
+          "id": "c",
+          "text": "“I will measure my output each day to help calculate the amount I can drink.”"
+        },
+        {
+          "id": "d",
+          "text": "“I need erythropoietin injections to boost my immunity and prevent infection.”"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The patient with end-stage renal disease is taught to measure urine output as a means of determining an appropriate oral fluid intake; the total urine output plus 600-1000 ml is the daily fluid allowance. Erythropoietin is given to increase the red blood cell count and will not offer any benefit for immune function. Dairy products are restricted because of the high phosphate level. Many fruits and vegetables are high in potassium and should be restricted in the patient with CKD."
+    },
+    {
+      "id": "t4-ch51-q6",
+      "question": "Which information will the nurse monitor to determine the effectiveness of prescribed calcium carbonate (Caltrate) for a patient with chronic kidney disease (CKD)?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Blood pressure"
+        },
+        {
+          "id": "b",
+          "text": "Phosphate level"
+        },
+        {
+          "id": "c",
+          "text": "Neurologic status"
+        },
+        {
+          "id": "d",
+          "text": "Creatinine clearance"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Calcium carbonate is prescribed to bind phosphorus and prevent mineral and bone disease in patients with CKD. The other data will not be helpful in evaluating the effectiveness of calcium carbonate."
+    },
+    {
+      "id": "t4-ch51-q7",
+      "question": "Sodium polystyrene sulfonate (Kayexalate) is prescribed to be given via nasogastric tube for a patient with hyperkalemia. Which assessment would the nurse make before administering the medication?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Bowel sounds"
+        },
+        {
+          "id": "b",
+          "text": "Blood glucose"
+        },
+        {
+          "id": "c",
+          "text": "Blood urea nitrogen (BUN)"
+        },
+        {
+          "id": "d",
+          "text": "Level of consciousness (LOC)"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Sodium polystyrene sulfonate (Kayexalate) should not be given to a patient with a paralytic ileus (as indicated by absent bowel sounds) because bowel necrosis can occur. The BUN and creatinine and blood glucose would not affect the nurse’s decision to give the medication. LOC would be important to assess if the medication were prescribed for oral administration."
+    },
+    {
+      "id": "t4-ch51-q8",
+      "question": "Which menu choice by the patient who is receiving hemodialysis indicates that the nurse’s teaching has been successful?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Split-pea soup, English muffin, and nonfat milk"
+        },
+        {
+          "id": "b",
+          "text": "Poached eggs, whole-wheat toast, and apple juice"
+        },
+        {
+          "id": "c",
+          "text": "Oatmeal with cream, half a banana, and herbal tea"
+        },
+        {
+          "id": "d",
+          "text": "Cheese sandwich, tomato soup, and cranberry juice"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Poached eggs would provide high-quality protein, and apple juice is low in potassium. Cheese is high in sodium and phosphate, and tomato soup is high in potassium. Split-pea soup is high in potassium, and dairy products are high in phosphate. Bananas are high in potassium, and cream is high in phosphate."
+    },
+    {
+      "id": "t4-ch51-q9",
+      "question": "Which laboratory result would the nurse check before administering calcium carbonate to a patient with chronic kidney disease?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Serum potassium"
+        },
+        {
+          "id": "b",
+          "text": "Serum phosphate"
+        },
+        {
+          "id": "c",
+          "text": "Serum creatinine"
+        },
+        {
+          "id": "d",
+          "text": "Serum cholesterol"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "If serum phosphate is increased, the calcium and phosphate can cause soft tissue calcification. When calcium levels are increased or there is evidence of existing vascular or soft tissue calcifications, non–calcium-based phosphate binders are used. Total cholesterol, creatinine, and potassium values do not affect whether calcium carbonate should be administered."
+    },
+    {
+      "id": "t4-ch51-q10",
+      "question": "A patient is hospitalized with acute kidney injury (AKI). Which information will be most useful to the nurse in evaluating improvement in kidney function?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Urine volume"
+        },
+        {
+          "id": "b",
+          "text": "Creatinine level"
+        },
+        {
+          "id": "c",
+          "text": "Glomerular filtration rate (GFR)"
+        },
+        {
+          "id": "d",
+          "text": "Blood urea nitrogen (BUN) level"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Calculated GFR is a more accurate indicator of kidney function than BUN or creatinine. BUN levels can fluctuate based on factors such as fluid volume status and protein intake. Urine output can be normal or high in patients with AKI and does not accurately reflect kidney function. Creatinine alone is not an accurate reflection of renal function."
+    },
+    {
+      "id": "t4-ch51-q11",
+      "question": "A patient will need vascular access for hemodialysis. Which statement by the nurse accurately describes an advantage of a fistula over a graft?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A fistula is much less likely to clot."
+        },
+        {
+          "id": "b",
+          "text": "A fistula increases patient mobility."
+        },
+        {
+          "id": "c",
+          "text": "A fistula can be used sooner after surgery."
+        },
+        {
+          "id": "d",
+          "text": "A fistula can accommodate larger needles."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Arteriovenous (AV) fistulas are much less likely to clot than grafts. It takes longer for AV fistulas to mature to the point where they can be used for dialysis. The choice of an AV fistula or a graft does not have an impact on needle size or patient mobility."
+    },
+    {
+      "id": "t4-ch51-q12",
+      "question": "Which action will the nurse include in the plan of care to maintain the patency of a patient’s left arm arteriovenous fistula?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Auscultate for a bruit at the fistula site."
+        },
+        {
+          "id": "b",
+          "text": "Assess the quality of the left radial pulse."
+        },
+        {
+          "id": "c",
+          "text": "Irrigate the fistula with saline every 8 to 12 hours."
+        },
+        {
+          "id": "d",
+          "text": "Compare blood pressures in the left and right arms."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "The presence of a thrill and bruit indicates adequate blood flow through the fistula. Pulse rate and quality are not good indicators of fistula patency. Blood pressures would never be obtained on the arm with a fistula. Irrigation of the fistula might damage the fistula, and typically only dialysis staff would access the fistula."
+    },
+    {
+      "id": "t4-ch51-q13",
+      "question": "A patient who has had progressive chronic kidney disease (CKD) for several years has just begun regular hemodialysis. Which information about diet will the nurse include in patient teaching?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Increased calories are needed because glucose is lost during hemodialysis."
+        },
+        {
+          "id": "b",
+          "text": "More protein is allowed because urea and creatinine are removed by dialysis."
+        },
+        {
+          "id": "c",
+          "text": "Dietary potassium is not restricted because the level is normalized by dialysis."
+        },
+        {
+          "id": "d",
+          "text": "Unlimited fluids are allowed because retained fluid is removed during dialysis."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "When the patient is started on dialysis and nitrogenous wastes are removed, more protein in the diet is encouraged. Glucose is not lost during hemodialysis. Fluids are still restricted to avoid excessive weight gain and complications such as shortness of breath. Sodium and potassium intake continues to be restricted to avoid the complications associated with high levels of these electrolytes."
+    },
+    {
+      "id": "t4-ch51-q14",
+      "question": "Which action by a patient who is using peritoneal dialysis (PD) indicates that the nurse should provide more teaching about PD?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient leaves the catheter exit site without a dressing."
+        },
+        {
+          "id": "b",
+          "text": "The patient plans 30 to 60 minutes for a dialysate exchange."
+        },
+        {
+          "id": "c",
+          "text": "The patient cleans the catheter while in the bathtub each day."
+        },
+        {
+          "id": "d",
+          "text": "The patient slows the inflow rate when experiencing abdominal pain."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Patients are encouraged to take showers rather than baths to avoid infections at the catheter insertion side. The other patient actions indicate good understanding of peritoneal dialysis."
+    },
+    {
+      "id": "t4-ch51-q15",
+      "question": "Which information in a patient’s history indicates to the nurse that the patient is not an appropriate candidate for kidney transplantation?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient has type 1 diabetes."
+        },
+        {
+          "id": "b",
+          "text": "The patient has metastatic lung cancer."
+        },
+        {
+          "id": "c",
+          "text": "The patient has a history of chronic hepatitis C infection."
+        },
+        {
+          "id": "d",
+          "text": "The patient is infected with human immunodeficiency virus."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Advanced cancer is a contraindication to transplantation. The conditions of the other patients are not contraindications for kidney transplant."
+    },
+    {
+      "id": "t4-ch51-q16",
+      "question": "Which assessment finding may indicate that a patient is experiencing adverse effects to a corticosteroid taken for four years after kidney transplantation?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Postural hypotension"
+        },
+        {
+          "id": "b",
+          "text": "Recurrent tachycardia"
+        },
+        {
+          "id": "c",
+          "text": "Knee and hip joint pain"
+        },
+        {
+          "id": "d",
+          "text": "Increased serum creatinine"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Aseptic necrosis of the weight-bearing joints can occur when patients take corticosteroids over a prolonged period. Increased creatinine level, orthostatic dizziness, and tachycardia are not associated with corticosteroid use."
+    },
+    {
+      "id": "t4-ch51-q17",
+      "question": "A patient who had a kidney transplant eight years ago is receiving the immunosuppressants tacrolimus (Prograf), cyclosporine (Sandimmune), and prednisone. Which assessment data will be of most concern to the nurse?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Skin is thin and fragile."
+        },
+        {
+          "id": "b",
+          "text": "Blood pressure is 150/92."
+        },
+        {
+          "id": "c",
+          "text": "A lump is palpable in the axilla."
+        },
+        {
+          "id": "d",
+          "text": "Fasting blood glucose is 144 mg/dL."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "A palpable lump suggests a possible cancer, such as a lymphoma, which could occur as a result of chronic immunosuppressive therapy. The increased glucose, skin change, and hypertension are possible side effects of the prednisone and should be addressed, but they are not as great a concern as the possibility of cancer."
+    },
+    {
+      "id": "t4-ch51-q18",
+      "question": "The nurse in the dialysis clinic is reviewing the home medications of a patient with chronic kidney disease (CKD). Which medication being taken by the patient indicates a need for patient teaching?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Acetaminophen"
+        },
+        {
+          "id": "b",
+          "text": "Calcium phosphate"
+        },
+        {
+          "id": "c",
+          "text": "Magnesium hydroxide"
+        },
+        {
+          "id": "d",
+          "text": "Multivitamin with iron"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Magnesium is excreted by the kidneys, so patients with CKD should not use over-the-counter products containing magnesium. The other medications are appropriate for a patient with CKD."
+    },
+    {
+      "id": "t4-ch51-q19",
+      "question": "What laboratory value would the nurse check before administering captopril to a patient with stage 2 chronic kidney disease?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Glucose"
+        },
+        {
+          "id": "b",
+          "text": "Potassium"
+        },
+        {
+          "id": "c",
+          "text": "Creatinine"
+        },
+        {
+          "id": "d",
+          "text": "Phosphate"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Angiotensin-converting enzyme (ACE) inhibitors are often used in patients with CKD because they delay the progression of the CKD, but they cause potassium retention. The refore, careful monitoring of potassium levels is needed in patients who are at risk for hyperkalemia. The other laboratory values would also be monitored in patients with CKD but would not affect administration of captopril."
+    },
+    {
+      "id": "t4-ch51-q20",
+      "question": "A patient with diabetes who has bacterial pneumonia is being treated with IV gentamicin. Which laboratory value would the nurse monitor for adverse effects of the medication?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Blood glucose"
+        },
+        {
+          "id": "b",
+          "text": "Urine osmolality"
+        },
+        {
+          "id": "c",
+          "text": "Serum creatinine"
+        },
+        {
+          "id": "d",
+          "text": "Serum potassium"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "When a patient with diabetes, which increases risk for chronic kidney disease (CKD), receives a potentially nephrotoxic medication, it is important to monitor renal function with BUN and creatinine levels. The other laboratory values would not be useful in assessing for the adverse effects of the gentamicin."
+    },
+    {
+      "id": "t4-ch51-q21",
+      "question": "A patient with end-stage kidney disease (ESKD) is scheduled to receive a prescribed dose of epoetin alfa (Procrit). Which information would the nurse discuss with the health care provider before giving the medication?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Creatinine 1.6 mg/dL"
+        },
+        {
+          "id": "b",
+          "text": "Oxygen saturation 89%"
+        },
+        {
+          "id": "c",
+          "text": "Hemoglobin level 13 g/dL"
+        },
+        {
+          "id": "d",
+          "text": "Blood pressure 98/56 mm Hg"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "High hemoglobin levels are associated with a higher rate of thromboembolic events and increased risk of death from serious cardiovascular events (heart attack, heart failure, stroke) so the recommendation is to use the lowest possible dose of erythropoietin. Hemoglobin levels well in the normal range indicate a need for a decrease in epoetin alfa dose. The other information also will be reported to the health care provider but will not affect whether the medication is administered."
+    },
+    {
+      "id": "t4-ch51-q22",
+      "question": "Which intervention will be included in the plan of care for a patient with acute kidney injury (AKI) who has a temporary vascular access catheter in the left femoral vein?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Limit movement of the left leg."
+        },
+        {
+          "id": "b",
+          "text": "Start continuous pulse oximetry."
+        },
+        {
+          "id": "c",
+          "text": "Restrict the patient’s protein intake."
+        },
+        {
+          "id": "d",
+          "text": "Discontinue the urethral retention catheter."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Temporary vascular catheters have high rates of infection, dislodgment, and malfunction; the patient with a left femoral vein catheter must avoid flexion of the left leg. Protein intake is likely to be increased when the patient is receiving dialysis. The retention catheter is likely to remain in place because accurate measurement of output will be needed. There is no indication that the patient needs continuous pulse oximetry."
+    },
+    {
+      "id": "t4-ch51-q23",
+      "question": "A patient has been admitted with a severe crushing injury after an industrial accident. Which laboratory result will be most important to report to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Serum creatinine level of 2.1 mg/dL"
+        },
+        {
+          "id": "b",
+          "text": "Serum potassium level of 6.5 mEq/L"
+        },
+        {
+          "id": "c",
+          "text": "White blood cell count of 11,500/µL"
+        },
+        {
+          "id": "d",
+          "text": "Blood urea nitrogen (BUN) of 56 mg/dL"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The hyperkalemia associated with crushing injuries may cause cardiac arrest and would be treated immediately. The nurse will report the other laboratory values, but abnormalities in these are not immediately life threatening."
+    },
+    {
+      "id": "t4-ch51-q24",
+      "question": "A patient with a history of benign prostatic hyperplasia (BPH) is admitted with acute urinary retention and elevated blood urea nitrogen (BUN) and creatinine levels. Which prescribed therapy would the nurse implement first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Insert urethral catheter."
+        },
+        {
+          "id": "b",
+          "text": "Obtain renal ultrasound."
+        },
+        {
+          "id": "c",
+          "text": "Draw a complete blood count."
+        },
+        {
+          "id": "d",
+          "text": "Infuse normal saline at 50 mL/hr."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "The patient’s elevation in BUN is most likely associated with hydronephrosis caused by the acute urinary retention, so the insertion of an indwelling catheter is the first action to prevent ongoing postrenal failure for this patient. The other actions are appropriate but would be implemented after the catheter."
+    },
+    {
+      "id": "t4-ch51-q25",
+      "question": "A patient has been hospitalized for 4 days with acute kidney injury (AKI) caused by dehydration. Which information will be most important for the nurse to report to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The creatinine level is 3.0 mg/dL."
+        },
+        {
+          "id": "b",
+          "text": "Urine output over an 8-hour period is 2500 mL."
+        },
+        {
+          "id": "c",
+          "text": "The blood urea nitrogen (BUN) level is 67 mg/dL."
+        },
+        {
+          "id": "d",
+          "text": "The glomerular filtration rate is less than 30 mL/min/1.73 m2."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The high urine output indicates a need to increase fluid intake to prevent hypovolemia. The other information is typical of AKI and will not require a change in therapy."
+    },
+    {
+      "id": "t4-ch51-q26",
+      "question": "A patient with acute kidney injury (AKI) has longer QRS intervals on the electrocardiogram (ECG) than were noted on the previous shift. Which action would the nurse take first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Notify the patient’s health care provider."
+        },
+        {
+          "id": "b",
+          "text": "Document the QRS interval measurement."
+        },
+        {
+          "id": "c",
+          "text": "Check the patient’s most recent potassium level."
+        },
+        {
+          "id": "d",
+          "text": "Review the chart for the patient’s current creatinine level."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The increasing QRS interval is suggestive of hyperkalemia, so the nurse would check the most recent potassium and then notify the patient’s health care provider. The BUN and creatinine will be increased in a patient with AKI, but they would not directly affect the electrocardiogram (ECG). Documentation of the QRS interval is also appropriate, but interventions to decrease the potassium level are needed to prevent life-threatening dysrhythmias."
+    },
+    {
+      "id": "t4-ch51-q27",
+      "question": "A patient admitted with acute kidney injury due to dehydration has oliguria, anemia, and hyperkalemia. Which prescribed action would the nurse take first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Insert a urinary retention catheter."
+        },
+        {
+          "id": "b",
+          "text": "Administer epoetin alfa (Epogen)."
+        },
+        {
+          "id": "c",
+          "text": "Place the patient on a cardiac monitor."
+        },
+        {
+          "id": "d",
+          "text": "Give sodium polystyrene sulfonate (Kayexalate)."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Because hyperkalemia can cause fatal dysrhythmias, the initial action would be to monitor the cardiac rhythm. Kayexalate and Epogen will take time to correct the hyperkalemia and anemia. The catheter allows monitoring of the urine output but does not correct the cause of the renal failure."
+    },
+    {
+      "id": "t4-ch51-q28",
+      "question": "A patient has arrived for a scheduled hemodialysis session. Which nursing action is appropriate for the registered nurse (RN) to delegate to a dialysis technician?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Teach the patient about fluid restrictions."
+        },
+        {
+          "id": "b",
+          "text": "Check blood pressure before starting dialysis."
+        },
+        {
+          "id": "c",
+          "text": "Assess for causes of an increase in predialysis weight."
+        },
+        {
+          "id": "d",
+          "text": "Determine the ultrafiltration rate for the hemodialysis."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Dialysis technicians are educated in monitoring for blood pressure. Assessment, adjustment of the appropriate ultrafiltration rate, and patient teaching require the education and scope of practice of an RN."
+    },
+    {
+      "id": "t4-ch51-q29",
+      "question": "A licensed practical/vocational nurse (LPN/VN) is caring for a patient with stage 2 chronic kidney disease. Which observation by the RN requires an intervention?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The LPN/VN assists the patient to ambulate in the hallway."
+        },
+        {
+          "id": "b",
+          "text": "The LPN/VN administers the erythropoietin subcutaneously."
+        },
+        {
+          "id": "c",
+          "text": "The LPN/VN administers the iron supplement and phosphate binder with lunch."
+        },
+        {
+          "id": "d",
+          "text": "The LPN/VN carries a tray containing low-protein foods into the patient’s room."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Oral phosphate binders would not be given at the same time as iron because they prevent the iron from being absorbed. The phosphate binder would be given with a meal and the iron given at a different time. The other actions by the LPN/VN are appropriate for a patient with renal insufficiency."
+    },
+    {
+      "id": "t4-ch51-q30",
+      "question": "A female patient with chronic kidney disease (CKD) is receiving peritoneal dialysis with 2-L inflows. Which information would the nurse report promptly to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient has an outflow volume of 1800 mL."
+        },
+        {
+          "id": "b",
+          "text": "The patient’s peritoneal effluent appears cloudy."
+        },
+        {
+          "id": "c",
+          "text": "The patient’s abdomen appears bloated after the inflow."
+        },
+        {
+          "id": "d",
+          "text": "The patient has abdominal pain during the inflow phase."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Cloudy-appearing peritoneal effluent is a sign of possible peritonitis and would be reported immediately so that treatment with antibiotics can be started. The other problems can be addressed through nursing interventions such as slowing the inflow and repositioning the patient."
+    },
+    {
+      "id": "t4-ch51-q31",
+      "question": "The nurse is assessing a patient 4 hours after a kidney transplant. Which information is most important to communicate to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The urine output is 900 to 1100 mL/hr."
+        },
+        {
+          "id": "b",
+          "text": "The patient’s central venous pressure (CVP) is decreased."
+        },
+        {
+          "id": "c",
+          "text": "The patient reports level 7 (0- to 10-point scale) incisional pain."
+        },
+        {
+          "id": "d",
+          "text": "The blood urea nitrogen (BUN) and creatinine levels are elevated."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The decrease in CVP suggests hypovolemia, which must be rapidly corrected to prevent renal hypoperfusion and acute tubular necrosis. The other information is not unusual in a patient after a transplant."
+    },
+    {
+      "id": "t4-ch51-q32",
+      "question": "During routine hemodialysis, a patient reports nausea and dizziness. Which action would the nurse take first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Slow down the rate of dialysis."
+        },
+        {
+          "id": "b",
+          "text": "Check the blood pressure (BP)."
+        },
+        {
+          "id": "c",
+          "text": "Review the hematocrit (Hct) level."
+        },
+        {
+          "id": "d",
+          "text": "Give prescribed PRN antiemetic drugs."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The patient’s reports of nausea and dizziness suggest hypotension, so the first action would be to check the BP. The other actions may also be appropriate based on the blood pressure obtained."
+    },
+    {
+      "id": "t4-ch51-q33",
+      "question": "The nurse is titrating the IV fluid infusion rate four hours after a patient has had kidney transplantation. Which parameter will be most important for the nurse to consider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Heart rate"
+        },
+        {
+          "id": "b",
+          "text": "Urine output"
+        },
+        {
+          "id": "c",
+          "text": "Creatinine clearance"
+        },
+        {
+          "id": "d",
+          "text": "Blood urea nitrogen (BUN) level"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Fluid volume is replaced based on urine output after transplant because the urine output can be as high as a liter an hour. The other data will be monitored but are not the most important determinants of fluid infusion rate."
+    },
+    {
+      "id": "t4-ch51-q34",
+      "question": "A patient reports leg cramps during hemodialysis. Which action would the nurse take?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Massage the patient’s legs."
+        },
+        {
+          "id": "b",
+          "text": "Reposition the patient supine."
+        },
+        {
+          "id": "c",
+          "text": "Give acetaminophen (Tylenol)."
+        },
+        {
+          "id": "d",
+          "text": "Infuse a bolus of normal saline."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Muscle cramps during dialysis are caused by rapid removal of sodium and water. Treatment includes infusion of normal saline. The other actions do not address the reason for the cramps."
+    },
+    {
+      "id": "t4-ch51-q35",
+      "question": "A 74-yr-old patient who is progressing to stage 5 chronic kidney disease asks the nurse, “Do you think I would go on dialysis?” Which initial response would the nurse provide?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“It depends on which type of dialysis you are considering.”"
+        },
+        {
+          "id": "b",
+          "text": "“Tell me more about what you are thinking regarding dialysis.”"
+        },
+        {
+          "id": "c",
+          "text": "“You are the only one who can make the decision about dialysis.”"
+        },
+        {
+          "id": "d",
+          "text": "“Many people your age use dialysis and have a good quality of life.”"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The nurse would initially clarify the patient’s concerns and questions about dialysis. The patient is the one responsible for the decision, and many people using dialysis do have good quality of life, but these responses block further assessment of the patient’s concerns. Referring to which type of dialysis the patient might use only indirectly responds to the patient’s question."
+    },
+    {
+      "id": "t4-ch51-q36",
+      "question": "After receiving change-of-shift report, which patient would the nurse assess first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Patient who is scheduled for the drain phase of a peritoneal dialysis exchange"
+        },
+        {
+          "id": "b",
+          "text": "Patient with stage 4 chronic kidney disease who has an elevated phosphate level"
+        },
+        {
+          "id": "c",
+          "text": "Patient with stage 5 chronic kidney disease who has a potassium level of 3.4 mEq/L"
+        },
+        {
+          "id": "d",
+          "text": "Patient who has just returned from having hemodialysis with a heart rate of 110/min"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "The patient who has tachycardia after hemodialysis may be bleeding or excessively hypovolemic and would be assessed immediately for these complications. The other patients also need assessments or interventions but are not at risk for life-threatening complications."
+    },
+    {
+      "id": "t4-ch51-mr1",
+      "question": "Which information will be included when the nurse is teaching self-management to a patient who is receiving peritoneal dialysis? (Select all that apply.)",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Avoid commercial salt substitutes."
+        },
+        {
+          "id": "b",
+          "text": "Restrict fluid intake to 1000 mL daily."
+        },
+        {
+          "id": "c",
+          "text": "Take phosphate binders with each meal."
+        },
+        {
+          "id": "d",
+          "text": "Choose high-protein foods for most meals."
+        },
+        {
+          "id": "e",
+          "text": "Have several servings of dairy products daily."
+        }
+      ],
+      "correct": [
+        "a",
+        "c",
+        "d"
+      ],
+      "rationale": "Patients who are receiving peritoneal dialysis would have a high-protein diet. Phosphate binders are taken with meals to help control serum phosphate and calcium levels. Commercial salt substitutes are high in potassium and would be avoided. Fluid intake is not limited unless weight and blood pressure are not controlled. Dairy products are high in phosphate and usually are limited."
+    },
+    {
+      "id": "t4-ch51-fill1",
+      "question": "A patient in the oliguric phase after an acute kidney injury has had a 250-mL urine output and an emesis of 100 mL in the past 24 hours. What is the patient’s fluid restriction for the next 24 hours?",
+      "type": "text",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "Your answer (mL)",
+          "accepted": [
+            "950"
+          ],
+          "numeric": true
+        }
+      ],
+      "rationale": "The general rule for calculating fluid restrictions is to add all fluid losses for the previous 24 hours, plus 600 mL for insensible losses: (250 + 100 + 600 = 950 mL)."
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 import originalRaw from '../../public/questions.json?raw';
 import studyGuideRaw from '../../public/questions-study-guide.json?raw';
+import test4Raw from '../../public/questions-test4.json?raw';
 import { validateBank } from './loadQuestions';
 
 const images = Object.keys(import.meta.glob('../../public/images/**/*', { eager: false }));
@@ -7,6 +8,7 @@ const images = Object.keys(import.meta.glob('../../public/images/**/*', { eager:
 describe.each([
   ['questions.json', originalRaw],
   ['questions-study-guide.json', studyGuideRaw],
+  ['questions-test4.json', test4Raw],
 ])('bundled bank %s', (_name, raw) => {
   const bank = validateBank(JSON.parse(raw));
   it('passes validation', () => {

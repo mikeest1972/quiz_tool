@@ -86,6 +86,18 @@ it('offers both quizzes and loads the chosen file', async () => {
   expect(vi.mocked(fetch).mock.calls[0][0]).toContain('questions-study-guide.json');
 });
 
+it('switches quizzes with the test dropdown', async () => {
+  const user = userEvent.setup();
+  renderApp();
+  expect(screen.getByLabelText('Test')).toHaveValue('test3');
+  expect(screen.getByRole('link', { name: /Take the Study Guide quiz/ })).toBeInTheDocument();
+  await user.selectOptions(screen.getByLabelText('Test'), 'test4');
+  expect(screen.queryByRole('link', { name: /Take the Study Guide quiz/ })).not.toBeInTheDocument();
+  await user.click(screen.getByRole('link', { name: /Take the Test Bank quiz/ }));
+  await screen.findByText('Test Quiz');
+  expect(vi.mocked(fetch).mock.calls[0][0]).toContain('questions-test4.json');
+});
+
 it('uses radio for single and checkbox for select-all', async () => {
   const user = userEvent.setup();
   renderApp();
