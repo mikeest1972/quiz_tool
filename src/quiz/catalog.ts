@@ -3,6 +3,7 @@ export type TestEntry = { id: string; title: string };
 export const TESTS: TestEntry[] = [
   { id: 'test3', title: 'Test 3' },
   { id: 'test4', title: 'Test 4' },
+  { id: 'test5', title: 'Test 5' },
 ];
 
 export type QuizEntry = {
@@ -37,6 +38,13 @@ export const QUIZZES: QuizEntry[] = [
     title: 'Test Bank',
     description: 'Med-Surg: Ch 26 (Burns), Ch 42 (Shock, Sepsis, and MODS), Ch 51 (AKI and CKD).',
     file: 'questions-test4.json',
+  },
+  {
+    id: 'test5-bank',
+    test: 'test5',
+    title: 'Test Bank',
+    description: 'Med-Surg: Ch 61 (Acute Intracranial Problems), Ch 62 (Stroke), Ch 65 (Spinal Cord and Peripheral Nerve Problems).',
+    file: 'questions-test5.json',
   },
 ];
 

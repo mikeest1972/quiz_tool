@@ -1,0 +1,2543 @@
+{
+  "title": "Med-Surg Test 5 (Ch 61, 62, 65)",
+  "questions": [
+    {
+      "id": "t5-ch61-q1",
+      "question": "Family members of a patient who has a traumatic brain injury ask the nurse about the purpose of the ventriculostomy system being used for intracranial pressure monitoring. Which statement by the nurse would be the best initial response for this situation?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“This is a complex type of monitoring system, and it is managed by skilled staff.”"
+        },
+        {
+          "id": "b",
+          "text": "“The system measures pressures to determine whether blood flow to the brain is adequate.”"
+        },
+        {
+          "id": "c",
+          "text": "“The ventriculostomy monitoring system helps check for changes in cerebral perfusion pressure.”"
+        },
+        {
+          "id": "d",
+          "text": "“This monitoring system has many benefits, including the ability to drain cerebrospinal fluid.”"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Short, simple, and accurate explanations should be given initially to patients and family members. Explaining that the system is complex, and it is managed by skilled staff or that it has multiple benefits does not address the family question about purpose for this patient. Terminology such as ventriculostomy and cerebral perfusion pressure is too complex for the initial explanation and may increase family members’ anxiety."
+    },
+    {
+      "id": "t5-ch61-q2",
+      "question": "Admission vital signs for a patient who has a brain injury are blood pressure of 128/68 mm Hg, pulse of 110 beats/min, and of respirations 26 breaths/min. Which set of vital signs, if taken 1 hour later, will be of most concern to the nurse?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Blood pressure 154/68 mm Hg, pulse 56 beats/min, respirations 12 breaths/min"
+        },
+        {
+          "id": "b",
+          "text": "Blood pressure 134/72 mm Hg, pulse 90 beats/min, respirations 32 breaths/min"
+        },
+        {
+          "id": "c",
+          "text": "Blood pressure 148/78 mm Hg, pulse 112 beats/min, respirations 28 breaths/min"
+        },
+        {
+          "id": "d",
+          "text": "Blood pressure 110/70 mm Hg, pulse 120 beats/min, respirations 30 breaths/min"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Systolic hypertension with widening pulse pressure, bradycardia, and respiratory changes represent Cushing’s triad. These findings indicate that the intracranial pressure (ICP) has increased, and brain herniation may be imminent unless immediate action is taken to reduce ICP. The other vital signs may indicate the need for changes in treatment, but they are not indicative of an immediately life-threatening process."
+    },
+    {
+      "id": "t5-ch61-q3",
+      "question": "When a brain-injured patient responds to nail bed pressure with internal rotation, adduction, and flexion of the arms, how would the nurse report the response?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Flexion withdrawal"
+        },
+        {
+          "id": "b",
+          "text": "Localization of pain"
+        },
+        {
+          "id": "c",
+          "text": "Decorticate posturing"
+        },
+        {
+          "id": "d",
+          "text": "Decerebrate posturing"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Internal rotation, adduction, and flexion of the arms in an unconscious patient is documented as decorticate posturing. Extension of the arms and legs is decerebrate posturing. Because the flexion is generalized, it does not indicate localization of pain or flexion withdrawal."
+    },
+    {
+      "id": "t5-ch61-q4",
+      "question": "The nurse has administered prescribed IV mannitol (Osmitrol) to an unconscious patient. Which parameter would the nurse monitor to determine the medication’s effectiveness?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Blood pressure"
+        },
+        {
+          "id": "b",
+          "text": "Oxygen saturation"
+        },
+        {
+          "id": "c",
+          "text": "Intracranial pressure"
+        },
+        {
+          "id": "d",
+          "text": "Hemoglobin and hematocrit"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Mannitol is an osmotic diuretic and will reduce cerebral edema and intracranial pressure. It may initially reduce hematocrit and increase blood pressure, but these are not parameters for evaluation of the effectiveness of the drug. O2 saturation will not directly improve because of mannitol administration."
+    },
+    {
+      "id": "t5-ch61-q5",
+      "question": "A patient with a head injury opens his eyes to verbal stimulation, curses when stimulated, and does not respond to a verbal command to move but attempts to push away a painful stimulus. How would the nurse record the patient’s Glasgow Coma Scale score?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "9"
+        },
+        {
+          "id": "b",
+          "text": "11"
+        },
+        {
+          "id": "c",
+          "text": "13"
+        },
+        {
+          "id": "d",
+          "text": "15"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The patient has scores of 3 for eye opening, 3 for best verbal response, and 5 for best motor response."
+    },
+    {
+      "id": "t5-ch61-q6",
+      "question": "An unconscious patient is admitted to the emergency department (ED) with a head injury. The patient’s spouse and teenage children stay at the patient’s side and ask many questions about the treatment. Which action is best for the nurse to take?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Call the family’s pastor or spiritual advisor to take them to the chapel."
+        },
+        {
+          "id": "b",
+          "text": "Ask the family to stay in the waiting room until the assessment is completed."
+        },
+        {
+          "id": "c",
+          "text": "Allow the family to stay with the patient and briefly explain all procedures to them."
+        },
+        {
+          "id": "d",
+          "text": "Refer the family members to the hospital counseling service to deal with their anxiety."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The need for information about the diagnosis and care is very high in family members of acutely injured patients. The nurse would allow the family to observe care and explain the procedures unless they interfere with emergent care needs. A pastor or counseling service can offer some support, but research supports information as being more effective. Asking the family to stay in the waiting room will increase their anxiety."
+    },
+    {
+      "id": "t5-ch61-q7",
+      "question": "A patient who is unconscious after a head injury has cerebral edema. Which nursing intervention will be included in the plan of care?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Encourage coughing and deep breathing."
+        },
+        {
+          "id": "b",
+          "text": "Position the patient with knees and hips flexed."
+        },
+        {
+          "id": "c",
+          "text": "Keep the head of the bed elevated to 30 degrees."
+        },
+        {
+          "id": "d",
+          "text": "Cluster nursing interventions to provide rest periods."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The patient with increased intracranial pressure (ICP) would be maintained in the head-up position with the head in neutral position to help reduce ICP. Extreme flexion of the hips and knees increases abdominal pressure, which increases ICP. Because the stimulation associated with nursing interventions increases ICP, clustering interventions will progressively elevate ICP. Coughing increases intrathoracic pressure and ICP."
+    },
+    {
+      "id": "t5-ch61-q8",
+      "question": "A 20-yr-old is admitted with a head injury after a collision while playing sports. After noting that the patient has developed clear nasal drainage, which action would the nurse take?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Have the patient gently blow the nose."
+        },
+        {
+          "id": "b",
+          "text": "Check the drainage for glucose content."
+        },
+        {
+          "id": "c",
+          "text": "Teach the patient that rhinorrhea is expected after a head injury."
+        },
+        {
+          "id": "d",
+          "text": "Obtain a specimen of the fluid to send for culture and sensitivity."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Clear nasal drainage in a patient with a head injury suggests a dural tear and cerebrospinal fluid (CSF) leakage. If the drainage is CSF, it will test positive for glucose. Fluid leaking from the nose will have normal nasal flora, so culture and sensitivity will not be useful. Blowing the nose is avoided to prevent CSF leakage."
+    },
+    {
+      "id": "t5-ch61-q9",
+      "question": "Which action will the emergency department nurse anticipate for a patient diagnosed with a concussion who did not lose consciousness?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Coordinate the transfer of the patient to the operating room."
+        },
+        {
+          "id": "b",
+          "text": "Provide discharge instructions about monitoring neurologic status."
+        },
+        {
+          "id": "c",
+          "text": "Arrange to admit the patient to the neurologic unit for observation."
+        },
+        {
+          "id": "d",
+          "text": "Transport the patient to radiology for magnetic resonance imaging (MRI)."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "A patient with a minor head trauma is usually discharged with instructions about neurologic monitoring and the need to return if neurologic status deteriorates. MRI, hospital admission, and surgery are not usually indicated in a patient with a concussion."
+    },
+    {
+      "id": "t5-ch61-q10",
+      "question": "A patient who has a suspected epidural hematoma is admitted to the emergency department. Which action will the nurse expect to take?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Administer IV furosemide (Lasix)."
+        },
+        {
+          "id": "b",
+          "text": "Prepare the patient for craniotomy."
+        },
+        {
+          "id": "c",
+          "text": "Initiate high-dose barbiturate therapy."
+        },
+        {
+          "id": "d",
+          "text": "Type and crossmatch for blood transfusion."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The principal treatment for epidural hematoma is rapid surgery to remove the hematoma and prevent herniation. If intracranial pressure is elevated after surgery, furosemide or high-dose barbiturate therapy may be needed, but these will not be of benefit unless the hematoma is removed. Minimal blood loss occurs with head injuries, and transfusion is usually not necessary."
+    },
+    {
+      "id": "t5-ch61-q11",
+      "question": "The nurse is admitting a patient with a basal skull fracture. The nurse notes ecchymoses around both eyes and clear drainage from the patient’s nose. Which admission order would the nurse question?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Keep the head of bed elevated."
+        },
+        {
+          "id": "b",
+          "text": "Insert nasogastric tube to low suction."
+        },
+        {
+          "id": "c",
+          "text": "Turn patient side to side every 2 hours."
+        },
+        {
+          "id": "d",
+          "text": "Apply cold packs intermittently to face."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Rhinorrhea may indicate a dural tear with cerebrospinal fluid leakage. Insertion of a nasogastric tube will increase the risk for infections such as meningitis. Turning the patient, elevating the head, and applying cold packs are appropriate orders."
+    },
+    {
+      "id": "t5-ch61-q12",
+      "question": "An athlete is seen in the clinic 6 weeks after a concussion. Which assessment information will the nurse collect to determine whether the patient is developing postconcussion syndrome?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Short-term memory"
+        },
+        {
+          "id": "b",
+          "text": "Muscle coordination"
+        },
+        {
+          "id": "c",
+          "text": "Glasgow Coma Scale"
+        },
+        {
+          "id": "d",
+          "text": "Pupil reaction to light"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Decreased short-term memory, persistent headache, lethargy, personality and behavior changes, shortened attention span, and changes in intellectual ability are indications of postconcussion syndrome. The other data may be assessed but are not indications of postconcussion syndrome."
+    },
+    {
+      "id": "t5-ch61-q13",
+      "question": "When assessing a patient who has a right frontal lobe tumor, which finding would the nurse expect?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Expressive aphasia"
+        },
+        {
+          "id": "b",
+          "text": "Impaired judgment"
+        },
+        {
+          "id": "c",
+          "text": "Right-sided weakness"
+        },
+        {
+          "id": "d",
+          "text": "Difficulty swallowing"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The frontal lobe controls intellectual activities such as judgment. Speech is controlled in the parietal lobe. Weakness and hemiplegia occur on the contralateral side from the tumor. Swallowing is controlled by the brainstem."
+    },
+    {
+      "id": "t5-ch61-q14",
+      "question": "Which statement by a patient who is being discharged from the emergency department (ED) after a concussion indicates a need for intervention by the nurse?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“I will return if I feel dizzy or nauseated.”"
+        },
+        {
+          "id": "b",
+          "text": "“I am going to drive home and go right to bed.”"
+        },
+        {
+          "id": "c",
+          "text": "“I do not even remember being in an accident today.”"
+        },
+        {
+          "id": "d",
+          "text": "“I can take acetaminophen (Tylenol) for my headache.”"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "After a head injury, the patient should avoid driving and operating heavy machinery. Retrograde amnesia is common after a concussion. The patient can take acetaminophen for headache and should return if symptoms of increased intracranial pressure such as dizziness or nausea occur."
+    },
+    {
+      "id": "t5-ch61-q15",
+      "question": "After having a craniectomy and left anterior fossae incision, a patient has weakness, impaired physical mobility, and a decreased level of consciousness. Which nursing action will be included in the plan of care?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Cluster nursing activities to allow longer rest periods."
+        },
+        {
+          "id": "b",
+          "text": "Turn and reposition the patient side to side every 2 hours."
+        },
+        {
+          "id": "c",
+          "text": "Position the bed flat and log roll to reposition the patient."
+        },
+        {
+          "id": "d",
+          "text": "Perform range-of-motion (ROM) exercises every 4 hours."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "ROM exercises will help prevent the complications of immobility. Patients with anterior craniotomies are positioned with the head elevated. The patient with a craniectomy would not be turned to the operative side. When the patient is weak, clustering nursing activities may lead to more fatigue and weakness."
+    },
+    {
+      "id": "t5-ch61-q16",
+      "question": "A patient who has bacterial meningitis is disoriented and anxious. Which action will the nurse include in the plan of care?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Encourage family members to remain at the bedside."
+        },
+        {
+          "id": "b",
+          "text": "Apply soft restraints to protect the patient from injury."
+        },
+        {
+          "id": "c",
+          "text": "Keep the room well-lighted to improve patient orientation."
+        },
+        {
+          "id": "d",
+          "text": "Minimize contact with the patient to decrease sensory input."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Patients with meningitis and disorientation will be calmed by the presence of someone familiar at the bedside. Restraints should be avoided because they increase agitation and anxiety. The patient requires frequent assessment for complications. The use of touch and a soothing voice will decrease anxiety for most patients. The patient will have photophobia, so the light should be dim."
+    },
+    {
+      "id": "t5-ch61-q17",
+      "question": "The public health nurse is planning a program to decrease the incidence of meningitis in teenagers and young adults. Which action is most likely to be effective?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Emphasize the importance of hand washing before meals."
+        },
+        {
+          "id": "b",
+          "text": "Encourage immunization for adolescents and college freshmen."
+        },
+        {
+          "id": "c",
+          "text": "Tell adolescents and young adults to avoid crowds in the winter."
+        },
+        {
+          "id": "d",
+          "text": "Support serving healthy nutritional options in the college cafeteria."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The Neisseria meningitidis vaccination is recommended for children ages 11 and 12 years, unvaccinated teens entering high school, and college freshmen. Hand washing may help decrease the spread of bacteria, and good nutrition may increase resistance to infection, but those are not as effective as immunization. Because adolescents and young adults are usually in school or the workplace, avoiding crowds is not realistic."
+    },
+    {
+      "id": "t5-ch61-q18",
+      "question": "A patient has been admitted with meningococcal meningitis. Which observation by the nurse requires action?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient received a regular diet tray."
+        },
+        {
+          "id": "b",
+          "text": "Staff turned off the lights in the patient’s room."
+        },
+        {
+          "id": "c",
+          "text": "The bedrails on both sides of the bed are elevated."
+        },
+        {
+          "id": "d",
+          "text": "Staff have entered the patient’s room without a mask."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Meningococcal meningitis is spread by respiratory secretions, so it is important to maintain respiratory isolation as well as standard precautions. Because the patient may be confused and weak, bedrails should be elevated at both the foot and head of the bed. Low light levels in the room decrease pain caused by photophobia. Nutrition is an important aspect of care in a patient with meningitis."
+    },
+    {
+      "id": "t5-ch61-q19",
+      "question": "When assessing an adult who has bacterial meningitis, the nurse obtains the following data. Which finding requires the most immediate intervention?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient exhibits nuchal rigidity."
+        },
+        {
+          "id": "b",
+          "text": "The patient has a positive Kernig’s sign."
+        },
+        {
+          "id": "c",
+          "text": "The patient’s temperature is 101°F (38.3°C)."
+        },
+        {
+          "id": "d",
+          "text": "The patient’s blood pressure is 88/42 mm Hg."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Shock is a serious complication of meningitis, and the patient’s low blood pressure indicates the need for interventions such as fluids or vasopressors. Nuchal rigidity and a positive Kernig’s sign are expected with bacterial meningitis. The nurse should intervene to lower the temperature, but this is not as life threatening as the hypotension."
+    },
+    {
+      "id": "t5-ch61-q20",
+      "question": "A patient admitted with a diffuse axonal injury has a systemic blood pressure (BP) of 106/52 mm Hg and an intracranial pressure (ICP) of 14 mm Hg. Which action would the nurse take first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Document the BP and ICP in the patient’s record."
+        },
+        {
+          "id": "b",
+          "text": "Report the BP and ICP to the health care provider."
+        },
+        {
+          "id": "c",
+          "text": "Elevate the head of the patient’s bed to 60 degrees."
+        },
+        {
+          "id": "d",
+          "text": "Continue to monitor the patient’s vital signs and ICP."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Calculate the cerebral perfusion pressure (CPP): (CPP = Mean arterial pressure [MAP] – ICP). MAP = DBP + 1/3 (Systolic blood pressure [SBP] – Diastolic blood pressure [DBP]). Therefore, the MAP is 70, and the CPP is 56 mm Hg, which are below the normal values of 60 to 100 mm Hg and are approaching the level of ischemia and neuronal death. Immediate changes in the patient’s therapy such as fluid infusion or vasopressor administration are needed to improve the CPP. Adjustments in the head elevation should only be done after consulting with the health care provider. Continued monitoring and documentation will also be done, but they are not the first actions that the nurse should take."
+    },
+    {
+      "id": "t5-ch61-q21",
+      "question": "After endotracheal suctioning, the nurse notes that the intracranial pressure (ICP) for a patient with a traumatic head injury has increased from 14 to 17 mm Hg. Which action would the nurse take first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Document the increase in intracranial pressure."
+        },
+        {
+          "id": "b",
+          "text": "Ensure that the patient’s neck is in neutral position."
+        },
+        {
+          "id": "c",
+          "text": "Notify the health care provider about the change in pressure."
+        },
+        {
+          "id": "d",
+          "text": "Increase the rate of the prescribed propofol (Diprivan) infusion."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Because suctioning will cause a transient increase in ICP, the nurse should initially check for other factors that might be contributing to the increase and observe the patient for a few minutes. Documentation is needed, but this is not the first action. There is no need to notify the health care provider about this expected reaction to suctioning. Propofol is used to control patient anxiety or agitation. There is no indication that anxiety has contributed to the increase in ICP."
+    },
+    {
+      "id": "t5-ch61-q22",
+      "question": "Which patient is most appropriate for the intensive care unit (ICU) charge nurse to assign to a registered nurse (RN) who has floated from the medical unit?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A 45-yr-old patient receiving IV antibiotics for meningococcal meningitis"
+        },
+        {
+          "id": "b",
+          "text": "A 35-yr-old patient with intracranial pressure monitoring after a head injury"
+        },
+        {
+          "id": "c",
+          "text": "A 25-yr-old patient admitted with a skull fracture and craniotomy the previous day"
+        },
+        {
+          "id": "d",
+          "text": "A 55-yr-old patient who is receiving hyperventilation therapy for increased ICP"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "An RN who works on a medical unit will be familiar with administration of IV antibiotics and with meningitis. The patient recovering from a craniotomy, the patient with an ICP monitor, and the patient on a ventilator should be assigned to an RN familiar with the care of critically ill patients."
+    },
+    {
+      "id": "t5-ch61-q23",
+      "question": "A patient who has possible cerebral edema has a serum sodium level of 116 mEq/L (116 mmol/L) and a decreasing level of consciousness (LOC). The patient is now reporting a headache. Which prescribed intervention would the nurse implement first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Administer IV hypertonic saline."
+        },
+        {
+          "id": "b",
+          "text": "Draw blood for arterial blood gases (ABGs)."
+        },
+        {
+          "id": "c",
+          "text": "Send patient for computed tomography (CT)."
+        },
+        {
+          "id": "d",
+          "text": "Administer acetaminophen (Tylenol) 650 mg."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "The patient’s low sodium indicates that hyponatremia may be causing the cerebral edema. The nurse’s first action would be to correct the low sodium level. Acetaminophen (Tylenol) will have minimal effect on the headache because it is caused by cerebral edema and increased intracranial pressure (ICP). Drawing ABGs and obtaining a CT scan may provide some useful information, but the low sodium level may lead to seizures unless it is addressed quickly."
+    },
+    {
+      "id": "t5-ch61-q24",
+      "question": "After the emergency department nurse has received a status report on the following patients with head injuries, which patient would the nurse assess first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A 20-yr-old patient whose cranial x-ray shows a linear skull fracture"
+        },
+        {
+          "id": "b",
+          "text": "A 30-yr-old patient who lost consciousness for 10 seconds after a fall"
+        },
+        {
+          "id": "c",
+          "text": "A 40-yr-old patient who has an initial Glasgow Coma Scale score of 13"
+        },
+        {
+          "id": "d",
+          "text": "A 50-yr-old patient whose right pupil is 10 mm and unresponsive to light"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "The dilated and nonresponsive pupil may indicate an intracerebral hemorrhage and increased intracranial pressure. The other patients are not at immediate risk for complications such as herniation."
+    },
+    {
+      "id": "t5-ch61-q25",
+      "question": "The nurse is caring for a patient who was admitted the previous day with a basilar skull fracture after a motor vehicle crash. Which assessment finding indicates a possible complication that should be reported to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Report of severe headache"
+        },
+        {
+          "id": "b",
+          "text": "Large contusion behind left ear"
+        },
+        {
+          "id": "c",
+          "text": "Bilateral periorbital ecchymosis"
+        },
+        {
+          "id": "d",
+          "text": "Temperature of 101.4°F (38.6°C)"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Patients who have basilar skull fractures are at risk for meningitis, so the elevated temperature should be reported to the health care provider. The other findings are typical of a patient with a basilar skull fracture."
+    },
+    {
+      "id": "t5-ch61-q26",
+      "question": "After evacuation of an epidural hematoma, a patient’s intracranial pressure (ICP) is being monitored with an intraventricular catheter. Which information obtained by the nurse requires urgent communication with the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Pulse of 102 beats/min"
+        },
+        {
+          "id": "b",
+          "text": "Temperature of 101.6°F"
+        },
+        {
+          "id": "c",
+          "text": "Intracranial pressure of 15 mm Hg"
+        },
+        {
+          "id": "d",
+          "text": "Mean arterial pressure of 90 mm Hg"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Infection is a serious complication of ICP monitoring, especially with intraventricular catheters. The temperature indicates the need for antibiotics or removal of the monitor. The ICP, arterial pressure, and apical pulse only require ongoing monitoring at this time."
+    },
+    {
+      "id": "t5-ch61-q27",
+      "question": "The charge nurse observes a new staff nurse caring for a patient who has had a craniotomy for resection of a brain tumor. Which action by the new nurse requires the charge nurse to intervene?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The staff nurse assesses neurologic status every hour."
+        },
+        {
+          "id": "b",
+          "text": "The staff nurse elevates the head of the bed to 30 degrees."
+        },
+        {
+          "id": "c",
+          "text": "The staff nurse suctions the patient routinely every 2 hours."
+        },
+        {
+          "id": "d",
+          "text": "The staff nurse administers an analgesic before turning the patient."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Suctioning increases intracranial pressure and should only be done when the patient’s respiratory condition indicates it is needed. The other actions by the staff nurse are appropriate."
+    },
+    {
+      "id": "t5-ch61-q28",
+      "question": "A patient is brought to the emergency department (ED) by ambulance after being found unconscious on the bathroom floor. Which action will the nurse take first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Check oxygen saturation."
+        },
+        {
+          "id": "b",
+          "text": "Palpate the head for injuries."
+        },
+        {
+          "id": "c",
+          "text": "Assess pupil reaction to light."
+        },
+        {
+          "id": "d",
+          "text": "Verify Glasgow Coma Scale (GCS) score."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Airway patency and breathing are the most vital functions and should be assessed first. The neurologic assessments should be accomplished next and additional assessment after that."
+    },
+    {
+      "id": "t5-ch61-q29",
+      "question": "A patient with increased intracranial pressure after a head injury has a ventriculostomy in place. Which action can the nurse delegate to the assistive personnel (AP) who regularly works in the intensive care unit?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Document intracranial pressure every hour."
+        },
+        {
+          "id": "b",
+          "text": "Turn and reposition the patient every 2 hours."
+        },
+        {
+          "id": "c",
+          "text": "Check capillary blood glucose level every 6 hours."
+        },
+        {
+          "id": "d",
+          "text": "Monitor cerebrospinal fluid color and volume hourly."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Experienced UAP can obtain capillary blood glucose levels when they have been trained and evaluated in the skill. Monitoring and documentation of cerebrospinal fluid (CSF) color and intracranial pressure (ICP) require registered nurse (RN)–level education and scope of practice. Although repositioning patients is frequently delegated to UAP, repositioning a patient with a ventriculostomy is complex and should be supervised by the RN."
+    },
+    {
+      "id": "t5-ch61-q30",
+      "question": "Which information about a 30-yr-old patient who is hospitalized after a traumatic brain injury requires the most rapid action by the nurse?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Intracranial pressure of 15 mm Hg"
+        },
+        {
+          "id": "b",
+          "text": "Cerebrospinal fluid (CSF) drainage of 25 mL/hr"
+        },
+        {
+          "id": "c",
+          "text": "Pressure of oxygen in brain tissue (PbtO2) is 14 mm Hg"
+        },
+        {
+          "id": "d",
+          "text": "Cardiac monitor shows sinus tachycardia at 120 beats/min"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The PbtO2 should be 20 to 40 mm Hg. Lower levels indicate brain ischemia. An intracranial pressure (ICP) of 15 mm Hg is at the upper limit of normal. CSF is produced at a rate of 20 to 30 mL/hr. The reason for the sinus tachycardia should be investigated, but the elevated heart rate is not as concerning as the decrease in PbtO2."
+    },
+    {
+      "id": "t5-ch61-q31",
+      "question": "The nurse is caring for a patient who has a head injury and fractured right arm. Which assessment information requires the most rapid action by the nurse?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient reports a headache."
+        },
+        {
+          "id": "b",
+          "text": "The apical pulse is slightly irregular."
+        },
+        {
+          "id": "c",
+          "text": "The patient is more difficult to arouse."
+        },
+        {
+          "id": "d",
+          "text": "The blood pressure increases to 140/62 mm Hg."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The change in level of consciousness (LOC) is an indicator of increased intracranial pressure (ICP) and suggests that action by the nurse is needed to prevent complications. The change in BP should be monitored but is not an indicator of a need for immediate nursing action. Headache and a slightly irregular apical pulse are not unusual in a patient after a head injury and would be monitored."
+    },
+    {
+      "id": "t5-ch61-q32",
+      "question": "The nurse is caring for a patient who has a head injury. Which finding, when reported to the health care provider, would the nurse expect will result in new prescribed interventions?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Pale yellow urine output of 1200 mL over the past 2 hours."
+        },
+        {
+          "id": "b",
+          "text": "Ventriculostomy drained 40 mL of fluid in the past 2 hours."
+        },
+        {
+          "id": "c",
+          "text": "Brain tissue oxygenation catheter shows PbtO2 of 38 mm Hg."
+        },
+        {
+          "id": "d",
+          "text": "Intracranial pressure spikes to 16 mm Hg when patient is turned."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "The high urine output indicates that diabetes insipidus may be developing, and interventions to prevent dehydration need to be rapidly implemented. The other data do not indicate a need for any change in therapy."
+    },
+    {
+      "id": "t5-ch61-q33",
+      "question": "While admitting a patient with a possible brain injury to the emergency department (ED), the nurse obtains the following information. Which finding is most important to report to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient reports a severe dull headache."
+        },
+        {
+          "id": "b",
+          "text": "The patient takes an anticoagulant drug daily."
+        },
+        {
+          "id": "c",
+          "text": "The patient’s blood pressure is 162/94 mm Hg."
+        },
+        {
+          "id": "d",
+          "text": "The patient is unable to remember the accident."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The use of anticoagulants increases the risk for intracranial hemorrhage and would be immediately reported. The other information would not be unusual in a patient with a head injury who had just arrived in the ED."
+    },
+    {
+      "id": "t5-ch61-q34",
+      "question": "A patient being admitted with bacterial meningitis has a temperature of 102.5°F (39.2°C) and a severe headache. Which prescribed intervention would the nurse implement first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Administer ceftizoxime (Cefizox) 1 g IV."
+        },
+        {
+          "id": "b",
+          "text": "Give acetaminophen (Tylenol) 650 mg PO."
+        },
+        {
+          "id": "c",
+          "text": "Use a cooling blanket to lower temperature."
+        },
+        {
+          "id": "d",
+          "text": "Swab the nasopharyngeal mucosa for cultures."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Antibiotic therapy would be started quickly in bacterial meningitis, but cultures must be done before antibiotics are started. After the cultures are done, the antibiotic would be started. Hypothermia therapy and acetaminophen administration are appropriate but can be started after the other actions are implemented."
+    },
+    {
+      "id": "t5-ch61-q35",
+      "question": "A patient with possible meningitis is admitted to the nursing unit after a lumbar puncture was performed in the emergency department. Which action prescribed by the health care provider would the nurse question?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Restrict oral fluids to 1000 mL/day."
+        },
+        {
+          "id": "b",
+          "text": "Elevate the head of the bed 20 degrees."
+        },
+        {
+          "id": "c",
+          "text": "Administer ceftriaxone 1 g IV every 12 hours."
+        },
+        {
+          "id": "d",
+          "text": "Give ibuprofen 400 mg every 6 hours as needed for headache."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "The patient with meningitis has increased fluid needs due to infection, so oral fluids would be encouraged. The other actions are appropriate. Slight elevation of the head of the bed will decrease headache without causing leakage of cerebrospinal fluid from the lumbar puncture site. Antibiotics would be administered until bacterial meningitis is ruled out by the cerebrospinal fluid analysis."
+    },
+    {
+      "id": "t5-ch61-q36",
+      "question": "Which action will the public health nurse take to reduce the incidence of epidemic encephalitis in a community?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Teach about prophylactic antibiotics after exposure to encephalitis."
+        },
+        {
+          "id": "b",
+          "text": "Encourage the use of effective insect repellent during mosquito season."
+        },
+        {
+          "id": "c",
+          "text": "Remind patients that most cases of viral encephalitis can be cared for at home."
+        },
+        {
+          "id": "d",
+          "text": "Arrange to screen school-age children for West Nile virus during the school year."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Mosquitoes and ticks usually spread epidemic encephalitis. Use of insect repellent is effective in reducing risk. Encephalitis frequently requires that the patient be hospitalized in an intensive care unit during the initial stages. Antibiotic prophylaxis is not used to prevent encephalitis because most encephalitis is viral. West Nile virus is most common in adults over age 50 during the summer and early fall."
+    },
+    {
+      "id": "t5-ch61-q37",
+      "question": "Which question will the nurse ask a patient who has been admitted with a benign occipital lobe tumor to assess for related functional deficits?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“Do you have any difficulty in hearing?”"
+        },
+        {
+          "id": "b",
+          "text": "“Are you experiencing vision problems?”"
+        },
+        {
+          "id": "c",
+          "text": "“Are you having any trouble with your balance?”"
+        },
+        {
+          "id": "d",
+          "text": "“Have you developed any weakness on one side?”"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Because the occipital lobe is responsible for visual reception, the patient with a tumor in this area is likely to have problems with vision. The other questions will be better for assessing function of the temporal lobe, cerebellum, and frontal lobe."
+    },
+    {
+      "id": "t5-ch61-q38",
+      "question": "During change-of-shift report, the nurse learns that a patient with a head injury has decorticate posturing to noxious stimulation. Which positioning shown in the accompanying figure will the nurse expect to observe?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "1"
+        },
+        {
+          "id": "b",
+          "text": "2"
+        },
+        {
+          "id": "c",
+          "text": "3"
+        },
+        {
+          "id": "d",
+          "text": "4"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "With decorticate posturing, the patient exhibits internal rotation and adduction of the arms with flexion of the elbows, wrists, and fingers. The other illustrations are of decerebrate, mixed decorticate and decerebrate posturing, and opisthotonic posturing.",
+      "image": "images/test5/ch61-q38-posturing.png"
+    },
+    {
+      "id": "t5-ch61-q39",
+      "question": "Which is the correct point on the accompanying figure where the nurse will assess for ecchymosis when admitting a patient with a basilar skull fracture?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A"
+        },
+        {
+          "id": "b",
+          "text": "B"
+        },
+        {
+          "id": "c",
+          "text": "C"
+        },
+        {
+          "id": "d",
+          "text": "D"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Battle’s sign (postauricular ecchymosis) and periorbital ecchymoses are associated with basilar skull fracture.",
+      "image": "images/test5/ch61-q39-head.png"
+    },
+    {
+      "id": "t5-ch61-q40",
+      "question": "The nurse is caring for a patient with a subarachnoid hemorrhage who is intubated and placed on a mechanical ventilator with 10 cm H2O of peak end-expiratory pressure (PEEP). What new finding indicates that the nurse needs to notify the health care provider immediately?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "O2 saturation of 93%"
+        },
+        {
+          "id": "b",
+          "text": "Respirations of 20 breaths/min"
+        },
+        {
+          "id": "c",
+          "text": "Green nasogastric tube drainage"
+        },
+        {
+          "id": "d",
+          "text": "Increased jugular venous distention"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Increases in jugular venous distention in a patient with a subarachnoid hemorrhage may indicate an increase in intracranial pressure (ICP) and that the PEEP setting is too high for this patient. A respiratory rate of 20, O2 saturation of 93%, and green nasogastric tube drainage are within normal limits."
+    },
+    {
+      "id": "t5-ch61-fill1",
+      "question": "An unconscious patient with a traumatic head injury has a blood pressure of 130/76 mm Hg and an intracranial pressure (ICP) of 20 mm Hg. The nurse will calculate the cerebral perfusion pressure (CPP) as how many mm Hg?",
+      "type": "text",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "Your answer (mm Hg)",
+          "accepted": [
+            "74"
+          ],
+          "numeric": true
+        }
+      ],
+      "rationale": "CPP = MAP − ICP, and MAP = DBP + 1/3 (SBP − DBP). The MAP is 76 + 1/3 (130 − 76) = 94 mm Hg. The CPP is 94 − 20 = 74 mm Hg."
+    },
+    {
+      "id": "t5-ch62-q1",
+      "question": "Which topic would the nurse anticipate teaching a patient who had a brief episode of tinnitus, diplopia, and dysarthria with no residual effects?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Cerebral aneurysm clipping"
+        },
+        {
+          "id": "b",
+          "text": "Heparin intravenous infusion"
+        },
+        {
+          "id": "c",
+          "text": "Oral low-dose aspirin therapy"
+        },
+        {
+          "id": "d",
+          "text": "Tissue plasminogen activator (tPA)"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The patient’s symptoms are consistent with transient ischemic attack (TIA), and drugs that inhibit platelet aggregation are prescribed after a TIA to prevent a stroke. Continuous heparin infusion is not routinely used after TIA or with acute ischemic stroke. The patient’s symptoms are not consistent with a cerebral aneurysm. tPA is used only for acute ischemic stroke, not for TIA."
+    },
+    {
+      "id": "t5-ch62-q2",
+      "question": "A patient is being admitted with a possible stroke. Which information from the nursing assessment indicates that the patient is more likely to be having a hemorrhagic stroke than a thromboembolic stroke?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient has intermittent bouts of atrial fibrillation."
+        },
+        {
+          "id": "b",
+          "text": "The patient has had brief episodes of right-sided hemiplegia."
+        },
+        {
+          "id": "c",
+          "text": "The patient has a history of treatment for infective endocarditis."
+        },
+        {
+          "id": "d",
+          "text": "The patient reports that the symptoms began with a severe headache."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "A sudden onset headache is typical of a subarachnoid hemorrhage. Atrial fibrillation and infective endocarditis are a risk factors for thrombotic or embolic stroke. Brief episodes of right-sided hemiplegia are consistent with transient ischemic attack and risk for embolic stroke."
+    },
+    {
+      "id": "t5-ch62-q3",
+      "question": "A patient being admitted with a stroke has right-sided facial drooping and right-sided arm and leg paralysis. Which other finding would the nurse expect?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Impulsive behavior"
+        },
+        {
+          "id": "b",
+          "text": "Right-sided neglect"
+        },
+        {
+          "id": "c",
+          "text": "Hyperactive left-sided tendon reflexes"
+        },
+        {
+          "id": "d",
+          "text": "Difficulty comprehending instructions"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Right-sided paralysis indicates a left-brain stroke, which is also associated with difficulty in comprehension and use of language: the left hemisphere is dominant for language skills in right-handed persons and in most left-handed persons. Impulsive behavior and neglect are more likely with a right-side stroke. The left-side reflexes are likely to be intact."
+    },
+    {
+      "id": "t5-ch62-q4",
+      "question": "The health record indicates that a patient has an occluded left posterior cerebral artery. Which finding would the nurse anticipate?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Dysphasia"
+        },
+        {
+          "id": "b",
+          "text": "Confusion"
+        },
+        {
+          "id": "c",
+          "text": "Visual deficits"
+        },
+        {
+          "id": "d",
+          "text": "Poor judgment"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Visual disturbances are expected with posterior cerebral artery occlusion. Aphasia occurs with middle cerebral artery involvement. Cognitive deficits and changes in judgment are more typical of anterior cerebral artery occlusion."
+    },
+    {
+      "id": "t5-ch62-q5",
+      "question": "Which information about clopidogrel (Plavix) will the nurse provide to the patient who has cerebral atherosclerosis?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Monitor and record the blood pressure daily."
+        },
+        {
+          "id": "b",
+          "text": "Call the health care provider if stools are tarry."
+        },
+        {
+          "id": "c",
+          "text": "Clopidogrel will dissolve clots in the cerebral arteries."
+        },
+        {
+          "id": "d",
+          "text": "Clopidogrel will reduce cerebral artery plaque formation."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Clopidogrel inhibits platelet function and increases the risk for gastrointestinal bleeding, so patients would be advised to notify the health care provider about any signs of bleeding. The medication does not lower blood pressure, decrease plaque formation, or dissolve clots."
+    },
+    {
+      "id": "t5-ch62-q6",
+      "question": "A patient with carotid atherosclerosis asks the nurse to describe a carotid endarterectomy. Which response by the nurse is accurate?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“The diseased portion of the artery is replaced with a synthetic graft.”"
+        },
+        {
+          "id": "b",
+          "text": "“The obstructing plaque is surgically removed from inside an artery in the neck.”"
+        },
+        {
+          "id": "c",
+          "text": "“A wire is threaded through an artery in the leg to the clots in the carotid artery, and clots are removed.”"
+        },
+        {
+          "id": "d",
+          "text": "“A catheter with a deflated balloon is positioned at the narrow area, and the balloon flattens the plaque.”"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "In a carotid endarterectomy, the carotid artery is incised, and the plaque is removed. The response beginning, “The diseased portion of the artery is replaced” describes an arterial graft procedure. The answer beginning, “A catheter with a deflated balloon is positioned at the narrow area” describes an angioplasty. The final response beginning, “A wire is threaded through the artery” describes the mechanical embolus removal in cerebral ischemia (MERCI) procedure."
+    },
+    {
+      "id": "t5-ch62-q7",
+      "question": "A patient admitted with possible stroke has been aphasic for 3 hours and has a current blood pressure (BP) of 174/94 mm Hg. Which order by the health care provider would the nurse question?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Keep head of bed elevated at least 30 degrees."
+        },
+        {
+          "id": "b",
+          "text": "Infuse normal saline intravenously at 75 mL/hr."
+        },
+        {
+          "id": "c",
+          "text": "Start a labetalol drip to keep BP less than 140/90 mm Hg."
+        },
+        {
+          "id": "d",
+          "text": "Begin tissue plasminogen activator (tPA) intravenously per protocol."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Because elevated BP may be a protective response to maintain cerebral perfusion, antihypertensive therapy is recommended only if mean arterial pressure (MAP) is greater than 130 mm Hg or systolic pressure is greater than 220 mm Hg. Fluid intake should be 1500 to 2000 mL/day to maintain cerebral blood flow. The head of the bed should be elevated to at least 30 degrees unless the patient has symptoms of poor tissue perfusion. tPA may be administered if the patient meets the other criteria for tPA use."
+    },
+    {
+      "id": "t5-ch62-q8",
+      "question": "A patient arrives in the emergency department with hemiparesis and dysarthria that started 2 hours previously. Health records show a history of several transient ischemic attacks (TIAs). Which interprofessional intervention at would the nurse anticipate for this patient?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Surgical endarterectomy"
+        },
+        {
+          "id": "b",
+          "text": "Transluminal angioplasty"
+        },
+        {
+          "id": "c",
+          "text": "Intravenous heparin drip administration"
+        },
+        {
+          "id": "d",
+          "text": "Tissue plasminogen activator (tPa) infusion"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "The patient’s history and clinical manifestations suggest an acute ischemic stroke, and a patient who is seen within 4.5 hours of stroke onset is likely to receive tPA (after screening with a CT scan). Heparin administration in the emergency phase is not indicated. Emergent carotid transluminal angioplasty or endarterectomy is not indicated for the patient who is having an acute ischemic stroke."
+    },
+    {
+      "id": "t5-ch62-q9",
+      "question": "A female patient who had a stroke 24 hours ago has expressive aphasia. Which intervention would the nurse use to help the patient communicate?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Ask questions that the patient can answer with “yes” or “no.”"
+        },
+        {
+          "id": "b",
+          "text": "Develop a list of words that the patient can read and practice reciting."
+        },
+        {
+          "id": "c",
+          "text": "Have the patient practice her facial and tongue exercises with a mirror."
+        },
+        {
+          "id": "d",
+          "text": "Prevent embarrassing the patient by answering for her if she does not respond."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Communication will be facilitated and less frustrating to the patient when questions that require a “yes” or “no” response are used. When the language areas of the brain are injured, the patient might not be able to read or recite words, which will frustrate the patient without improving communication. Expressive aphasia is caused by damage to the language areas of the brain, not by the areas that control the motor aspects of speech. The nurse should allow time for the patient to respond."
+    },
+    {
+      "id": "t5-ch62-q10",
+      "question": "Which concern would the nurse anticipate for a patient who had a right hemisphere stroke?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Right-sided hemiplegia"
+        },
+        {
+          "id": "b",
+          "text": "Speech-language deficits"
+        },
+        {
+          "id": "c",
+          "text": "Denial of deficits and impulsiveness"
+        },
+        {
+          "id": "d",
+          "text": "Depression and distress about disability"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The patient with right-sided brain damage typically denies any deficits and has poor impulse control, leading to risk for injury when the patient attempts activities such as transferring from a bed to a chair. Right-sided brain damage causes left hemiplegia. Left-sided brain damage typically causes language deficits. Left-sided brain damage is associated with depression and distress about the disability."
+    },
+    {
+      "id": "t5-ch62-q11",
+      "question": "Which intervention would the nurse include in the plan of care for a patient with new right-sided homonymous hemianopsia after a stroke?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Apply an eye patch to the right eye."
+        },
+        {
+          "id": "b",
+          "text": "Approach the patient from the right side."
+        },
+        {
+          "id": "c",
+          "text": "Place needed objects on the patient’s left side."
+        },
+        {
+          "id": "d",
+          "text": "Teach the patient that the left visual deficit will resolve."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "During the acute period, the nurse would place objects on the patient’s unaffected side. Because there is a visual defect in the right half of each eye, an eye patch is not appropriate. The patient would be approached from the left side. The visual deficit may not resolve, although the patient can learn to compensate for the defect."
+    },
+    {
+      "id": "t5-ch62-q12",
+      "question": "A left-handed patient with left-sided hemiplegia has difficulty feeding himself. Which intervention would the nurse include in the plan of care?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Provide a wide variety of food choices."
+        },
+        {
+          "id": "b",
+          "text": "Provide oral care before and after meals."
+        },
+        {
+          "id": "c",
+          "text": "Assist the patient to eat with the right hand."
+        },
+        {
+          "id": "d",
+          "text": "Teach the patient the “chin-tuck” technique."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Because the patient has difficulty feeding himself, the appropriate interventions will focus on teaching the patient to use the right hand for self-feeding. The other interventions are appropriate for patients with other etiologies for the imbalanced nutrition."
+    },
+    {
+      "id": "t5-ch62-q13",
+      "question": "A patient has a ruptured cerebral aneurysm and subarachnoid hemorrhage. Which intervention will the nurse include in the plan of care?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Apply intermittent pneumatic compression stockings."
+        },
+        {
+          "id": "b",
+          "text": "Assist to dangle on edge of bed and assess for dizziness."
+        },
+        {
+          "id": "c",
+          "text": "Encourage patient to cough and deep breathe every 4 hours."
+        },
+        {
+          "id": "d",
+          "text": "Insert an oropharyngeal airway to prevent airway obstruction."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "The patient with a subarachnoid hemorrhage usually has minimal activity to prevent cerebral vasospasm or further bleeding and is at risk for venous thromboembolism. Activities such as coughing and sitting up that might increase intracranial pressure or decrease cerebral blood flow are avoided. Because there is no indication that the patient is unconscious, an oropharyngeal airway is inappropriate."
+    },
+    {
+      "id": "t5-ch62-q14",
+      "question": "A patient will attempt oral feedings for the first time after having a stroke. After assessing the gag reflex, which action would the nurse take?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Order a varied pureed diet."
+        },
+        {
+          "id": "b",
+          "text": "Assess the patient’s appetite."
+        },
+        {
+          "id": "c",
+          "text": "Assist the patient into a chair."
+        },
+        {
+          "id": "d",
+          "text": "Offer the patient a sip of juice."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The patient should be as upright as possible before attempting to feed to make swallowing easier and decrease aspiration risk. To assess swallowing ability, the nurse should initially offer water or ice to the patient. Pureed diets are not recommended because the texture is too smooth. The patient may have a poor appetite, but the oral feeding should be attempted."
+    },
+    {
+      "id": "t5-ch62-q15",
+      "question": "A 70-yr-old female patient with left-sided hemiparesis arrives by ambulance to the emergency department. Which action would the nurse take first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Take the patient’s blood pressure."
+        },
+        {
+          "id": "b",
+          "text": "Check the respiratory rate and effort."
+        },
+        {
+          "id": "c",
+          "text": "Assess the Glasgow Coma Scale score."
+        },
+        {
+          "id": "d",
+          "text": "Send the patient for a computed tomography (CT) scan."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The initial nursing action should be to assess the airway and take any needed actions to ensure a patent airway. The other activities should take place quickly after the ABCs (airway, breathing, and circulation) are completed."
+    },
+    {
+      "id": "t5-ch62-q16",
+      "question": "Several weeks after a stroke, a patient has impaired awareness of bladder fullness, resulting in urinary incontinence. Which intervention would the nurse plan to begin an effective bladder training program?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Limit fluid intake to 1200 mL daily to reduce urine volume."
+        },
+        {
+          "id": "b",
+          "text": "Assist the patient onto the bedside commode every 2 hours."
+        },
+        {
+          "id": "c",
+          "text": "Use an external catheter to protect the skin and prevent embarrassment."
+        },
+        {
+          "id": "d",
+          "text": "Perform intermittent catheterization after each voiding to check for residual urine."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Developing a regular voiding schedule will prevent incontinence and may increase patient awareness of a full bladder. A 1200-mL fluid restriction may lead to dehydration. Intermittent catheterization and use of an external catheter are appropriate in the acute phase of stroke but should not be considered solutions for long-term management because of the risks for urinary tract infection and skin breakdown."
+    },
+    {
+      "id": "t5-ch62-q17",
+      "question": "A patient who has a history of a transient ischemic attack (TIA) has an order for aspirin 160 mg daily. The patient says, “I don’t need the aspirin today. I don’t have a fever.” Which action would the nurse take?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Document that the patient refused the aspirin."
+        },
+        {
+          "id": "b",
+          "text": "Tell the patient that the aspirin is used to prevent a fever."
+        },
+        {
+          "id": "c",
+          "text": "Explain that the aspirin is ordered to decrease stroke risk."
+        },
+        {
+          "id": "d",
+          "text": "Call the health care provider to clarify the medication order."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Aspirin is ordered to prevent stroke in patients who have experienced TIAs. Documentation of the patient’s refusal to take the medication without providing more information is an inadequate response by the nurse. There is no need to clarify the order with the health care provider. The aspirin is not ordered to prevent aches and pains."
+    },
+    {
+      "id": "t5-ch62-q18",
+      "question": "A patient in the clinic reports a recent episode of dysphasia and left-sided weakness at home that resolved after 2 hours. Which medication topic would the nurse anticipate teaching the patient?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "tPA"
+        },
+        {
+          "id": "b",
+          "text": "Aspirin"
+        },
+        {
+          "id": "c",
+          "text": "Warfarin"
+        },
+        {
+          "id": "d",
+          "text": "Nimodipine"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "After a transient ischemic attack, patients typically are started on medications such as aspirin to inhibit platelet function and decrease stroke risk. tPA is used for acute ischemic stroke. Warfarin is usually used for patients with atrial fibrillation. Nimodipine is used to prevent cerebral vasospasm after a subarachnoid hemorrhage."
+    },
+    {
+      "id": "t5-ch62-q19",
+      "question": "A patient with a left-brain stroke suddenly bursts into tears when family members visit. How would the nurse respond?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Use a calm voice to ask the patient to stop the crying behavior."
+        },
+        {
+          "id": "b",
+          "text": "Explain to the family that depression is normal following a stroke."
+        },
+        {
+          "id": "c",
+          "text": "Have the family members leave the patient alone for a few minutes."
+        },
+        {
+          "id": "d",
+          "text": "Teach the family that emotional outbursts are common after strokes."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Patients who have left-sided brain stroke are prone to emotional outbursts that are not necessarily related to the emotional state of the patient. Depression after a stroke is common, but the suddenness of the patient’s outburst suggests that depression is not the major cause of the behavior. The family should stay with the patient. The crying is not within the patient’s control. Asking the patient to stop will lead to embarrassment."
+    },
+    {
+      "id": "t5-ch62-q20",
+      "question": "Which stroke risk factor for a 48-yr-old male patient in the clinic is most important for the nurse to address?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient is 25 pounds above the ideal weight."
+        },
+        {
+          "id": "b",
+          "text": "The patient drinks a glass of red wine with dinner daily."
+        },
+        {
+          "id": "c",
+          "text": "The patient’s usual blood pressure (BP) is 170/94 mm Hg."
+        },
+        {
+          "id": "d",
+          "text": "The patient works at a desk and relaxes by watching television."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Hypertension is the single most important modifiable risk factor. People who drink more than 1 (for women) or 2 (for men) alcoholic beverages a day may increase their risk for stroke. Physical inactivity and obesity contribute to stroke risk but not as much as hypertension."
+    },
+    {
+      "id": "t5-ch62-q21",
+      "question": "A patient in the emergency department with sudden-onset right-sided weakness is diagnosed with an intracerebral hemorrhage. Which information about the patient is most important to communicate to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient’s speech is difficult to understand."
+        },
+        {
+          "id": "b",
+          "text": "The patient’s blood pressure (BP) is 144/90 mm Hg."
+        },
+        {
+          "id": "c",
+          "text": "The patient takes a diuretic because of a history of hypertension."
+        },
+        {
+          "id": "d",
+          "text": "The patient has atrial fibrillation and takes warfarin (Coumadin)."
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "The use of warfarin may have contributed to the intracerebral bleeding and remains a risk factor for further bleeding. Administration of vitamin K is needed to reverse the effects of the warfarin, especially if the patient is to have surgery to correct the bleeding. The history of hypertension is a risk factor for the patient but has no immediate effect on the patient’s care. The BP of 144/90 indicates the need for ongoing monitoring but not for any immediate change in therapy. Slurred speech is consistent with a left-sided stroke, and no change in therapy is indicated."
+    },
+    {
+      "id": "t5-ch62-q22",
+      "question": "A patient with left-sided weakness that began 60 minutes earlier is admitted to the emergency department. Which prescribed diagnostic test would be done first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Complete blood count (CBC)"
+        },
+        {
+          "id": "b",
+          "text": "Chest radiograph (chest x-ray)"
+        },
+        {
+          "id": "c",
+          "text": "Computed tomography (CT) scan"
+        },
+        {
+          "id": "d",
+          "text": "12-Lead electrocardiogram (ECG)"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Rapid screening with a noncontrast CT scan is needed before administration of tissue plasminogen activator (tPA), which must be given within 4.5 hours of the onset of clinical manifestations of the stroke. The sooner the tPA is given, the less brain injury. The other diagnostic tests give information about possible causes of the stroke and do not need to be completed as urgently as the CT scan."
+    },
+    {
+      "id": "t5-ch62-q23",
+      "question": "A patient with a stroke has progressively increasing weakness and decreasing level of consciousness. Which patient problem would the nurse determine has the highest priority for the patient?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Sensory deficit"
+        },
+        {
+          "id": "b",
+          "text": "Risk for aspiration"
+        },
+        {
+          "id": "c",
+          "text": "Musculoskeletal problem"
+        },
+        {
+          "id": "d",
+          "text": "Risk for impaired skin integrity"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Protection of the airway is the priority of nursing care for a patient having an acute stroke. The other diagnoses are also appropriate, but interventions to prevent aspiration are the priority at this time."
+    },
+    {
+      "id": "t5-ch62-q24",
+      "question": "Which information about the patient who had a subarachnoid hemorrhage is most important to communicate to the health care provider?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient reports having a stiff neck."
+        },
+        {
+          "id": "b",
+          "text": "The patient’s blood pressure (BP) is 90/50 mm Hg."
+        },
+        {
+          "id": "c",
+          "text": "The patient reports a severe and unrelenting headache."
+        },
+        {
+          "id": "d",
+          "text": "The cerebrospinal fluid (CSF) report shows red blood cells (RBCs)."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "To prevent cerebral vasospasm and maintain cerebral perfusion, BP needs to be maintained at a level higher than 90 mm Hg systolic after a subarachnoid hemorrhage Oral and IV agents may be used to maintain BP within a normal to high-normal range (SBP less than 160 mm Hg). An ongoing headache, RBCs in the CSF, and a stiff neck are all typical clinical manifestations of a subarachnoid hemorrhage and do not need to be rapidly communicated to the health care provider."
+    },
+    {
+      "id": "t5-ch62-q25",
+      "question": "The nurse is caring for a patient who has been experiencing stroke symptoms for 60 minutes. Which action can the nurse delegate to a licensed practical/vocational nurse (LPN/VN)?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Assess the patient’s gag and cough reflexes."
+        },
+        {
+          "id": "b",
+          "text": "Determine when the stroke symptoms began."
+        },
+        {
+          "id": "c",
+          "text": "Administer the prescribed short-acting insulin."
+        },
+        {
+          "id": "d",
+          "text": "Infuse the prescribed IV metoprolol (Lopressor)."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Administration of subcutaneous medications is included in LPN/VN education and scope of practice. The other actions require more education and scope of practice and should be done by the registered nurse (RN)."
+    },
+    {
+      "id": "t5-ch62-q26",
+      "question": "After receiving change-of-shift report on the following four patients, which patient would the nurse see first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A 60-yr-old patient with right-sided weakness who has an infusion of tPA prescribed"
+        },
+        {
+          "id": "b",
+          "text": "A 50-yr-old patient who has atrial fibrillation and a new order for warfarin (Coumadin)"
+        },
+        {
+          "id": "c",
+          "text": "A 30-yr-old patient with a subarachnoid hemorrhage 2 days ago who has nimodipine scheduled"
+        },
+        {
+          "id": "d",
+          "text": "A 40-yr-old patient who had a transient ischemic attack yesterday and has a dose of aspirin due"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "tPA needs to be infused within the first few hours after stroke symptoms start to be effective in minimizing brain injury. The other medications should also be given as quickly as possible, but timing of the medications is not as critical."
+    },
+    {
+      "id": "t5-ch62-q27",
+      "question": "The nurse is caring for a patient who has just returned after having left carotid artery angioplasty and stenting. Which assessment information is of most concern to the nurse?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The pulse rate is 102 beats/min."
+        },
+        {
+          "id": "b",
+          "text": "The patient has difficulty speaking."
+        },
+        {
+          "id": "c",
+          "text": "The blood pressure is 144/86 mm Hg."
+        },
+        {
+          "id": "d",
+          "text": "There are fine crackles at the lung bases."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Small emboli can occur during carotid artery angioplasty and stenting, and the aphasia indicates a possible stroke during the procedure. Slightly elevated pulse rate and blood pressure are not unusual because of anxiety associated with the procedure. Fine crackles at the lung bases may indicate atelectasis caused by immobility during the procedure."
+    },
+    {
+      "id": "t5-ch62-q28",
+      "question": "The home health nurse is caring for an 81-yr-old patient who had a stroke 2 months ago. Based on patient information shown in the accompanying figure, which action would the nurse take?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Teach about preventing hypoglycemia."
+        },
+        {
+          "id": "b",
+          "text": "Begin processes to obtain a wheelchair."
+        },
+        {
+          "id": "c",
+          "text": "Provide support to the spouse caregiver."
+        },
+        {
+          "id": "d",
+          "text": "Remind the patient to take prescribed medications."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The spouse’s household and patient care responsibilities, in combination with chronic illnesses, indicate a high risk for caregiver role strain. The nurse should take appropriate actions to provide support to the spouse caregiver. The data about the control of the patient’s diabetes indicates that hypoglycemia and medication adherence are not a current concern.",
+      "image": "images/test5/ch62-q28-info.png"
+    },
+    {
+      "id": "t5-ch65-q1",
+      "question": "Which information would the nurse seek from a patient with newly diagnosed trigeminal neuralgia?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Visual problems caused by ptosis"
+        },
+        {
+          "id": "b",
+          "text": "Poor appetite caused by loss of taste"
+        },
+        {
+          "id": "c",
+          "text": "Triggers leading to facial discomfort"
+        },
+        {
+          "id": "d",
+          "text": "Weakness on the affected side of the face"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The major clinical manifestation of trigeminal neuralgia is severe facial pain triggered by cutaneous stimulation of the nerve. Ptosis, loss of taste, and facial weakness are not characteristics of trigeminal neuralgia."
+    },
+    {
+      "id": "t5-ch65-q2",
+      "question": "Which patient assessment would help the nurse identify potential complications of trigeminal neuralgia?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Asking the patient to clench the jaws"
+        },
+        {
+          "id": "b",
+          "text": "Inspecting the oral mucosa and teeth"
+        },
+        {
+          "id": "c",
+          "text": "Lightly touching the affected side of the face"
+        },
+        {
+          "id": "d",
+          "text": "Comparing facial skin temperature bilaterally"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Oral hygiene is frequently neglected because of fear of triggering facial pain and may lead to gum disease, dental caries, or an abscess. Having the patient clench the facial muscles will not be useful because the sensory branches (rather than motor branches) of the nerve are affected by trigeminal neuralgia. Light touch and palpation for temperature may be triggers for pain and should be avoided."
+    },
+    {
+      "id": "t5-ch65-q3",
+      "question": "Which action would the nurse include in the plan of care for a patient who is experiencing pain from trigeminal neuralgia?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Assess fluid and dietary intake."
+        },
+        {
+          "id": "b",
+          "text": "Apply ice packs for 20 minutes."
+        },
+        {
+          "id": "c",
+          "text": "Teach facial relaxation techniques."
+        },
+        {
+          "id": "d",
+          "text": "Spend time talking with the patient."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "The patient with an acute episode of trigeminal neuralgia may be unwilling to eat or drink, so assessment of nutritional and hydration status is important. Because stimulation by touch is the precipitating factor for pain, relaxation of the facial muscles will not improve symptoms. Application of ice is likely to precipitate pain. The patient will not want to engage in conversation, which may precipitate attacks."
+    },
+    {
+      "id": "t5-ch65-q4",
+      "question": "The nurse identifies a patient with type 1 diabetes and a history of herpes simplex infection as being at risk for Bell’s palsy. Which information would the nurse include in teaching the patient?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "“You may be able to prevent Bell’s palsy by doing facial exercises regularly.”"
+        },
+        {
+          "id": "b",
+          "text": "“Prophylactic treatment of herpes with antiviral agents prevents Bell’s palsy.”"
+        },
+        {
+          "id": "c",
+          "text": "“Medications to treat Bell’s palsy work only if started before paralysis onset.”"
+        },
+        {
+          "id": "d",
+          "text": "“Call the HCP promptly if you have pain near the ear or facial muscle weakness.”"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Pain near the ear and facial muscle weakness may indicate the onset of Bell’s palsy, and rapid corticosteroid treatment may reduce the duration of symptoms. Antiviral therapy for herpes simplex does not reduce the risk for Bell’s palsy. Corticosteroid therapy will be most effective in reducing symptoms if started before paralysis is complete but will still be somewhat effective when started later. Facial exercises do not prevent Bell’s palsy."
+    },
+    {
+      "id": "t5-ch65-q5",
+      "question": "A patient with Bell’s palsy refuses to eat while others are present because of embarrassment about drooling. Which action would directly address the patient’s concerns?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Respect the patient’s feelings and arrange for privacy at mealtimes."
+        },
+        {
+          "id": "b",
+          "text": "Teach the patient to chew food on the unaffected side of the mouth."
+        },
+        {
+          "id": "c",
+          "text": "Offer the patient liquid nutritional supplements at frequent intervals."
+        },
+        {
+          "id": "d",
+          "text": "Discuss the patient’s concerns with visitors who arrive at mealtimes."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "The patient’s desire for privacy would be respected to encourage adequate nutrition and reduce patient embarrassment. Liquid supplements may help maintain nutrition but will reduce the patient’s enjoyment of the taste of food. It would be inappropriate for the nurse to discuss the patient’s embarrassment with visitors unless the patient wishes to share this information. Chewing on the unaffected side of the mouth will enhance nutrition and enjoyment of food but will not decrease the drooling."
+    },
+    {
+      "id": "t5-ch65-q6",
+      "question": "To prevent autonomic dysreflexia, which nursing action would the home health nurse include in the plan of care for a patient who has paraplegia at the T4 level?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Support selection of a high-protein diet."
+        },
+        {
+          "id": "b",
+          "text": "Discuss options for sexuality and fertility."
+        },
+        {
+          "id": "c",
+          "text": "Assist to plan a prescribed bowel program."
+        },
+        {
+          "id": "d",
+          "text": "Use quad coughing to strengthen cough efforts."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Fecal impaction is a common stimulus for autonomic hyperreflexia. Dietary protein, coughing, and discussing sexuality and fertility should be included in the plan of care but will not reduce the risk for autonomic hyperreflexia."
+    },
+    {
+      "id": "t5-ch65-q7",
+      "question": "Which assessment data for a patient who has Guillain-Barré syndrome requires the nurse’s most immediate action?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient’s sacral area skin is reddened."
+        },
+        {
+          "id": "b",
+          "text": "The patient reports severe pain in the feet."
+        },
+        {
+          "id": "c",
+          "text": "The patient is continuously drooling saliva."
+        },
+        {
+          "id": "d",
+          "text": "The patient’s blood pressure (BP) is 150/82 mm Hg."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Drooling indicates decreased ability to swallow, which places the patient at risk for aspiration and requires rapid nursing and collaborative actions such as suctioning and possible endotracheal intubation. The foot pain should be treated with appropriate analgesics, the BP requires ongoing monitoring, and the skin integrity requires intervention, but these actions are not as urgently needed as maintenance of respiratory function."
+    },
+    {
+      "id": "t5-ch65-q8",
+      "question": "A patient hospitalized with a new diagnosis of Guillain-Barré syndrome has numbness and weakness of both feet. Which intervention would the nurse anticipate?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Infusion of immunoglobulin"
+        },
+        {
+          "id": "b",
+          "text": "Administration of corticosteroids"
+        },
+        {
+          "id": "c",
+          "text": "Intubation and mechanical ventilation"
+        },
+        {
+          "id": "d",
+          "text": "Insertion of a nasogastric (NG) feeding tube"
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "When Guillain-Barré syndrome is in the earliest stages (as evidenced by the symptoms), use of high-dose immunoglobulin is appropriate to reduce the extent and length of symptoms. Mechanical ventilation and enteral nutrition may be used later in the progression of the syndrome but are not needed now. Corticosteroids are not helpful in reducing the duration or symptoms of the syndrome."
+    },
+    {
+      "id": "t5-ch65-q9",
+      "question": "A construction worker arrives at an urgent care center with a deep puncture wound from a rusty nail. The patient reports having had a tetanus booster 6 years ago. Which intervention would the nurse anticipate?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "IV infusion of tetanus immune globulin (TIG)"
+        },
+        {
+          "id": "b",
+          "text": "Administration of the tetanus-diphtheria (Td) booster"
+        },
+        {
+          "id": "c",
+          "text": "Intradermal injection of an immune globulin test dose"
+        },
+        {
+          "id": "d",
+          "text": "Initiation of the tetanus-diphtheria immunization series"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "If the patient has not been immunized in the past 5 years, administration of the Td booster is indicated because the wound is deep. TIG would be indicated if the patient had a tetanus infection. A test dose is not needed for immune globulin. Administration of a series of immunizations is not indicated."
+    },
+    {
+      "id": "t5-ch65-q10",
+      "question": "The nurse is admitting a patient who has a neck fracture at the C6 level to the intensive care unit. Which findings on the nursing assessment would indicate neurogenic shock?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Involuntary and spastic movement"
+        },
+        {
+          "id": "b",
+          "text": "Hypotension and warm extremities"
+        },
+        {
+          "id": "c",
+          "text": "Hyperactive reflexes below the injury"
+        },
+        {
+          "id": "d",
+          "text": "Lack of sensation or movement below the injury"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Neurogenic shock is characterized by hypotension, bradycardia, and vasodilation leading to warm skin temperature. Spasticity and hyperactive reflexes do not occur at this stage of spinal cord injury. Lack of movement and sensation indicate spinal cord injury but not neurogenic shock."
+    },
+    {
+      "id": "t5-ch65-q11",
+      "question": "A patient has an incomplete left spinal cord lesion at the level of T7, resulting in Brown-Séquard syndrome. Which action would the nurse include in the plan of care?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Assessment of the patient for right arm weakness"
+        },
+        {
+          "id": "b",
+          "text": "Assessment of the patient for increased right leg pain"
+        },
+        {
+          "id": "c",
+          "text": "Positioning the patient’s left leg when turning the patient"
+        },
+        {
+          "id": "d",
+          "text": "Teaching the patient to verify the position of the right leg"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The patient with Brown-Séquard syndrome has loss of motor function on the ipsilateral side and will require the nurse to move the left leg. Pain sensation will be lost in the patient’s right leg. Arm weakness will not be a problem for a patient with a T7 injury. The patient will retain position sense for the right leg."
+    },
+    {
+      "id": "t5-ch65-q12",
+      "question": "Which information would the nurse explain to the patient who has a T2 spinal cord transection injury?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Use of the shoulders will be limited."
+        },
+        {
+          "id": "b",
+          "text": "Function of both arms would be preserved."
+        },
+        {
+          "id": "c",
+          "text": "Total loss of respiratory function may occur."
+        },
+        {
+          "id": "d",
+          "text": "Tachycardia is common with this type of injury."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The patient with a T2 injury can expect to retain full motor and sensory function of the arms. Use of only the shoulders is associated with cervical spine injury. Loss of respiratory function occurs with cervical spine injuries. Bradycardia is associated with injuries above the T6 level."
+    },
+    {
+      "id": "t5-ch65-q13",
+      "question": "A patient with paraplegia resulting from a T9 spinal cord injury has a neurogenic spastic bladder. Which action would the nurse include in the plan of care?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Teach the patient to use the Credé method."
+        },
+        {
+          "id": "b",
+          "text": "Instruct the patient how to self-catheterize."
+        },
+        {
+          "id": "c",
+          "text": "Catheterize for residual urine after voiding."
+        },
+        {
+          "id": "d",
+          "text": "Assist the patient to the toilet every 2 hours."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Because the patient’s bladder is spastic and will empty in response to overstretching of the bladder wall, the most appropriate method is to avoid incontinence by emptying the bladder at regular intervals through intermittent catheterization. Assisting the patient to the toilet will not be helpful because the bladder will not empty. The Credé method is more appropriate for a bladder that is flaccid, such as occurs with areflexic neurogenic bladder. Catheterization after voiding will not resolve the patient’s incontinence."
+    },
+    {
+      "id": "t5-ch65-q14",
+      "question": "Which goal would the nurse include in a rehabilitation plan for a 30-yr-old patient with a C6 spinal cord injury?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Drive a car with powered hand controls."
+        },
+        {
+          "id": "b",
+          "text": "Propel a manual wheelchair on a flat surface."
+        },
+        {
+          "id": "c",
+          "text": "Turn and reposition independently when in bed."
+        },
+        {
+          "id": "d",
+          "text": "Transfer independently to and from a wheelchair."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The patient with a C6 injury will be able to use the hands to push a wheelchair on flat, smooth surfaces. Because flexion of the thumb and fingers is minimal, the patient will not be able to grasp a wheelchair during transfer, drive a car with powered hand controls, or turn independently in bed."
+    },
+    {
+      "id": "t5-ch65-q15",
+      "question": "A 20-yr-old patient who sustained a T2 spinal cord injury 10 days ago tells the nurse, “I want to be transferred to a hospital where the nurses know what they are doing.” Which action would the nurse take?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Perform care without responding to the comments."
+        },
+        {
+          "id": "b",
+          "text": "Ask the patient to provide input for the plan of care."
+        },
+        {
+          "id": "c",
+          "text": "Tell the patient abusive language will not be tolerated."
+        },
+        {
+          "id": "d",
+          "text": "Reassure the patient about the competence of the nursing staff."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The patient is demonstrating behaviors consistent with the anger phase of the grief process. The nurse would allow expression of anger and seek the patient’s input into care. Expression of anger is appropriate at this stage and would be accepted by the nurse. Further exploration and referral about the possibility of transfer can be discussed as well. Reassurance about the competency of the staff will not be helpful in addressing the patient’s concerns. Ignoring the patient’s comments will increase the patient’s anger and sense of helplessness."
+    },
+    {
+      "id": "t5-ch65-q16",
+      "question": "A 38-yr-old patient who has had a spinal cord injury returned home following a stay in a rehabilitation facility. The home care nurse notes the spouse is performing many of the activities that the patient had been managing unassisted during rehabilitation. Which nursing action would best match the goals for this phase of rehabilitation?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Remind the patient about the importance of independence in daily activities."
+        },
+        {
+          "id": "b",
+          "text": "Tell the spouse to stop helping because the patient can perform activities independently."
+        },
+        {
+          "id": "c",
+          "text": "Develop a plan to increase the patient’s independence in consultation with the patient and the spouse."
+        },
+        {
+          "id": "d",
+          "text": "Recognize that it is important for the spouse to be involved in the patient’s care and encourage participation."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The best action by the nurse will be to involve all parties in developing an optimal plan of care. Because family members who will be assisting with the patient’s ongoing care need to believe their input is important, telling the spouse that the patient can perform activities independently is not the best choice. Reminding the patient about the importance of independence may not change the behaviors of the spouse. Supporting the activities of the spouse will lead to ongoing dependency by the patient."
+    },
+    {
+      "id": "t5-ch65-q17",
+      "question": "Which action would the nurse recognize has the highest priority for a patient who was admitted 16 hours earlier with a C5 spinal cord injury?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Cardiac monitoring for bradycardia"
+        },
+        {
+          "id": "b",
+          "text": "Assessment of respiratory rate and effort"
+        },
+        {
+          "id": "c",
+          "text": "Administration of low-molecular-weight heparin"
+        },
+        {
+          "id": "d",
+          "text": "Application of pneumatic compression devices to legs"
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "Edema around the area of injury may lead to damage above the C4 level, so the highest priority is assessment of the patient’s respiratory function. The other actions also are appropriate for preventing deterioration or complications but are not as important as assessment of respiratory effort."
+    },
+    {
+      "id": "t5-ch65-q18",
+      "question": "A patient is hospitalized with new onset of Guillain-Barré syndrome. Which assessment would the nurse recognize as the most essential to complete?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Determining level of consciousness"
+        },
+        {
+          "id": "b",
+          "text": "Checking strength of the extremities"
+        },
+        {
+          "id": "c",
+          "text": "Observing respiratory rate and effort"
+        },
+        {
+          "id": "d",
+          "text": "Monitoring the cardiac rate and rhythm"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The most serious complication of Guillain-Barré syndrome is respiratory failure, and the nurse should monitor respiratory function continuously. The other assessments will be included in nursing care, but they are not as important as respiratory assessment."
+    },
+    {
+      "id": "t5-ch65-q19",
+      "question": "A patient who had a C7 spinal cord injury 1 week ago has a weak cough effort and crackles. Which initial intervention would the nurse perform?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Suction the patient’s nasopharynx."
+        },
+        {
+          "id": "b",
+          "text": "Notify the patient’s health care provider."
+        },
+        {
+          "id": "c",
+          "text": "Push upward on the epigastric area as the patient coughs."
+        },
+        {
+          "id": "d",
+          "text": "Encourage incentive spirometry every 2 hours during the day."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Because the cough effort is poor, the initial action should be to use assisted coughing techniques to improve the patient’s ability to mobilize secretions. The use of the spirometer may improve respiratory status, but the patient’s ability to take deep breaths is limited by the loss of intercostal muscle function. Suctioning may be needed if the patient is unable to expel secretions by coughing but should not be the nurse’s first action. The health care provider should be notified if airway clearance interventions are not effective or additional collaborative interventions are needed."
+    },
+    {
+      "id": "t5-ch65-q20",
+      "question": "A patient with a history of T3 spinal cord injury is admitted with dermal ulcers. The patient tells the nurse, “I have a pounding headache and I feel sick to my stomach.” Which action would the nurse take first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Check for a fecal impaction."
+        },
+        {
+          "id": "b",
+          "text": "Give the prescribed antiemetic."
+        },
+        {
+          "id": "c",
+          "text": "Assess the blood pressure (BP)."
+        },
+        {
+          "id": "d",
+          "text": "Notify the health care provider."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The BP should be assessed immediately when a patient with an injury at the T6 level or higher reports a headache. This will help determine if autonomic hyperreflexia is occurring. Notification of the patient’s health care provider is appropriate after the BP is obtained. Administration of an antiemetic is indicated if autonomic dysreflexia is ruled out as the cause of the nausea. After checking the BP, the nurse may assess for a fecal impaction using lidocaine jelly to prevent further increased BP."
+    },
+    {
+      "id": "t5-ch65-q21",
+      "question": "A patient is being evaluated for a possible spinal cord tumor. Which finding would the nurse recognize as requiring the most immediate action?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The patient reports chronic severe back pain."
+        },
+        {
+          "id": "b",
+          "text": "The patient has new-onset weakness of both legs."
+        },
+        {
+          "id": "c",
+          "text": "The patient starts to cry and says, “I feel hopeless.”"
+        },
+        {
+          "id": "d",
+          "text": "The patient expresses anxiety about having surgery."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "The new symptoms indicate spinal cord compression, an emergency that requires rapid treatment to avoid permanent loss of function. The other patient assessments also need nursing action but do not require intervention as rapidly as the new-onset weakness."
+    },
+    {
+      "id": "t5-ch65-q22",
+      "question": "Which nursing action for a patient with Guillain-Barré syndrome would the nurse identify as appropriate to delegate to experienced assistive personnel (AP)?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Instilling artificial tears"
+        },
+        {
+          "id": "b",
+          "text": "Assessing for bladder distention"
+        },
+        {
+          "id": "c",
+          "text": "Administering bolus enteral nutrition"
+        },
+        {
+          "id": "d",
+          "text": "Performing range of motion to extremities"
+        }
+      ],
+      "correct": [
+        "d"
+      ],
+      "rationale": "Assisting a patient with movement is included in AP education and scope of practice. Administration of enteral nutrition, administration of ordered medications, and assessment are skills requiring more education and expanded scope of practice, and the RN should perform these skills."
+    },
+    {
+      "id": "t5-ch65-q23",
+      "question": "Which action would the nurse take when caring for a patient who develops tetanus from injectable substance use?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Avoid use of sedatives."
+        },
+        {
+          "id": "b",
+          "text": "Provide a quiet environment."
+        },
+        {
+          "id": "c",
+          "text": "Provide range-of-motion exercises daily."
+        },
+        {
+          "id": "d",
+          "text": "Check pupil reaction to light every 4 hours."
+        }
+      ],
+      "correct": [
+        "b"
+      ],
+      "rationale": "In patients with tetanus, jarring, loud noises or bright lights can precipitate painful seizures. The nurse will minimize noise and avoid shining light into the patient’s eyes. Range-of-motion exercises may also stimulate the patient and cause seizures. Although the patient has a history of injectable drug use, sedative medications will be needed to decrease spasms."
+    },
+    {
+      "id": "t5-ch65-q24",
+      "question": "Which action would the nurse include in the plan of care for a patient who has cauda equina syndrome after a spinal cord injury?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Catheterize patient every 3 to 4 hours."
+        },
+        {
+          "id": "b",
+          "text": "Assist patient to ambulate 4 times daily."
+        },
+        {
+          "id": "c",
+          "text": "Administer medications to reduce bladder spasm."
+        },
+        {
+          "id": "d",
+          "text": "Stabilize the neck when repositioning the patient."
+        }
+      ],
+      "correct": [
+        "a"
+      ],
+      "rationale": "Patients with cauda equina syndrome have areflexic bladder, and intermittent catheterization will be used for emptying the bladder. Because the bladder is flaccid, antispasmodic medications will not be used. The legs are flaccid with cauda equina syndrome, and the patient will be unable to ambulate. The neck will not need to be stabilized after a cauda equina injury, which affects the lumbar and sacral nerve roots."
+    },
+    {
+      "id": "t5-ch65-q25",
+      "question": "After change-of-shift report on the neurology unit, which patient would the nurse assess first?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Patient with Bell’s palsy who has herpes vesicles in front of the ear."
+        },
+        {
+          "id": "b",
+          "text": "Patient with neurosyphilis who has tabes dorsalis and decreased deep tendon reflexes."
+        },
+        {
+          "id": "c",
+          "text": "Patient with Guillain-Barré syndrome who is drooling and having difficulty swallowing."
+        },
+        {
+          "id": "d",
+          "text": "Patient with an abscess caused by injectable drug use who needs tetanus immune globulin."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "The patient with Guillain-Barré syndrome who has drooling and difficulty swallowing indicates that the nurse would rapidly assess for respiratory distress. The information about the other patients is consistent with their diagnoses and does not indicate any immediate need for assessment or intervention."
+    },
+    {
+      "id": "t5-ch65-q26",
+      "question": "Which assessment finding in a patient with a spinal cord tumor requires the most urgent action by the nurse?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Depression about the diagnosis"
+        },
+        {
+          "id": "b",
+          "text": "Anxiety about scheduled surgery"
+        },
+        {
+          "id": "c",
+          "text": "Decreased ability to move the legs"
+        },
+        {
+          "id": "d",
+          "text": "Back pain that worsens with coughing"
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Decreasing sensation and leg movement indicates spinal cord compression, an emergency that will requires urgently notifying the health care provider and rapid action (such as surgery) to prevent paralysis. The other findings will require nursing action but are not emergencies."
+    },
+    {
+      "id": "t5-ch65-q27",
+      "question": "A patient with a T4 spinal cord injury asks the nurse if he will be able to be sexually active. Which information would the nurse include in an initial response?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Reflex erections frequently occur, but orgasm may not be possible."
+        },
+        {
+          "id": "b",
+          "text": "Sildenafil (Viagra) is used by many patients with spinal cord injury."
+        },
+        {
+          "id": "c",
+          "text": "Multiple options are available to maintain sexuality after spinal cord injury."
+        },
+        {
+          "id": "d",
+          "text": "Penile injection, prostheses, or vacuum suction devices are possible options."
+        }
+      ],
+      "correct": [
+        "c"
+      ],
+      "rationale": "Although sexuality will be changed by the patient’s spinal cord injury, there are options for expression of sexuality and for fertility. The other information also is correct, but the choices will depend on the degrees of injury and the patient’s individual feelings about sexuality."
+    },
+    {
+      "id": "t5-ch65-ma1",
+      "question": "Which collaborative and nursing actions would the nurse include in the plan of care for a patient who experienced a T2 spinal cord transection 24 hours ago? (Select all that apply.)",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Urinary catheter care"
+        },
+        {
+          "id": "b",
+          "text": "Nasogastric (NG) tube feeding"
+        },
+        {
+          "id": "c",
+          "text": "Continuous cardiac monitoring"
+        },
+        {
+          "id": "d",
+          "text": "Administration of H2 receptor blockers"
+        },
+        {
+          "id": "e",
+          "text": "Maintenance of a warm room temperature"
+        }
+      ],
+      "correct": [
+        "a",
+        "c",
+        "d",
+        "e"
+      ],
+      "rationale": "The patient is at risk for bradycardia and poikilothermia caused by sympathetic nervous system dysfunction and should have continuous cardiac monitoring and maintenance of a relatively warm room temperature. To avoid bladder distention, a urinary retention catheter is used during this acute phase. Stress ulcers are a common complication but can be avoided through the use of the H2 receptor blockers. Gastrointestinal motility is decreased initially, and NG suctioning is indicated."
+    },
+    {
+      "id": "t5-ch65-fill1",
+      "question": "A patient with neurogenic shock after a spinal cord injury is to receive lactated Ringer’s solution 400 mL over 20 minutes. When setting the IV pump to deliver the IV fluid, the nurse would set the rate at how many milliliters per hour?",
+      "type": "text",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "Your answer (mL/hr)",
+          "accepted": [
+            "1200"
+          ],
+          "numeric": true
+        }
+      ],
+      "rationale": "To administer 400 mL in 20 minutes, the nurse will need to set the pump to run at 1200 mL/hr."
+    }
+  ]
+}
